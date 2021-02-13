@@ -1,0 +1,69 @@
+---
+title: Home
+author:
+output:
+ html_document:
+  toc: true
+  toc_depth: 6  				# upto three depths of headings (specified by #, ## and ###)
+  number_sections: false 	# if you want number sections at each table header
+  theme: default  		# default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
+  highlight: tango  		# specifies the syntax highlighting style
+urlcolor: gray
+citecolor: gray
+---
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 150)
+```
+
+```{r setup, include = F}
+knitr::opts_chunk$set(echo = T)
+```
+
+<style type="text/css"> /* This sets the overall width of the HTML page */
+.main-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+};
+p {line-height: 4em;}
+</style>
+
+
+
+
+<hr>
+
+<img src="P001.jpeg" height="400"> <img src="P002.jpeg" height="400"> <img src="P004.jpeg" height="400"> 
+<img src="P003.jpeg" height="400">    
+
+
+
+
+
+<hr><br>
+
+```{r, eval = F, include = F}
+	# Create Rmd html result
+	rm(list=ls())
+	dir = "/Users/nsanyal/Dropbox/My Passport I/Documents/GitHub/swami-vivekananda-quotes-authentic.github.io"
+	setwd(dir)
+	library(rmarkdown)
+	render( input="index.Rmd" )
+```
+
+
+
+<!-- 
+convert P001.jpeg -resize 20% P001.jpeg
+convert P002.jpeg -resize 20% P002.jpeg
+convert P003.jpeg -resize 20% P003.jpeg
+convert P004.jpeg -resize 20% P004.jpeg
+
+ -->
+
+
+
+
+
+

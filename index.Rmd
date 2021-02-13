@@ -1,0 +1,163 @@
+---
+title: Swami Vivekananda Quotes (Authentic)
+output:
+ html_document:
+  toc: true
+  toc_depth: 6  				# upto three depths of headings (specified by #, ## and ###)
+  number_sections: false 	# if you want number sections at each table header
+  theme: default  		# default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
+  highlight: tango  		# specifies the syntax highlighting style
+urlcolor: gray
+citecolor: gray
+---
+
+<hr> 
+
+- The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. They will be randomly arranged every time you refresh the page. To download an image, right click and then 'save image'. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="_blank"}.
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 150)
+```
+
+```{r setup, include = F}
+knitr::opts_chunk$set(echo = T)
+```
+
+<style type="text/css"> /* This sets the overall width of the HTML page */
+.main-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+};
+p {line-height: 4em;}
+</style>
+
+
+
+<hr>
+
+
+<!-- From this page http://www.javascriptkit.com/javatutors/randomorder.shtml -->
+
+```{js, echo=F}
+var contents=new Array()
+//width is set as 360 because 3 pics in a row makes 1180, and the html page width is set as 1200.
+contents[0]='<img border="1" src="P001.jpeg" width="355">'
+contents[1]='<img border="1" src="P002.jpeg" width="355">'
+contents[2]='<img border="1" src="P003.jpeg" width="355">'
+contents[3]='<img border="1" src="P004.jpeg" width="355">'
+contents[4]='<img border="1" src="P005.jpeg" width="355">'
+contents[5]='<img border="1" src="P006.jpeg" width="355">'
+contents[6]='<img border="1" src="P007.jpeg" width="355">'
+contents[7]='<img border="1" src="P008.jpeg" width="355">'
+contents[8]='<img border="1" src="P009.jpeg" width="355">'
+contents[9]='<img border="1" src="P010.jpeg" width="355">'
+contents[10]='<img border="1" src="P011.jpeg" width="355">'
+contents[11]='<img border="1" src="P012.jpeg" width="355">'
+contents[12]='<img border="1" src="P013.jpeg" width="355">'
+contents[13]='<img border="1" src="P014.jpeg" width="355">'
+contents[14]='<img border="1" src="P015.jpeg" width="355">'
+contents[15]='<img border="1" src="P016.jpeg" width="355">'
+contents[16]='<img border="1" src="P017.jpeg" width="355">'
+contents[17]='<img border="1" src="P018.jpeg" width="355">'
+contents[18]='<img border="1" src="P019.jpeg" width="355">'
+contents[19]='<img border="1" src="P020.jpeg" width="355">'
+contents[20]='<img border="1" src="P021.jpeg" width="355">'
+contents[21]='<img border="1" src="P022.jpeg" width="355">'
+contents[22]='<img border="1" src="P023.jpeg" width="355">'
+contents[23]='<img border="1" src="P024.jpeg" width="355">'
+contents[24]='<img border="1" src="P025.jpeg" width="355">'
+contents[25]='<img border="1" src="P026.jpeg" width="355">'
+contents[26]='<img border="1" src="P027.jpeg" width="355">'
+contents[27]='<img border="1" src="P028.jpeg" width="355">'
+contents[28]='<img border="1" src="P029.jpeg" width="355">'
+contents[29]='<img border="1" src="P030.jpeg" width="355">'
+contents[30]='<img border="1" src="P031.jpeg" width="355">'
+contents[31]='<img border="1" src="P032.jpeg" width="355">'
+contents[32]='<img border="1" src="P033.jpeg" width="355">'
+contents[33]='<img border="1" src="P034.jpeg" width="355">'
+contents[34]='<img border="1" src="P035.jpeg" width="355">'
+contents[35]='<img border="1" src="P036.jpeg" width="355">'
+contents[36]='<img border="1" src="P037.jpeg" width="355">'
+contents[37]='<img border="1" src="P038.jpeg" width="355">'
+contents[38]='<img border="1" src="P039.jpeg" width="355">'
+contents[39]='<img border="1" src="P040.jpeg" width="355">'
+contents[40]='<img border="1" src="P041.jpeg" width="355">'
+contents[41]='<img border="1" src="P042.jpeg" width="355">'
+contents[42]='<img border="1" src="P043.jpeg" width="355">'
+contents[43]='<img border="1" src="P044.jpeg" width="355">'
+contents[44]='<img border="1" src="P045.jpeg" width="355">'
+contents[45]='<img border="1" src="P046.jpeg" width="355">'
+contents[46]='<img border="1" src="P047.jpeg" width="355">'
+contents[47]='<img border="1" src="P048.jpeg" width="355">'
+contents[48]='<img border="1" src="P049.jpeg" width="355">'
+contents[49]='<img border="1" src="P050.jpeg" width="355">'
+contents[50]='<img border="1" src="P051.jpeg" width="355">'
+contents[51]='<img border="1" src="P052.jpeg" width="355">'
+contents[52]='<img border="1" src="P053.jpeg" width="355">'
+contents[53]='<img border="1" src="P054.jpeg" width="355">'
+contents[54]='<img border="1" src="P055.jpeg" width="355">'
+contents[55]='<img border="1" src="P056.jpeg" width="355">'
+contents[56]='<img border="1" src="P057.jpeg" width="355">'
+contents[57]='<img border="1" src="P058.jpeg" width="355">'
+contents[58]='<img border="1" src="P059.jpeg" width="355">'
+contents[59]='<img border="1" src="P060.jpeg" width="355">'
+contents[60]='<img border="1" src="P061.jpeg" width="355">'
+```
+
+```{js, echo=F}
+var i=0
+//variable used to contain controlled random number 
+var random
+var spacing="<br>"
+//while all of array elements haven't been cycled thru
+while (i<contents.length){
+    //generate random num between 0 and arraylength-1
+    random=Math.floor(Math.random()*contents.length)
+    //if element hasn't been marked as "selected"
+    if (contents[random]!="selected"){
+        document.write(contents[random]+'&nbsp;')
+        //mark element as selected
+        contents[random]="selected"
+        i++
+    }
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+<hr><br>
+
+```{r, eval = F, include = F}
+	# Create Rmd html result
+	rm(list=ls())
+	dir = "/Users/nsanyal/Dropbox/My Passport I/Documents/GitHub/swami-vivekananda-quotes-authentic.github.io"
+	setwd(dir)
+	library(rmarkdown)
+	render( input="index.Rmd" )
+```
+
+
+
+<!-- 
+convert P001.jpeg -resize 20% P001.jpeg
+convert P002.jpeg -resize 20% P002.jpeg
+convert P003.jpeg -resize 20% P003.jpeg
+convert P004.jpeg -resize 20% P004.jpeg
+
+ -->
+
+
+
+
+
+
