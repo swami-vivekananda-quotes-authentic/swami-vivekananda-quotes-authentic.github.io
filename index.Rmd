@@ -11,11 +11,14 @@ urlcolor: gray
 citecolor: gray
 ---
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="hHGxYfqC"></script>
+
 <hr> 
 
 - The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. They will be randomly arranged every time you refresh the page. To download an image, right click and then 'save image'. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="_blank"}.
 
-<div align="right"> Join our [<img border="1" src="Facebook_icon.png" width="25">](https://www.facebook.com/Swami-Vivekananda-Quotes-Authentic-104968054944575){target="_blank} group for<br> regular new quotes</div>
+<div align="right" class="fb-page" data-href="https://www.facebook.com/Swami-Vivekananda-Quotes-Authentic-104968054944575" data-tabs="timeline" data-width="240" data-height="70" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Swami-Vivekananda-Quotes-Authentic-104968054944575" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Swami-Vivekananda-Quotes-Authentic-104968054944575">Swami Vivekananda Quotes - Authentic</a></blockquote></div>
 
 ```{r set-options, echo=FALSE, cache=FALSE}
 options(width = 150)
