@@ -118,6 +118,15 @@ contents[63]='<img border="1" src="P064.jpeg" width="355">'
 contents[64]='<img border="1" src="P065.jpeg" width="355">'
 contents[65]='<img border="1" src="P066.jpeg" width="355">'
 contents[66]='<img border="1" src="P067.jpeg" width="355">'
+contents[67]='<img border="1" src="P068.jpeg" width="355">'
+contents[68]='<img border="1" src="P069.jpeg" width="355">'
+contents[69]='<img border="1" src="P070.jpeg" width="355">'
+contents[71]='<img border="1" src="P071.jpeg" width="355">'
+contents[71]='<img border="1" src="P072.jpeg" width="355">'
+contents[72]='<img border="1" src="P073.jpeg" width="355">'
+contents[73]='<img border="1" src="P074.jpeg" width="355">'
+contents[74]='<img border="1" src="P075.jpeg" width="355">'
+contents[75]='<img border="1" src="P076.jpeg" width="355">'
 ```
 
 ```{js, echo=F}
