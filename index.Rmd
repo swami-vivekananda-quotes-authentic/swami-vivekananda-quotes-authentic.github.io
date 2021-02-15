@@ -2,6 +2,8 @@
 title: Swami Vivekananda Quotes (Authentic)
 output:
  html_document:
+  includes:
+   in_header: myheader.html
   toc: true
   toc_depth: 6  				# upto three depths of headings (specified by #, ## and ###)
   number_sections: false 	# if you want number sections at each table header
