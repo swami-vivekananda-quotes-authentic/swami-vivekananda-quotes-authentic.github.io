@@ -4,6 +4,7 @@ output:
  html_document:
   includes:
    in_header: myheader.html
+  css: "ImgStyle.css"
   toc: true
   toc_depth: 6  				# upto three depths of headings (specified by #, ## and ###)
   number_sections: false 	# if you want number sections at each table header
@@ -26,19 +27,19 @@ knitr::opts_chunk$set(echo = T)
 ```
 
 <style type="text/css"> /* This sets the overall width of the HTML page */
-.main-container {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-};
-p {line-height: 4em;}
+ .main-container {
+   max-width: 1200px;
+   margin-left: auto;
+   margin-right: auto;
+ };
+ p {line-height: 4em;}
 </style>
 
 
 
 <hr> 
 
-- The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. They will be randomly arranged every time you refresh the page. To download an image, right click and then 'save image'. More quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="_blank"}.
+- The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. They will be randomly arranged every time you refresh the page. To download an image, right click and then 'save image'. More quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
 
 <iframe align="right" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwami-Vivekananda-Quotes-Authentic-104968054944575&tabs=timeline&width=240&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="240" height="150" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <br><br><br><br><br><br>
@@ -46,125 +47,167 @@ p {line-height: 4em;}
 <hr>
 
 
+<!-- ################ Javascript to randomly organize pics ################ --> 
 <!-- From this page http://www.javascriptkit.com/javatutors/randomorder.shtml -->
 
 ```{js, echo=F}
-var contents=new Array()
-//width is set as 360 because 3 pics in a row makes 1180, and the html page width is set as 1200.
-contents[0]='<img border="1" src="P001.jpeg" width="355">'
-contents[1]='<img border="1" src="P002.jpeg" width="355">'
-contents[2]='<img border="1" src="P003.jpeg" width="355">'
-contents[3]='<img border="1" src="P004.jpeg" width="355">'
-contents[4]='<img border="1" src="P005.jpeg" width="355">'
-contents[5]='<img border="1" src="P006.jpeg" width="355">'
-contents[6]='<img border="1" src="P007.jpeg" width="355">'
-contents[7]='<img border="1" src="P008.jpeg" width="355">'
-contents[8]='<img border="1" src="P009.jpeg" width="355">'
-contents[9]='<img border="1" src="P010.jpeg" width="355">'
-contents[10]='<img border="1" src="P011.jpeg" width="355">'
-contents[11]='<img border="1" src="P012.jpeg" width="355">'
-contents[12]='<img border="1" src="P013.jpeg" width="355">'
-contents[13]='<img border="1" src="P014.jpeg" width="355">'
-contents[14]='<img border="1" src="P015.jpeg" width="355">'
-contents[15]='<img border="1" src="P016.jpeg" width="355">'
-contents[16]='<img border="1" src="P017.jpeg" width="355">'
-contents[17]='<img border="1" src="P018.jpeg" width="355">'
-contents[18]='<img border="1" src="P019.jpeg" width="355">'
-contents[19]='<img border="1" src="P020.jpeg" width="355">'
-contents[20]='<img border="1" src="P021.jpeg" width="355">'
-contents[21]='<img border="1" src="P022.jpeg" width="355">'
-contents[22]='<img border="1" src="P023.jpeg" width="355">'
-contents[23]='<img border="1" src="P024.jpeg" width="355">'
-contents[24]='<img border="1" src="P025.jpeg" width="355">'
-contents[25]='<img border="1" src="P026.jpeg" width="355">'
-contents[26]='<img border="1" src="P027.jpeg" width="355">'
-contents[27]='<img border="1" src="P028.jpeg" width="355">'
-contents[28]='<img border="1" src="P029.jpeg" width="355">'
-contents[29]='<img border="1" src="P030.jpeg" width="355">'
-contents[30]='<img border="1" src="P031.jpeg" width="355">'
-contents[31]='<img border="1" src="P032.jpeg" width="355">'
-contents[32]='<img border="1" src="P033.jpeg" width="355">'
-contents[33]='<img border="1" src="P034.jpeg" width="355">'
-contents[34]='<img border="1" src="P035.jpeg" width="355">'
-contents[35]='<img border="1" src="P036.jpeg" width="355">'
-contents[36]='<img border="1" src="P037.jpeg" width="355">'
-contents[37]='<img border="1" src="P038.jpeg" width="355">'
-contents[38]='<img border="1" src="P039.jpeg" width="355">'
-contents[39]='<img border="1" src="P040.jpeg" width="355">'
-contents[40]='<img border="1" src="P041.jpeg" width="355">'
-contents[41]='<img border="1" src="P042.jpeg" width="355">'
-contents[42]='<img border="1" src="P043.jpeg" width="355">'
-contents[43]='<img border="1" src="P044.jpeg" width="355">'
-contents[44]='<img border="1" src="P045.jpeg" width="355">'
-contents[45]='<img border="1" src="P046.jpeg" width="355">'
-contents[46]='<img border="1" src="P047.jpeg" width="355">'
-contents[47]='<img border="1" src="P048.jpeg" width="355">'
-contents[48]='<img border="1" src="P049.jpeg" width="355">'
-contents[49]='<img border="1" src="P050.jpeg" width="355">'
-contents[50]='<img border="1" src="P051.jpeg" width="355">'
-contents[51]='<img border="1" src="P052.jpeg" width="355">'
-contents[52]='<img border="1" src="P053.jpeg" width="355">'
-contents[53]='<img border="1" src="P054.jpeg" width="355">'
-contents[54]='<img border="1" src="P055.jpeg" width="355">'
-contents[55]='<img border="1" src="P056.jpeg" width="355">'
-contents[56]='<img border="1" src="P057.jpeg" width="355">'
-contents[57]='<img border="1" src="P058.jpeg" width="355">'
-contents[58]='<img border="1" src="P059.jpeg" width="355">'
-contents[59]='<img border="1" src="P060.jpeg" width="355">'
-contents[60]='<img border="1" src="P061.jpeg" width="355">'
-contents[61]='<img border="1" src="P062.jpeg" width="355">'
-contents[62]='<img border="1" src="P063.jpeg" width="355">'
-contents[63]='<img border="1" src="P064.jpeg" width="355">'
-contents[64]='<img border="1" src="P065.jpeg" width="355">'
-contents[65]='<img border="1" src="P066.jpeg" width="355">'
-contents[66]='<img border="1" src="P067.jpeg" width="355">'
-contents[67]='<img border="1" src="P068.jpeg" width="355">'
-contents[68]='<img border="1" src="P069.jpeg" width="355">'
-contents[69]='<img border="1" src="P070.jpeg" width="355">'
-contents[70]='<img border="1" src="P071.jpeg" width="355">'
-contents[71]='<img border="1" src="P072.jpeg" width="355">'
-contents[72]='<img border="1" src="P073.jpeg" width="355">'
-contents[73]='<img border="1" src="P074.jpeg" width="355">'
-contents[74]='<img border="1" src="P075.jpeg" width="355">'
-contents[75]='<img border="1" src="P076.jpeg" width="355">'
+ var contents=new Array()
+ //width is set as 360 because 3 pics in a row makes 1180, and the html page width is set as 1200.
+ contents[0]='<img id="myImg" class="myImages" border="1" src="P001.jpeg" style="width:355px;max-width:400px">'
+ contents[1]='<img id="myImg" class="myImages" border="1" src="P002.jpeg" style="width:355px;max-width:400px">'
+ contents[2]='<img id="myImg" class="myImages" border="1" src="P003.jpeg" style="width:355px;max-width:400px">'
+ contents[3]='<img id="myImg" class="myImages" border="1" src="P004.jpeg" style="width:355px;max-width:400px">'
+ contents[4]='<img id="myImg" class="myImages" border="1" src="P005.jpeg" style="width:355px;max-width:400px">'
+ contents[5]='<img id="myImg" class="myImages" border="1" src="P006.jpeg" style="width:355px;max-width:400px">'
+ contents[6]='<img id="myImg" class="myImages" border="1" src="P007.jpeg" style="width:355px;max-width:400px">'
+ contents[7]='<img id="myImg" class="myImages" border="1" src="P008.jpeg" style="width:355px;max-width:400px">'
+ contents[8]='<img id="myImg" class="myImages" border="1" src="P009.jpeg" style="width:355px;max-width:400px">'
+ contents[9]='<img id="myImg" class="myImages" border="1" src="P010.jpeg" style="width:355px;max-width:400px">'
+ contents[10]='<img id="myImg" class="myImages" border="1" src="P011.jpeg" style="width:355px;max-width:400px">'
+ contents[11]='<img id="myImg" class="myImages" border="1" src="P012.jpeg" style="width:355px;max-width:400px">'
+ contents[12]='<img id="myImg" class="myImages" border="1" src="P013.jpeg" style="width:355px;max-width:400px">'
+ contents[13]='<img id="myImg" class="myImages" border="1" src="P014.jpeg" style="width:355px;max-width:400px">'
+ contents[14]='<img id="myImg" class="myImages" border="1" src="P015.jpeg" style="width:355px;max-width:400px">'
+ contents[15]='<img id="myImg" class="myImages" border="1" src="P016.jpeg" style="width:355px;max-width:400px">'
+ contents[16]='<img id="myImg" class="myImages" border="1" src="P017.jpeg" style="width:355px;max-width:400px">'
+ contents[17]='<img id="myImg" class="myImages" border="1" src="P018.jpeg" style="width:355px;max-width:400px">'
+ contents[18]='<img id="myImg" class="myImages" border="1" src="P019.jpeg" style="width:355px;max-width:400px">'
+ contents[19]='<img id="myImg" class="myImages" border="1" src="P020.jpeg" style="width:355px;max-width:400px">'
+ contents[20]='<img id="myImg" class="myImages" border="1" src="P021.jpeg" style="width:355px;max-width:400px">'
+ contents[21]='<img id="myImg" class="myImages" border="1" src="P022.jpeg" style="width:355px;max-width:400px">'
+ contents[22]='<img id="myImg" class="myImages" border="1" src="P023.jpeg" style="width:355px;max-width:400px">'
+ contents[23]='<img id="myImg" class="myImages" border="1" src="P024.jpeg" style="width:355px;max-width:400px">'
+ contents[24]='<img id="myImg" class="myImages" border="1" src="P025.jpeg" style="width:355px;max-width:400px">'
+ contents[25]='<img id="myImg" class="myImages" border="1" src="P026.jpeg" style="width:355px;max-width:400px">'
+ contents[26]='<img id="myImg" class="myImages" border="1" src="P027.jpeg" style="width:355px;max-width:400px">'
+ contents[27]='<img id="myImg" class="myImages" border="1" src="P028.jpeg" style="width:355px;max-width:400px">'
+ contents[28]='<img id="myImg" class="myImages" border="1" src="P029.jpeg" style="width:355px;max-width:400px">'
+ contents[29]='<img id="myImg" class="myImages" border="1" src="P030.jpeg" style="width:355px;max-width:400px">'
+ contents[30]='<img id="myImg" class="myImages" border="1" src="P031.jpeg" style="width:355px;max-width:400px">'
+ contents[31]='<img id="myImg" class="myImages" border="1" src="P032.jpeg" style="width:355px;max-width:400px">'
+ contents[32]='<img id="myImg" class="myImages" border="1" src="P033.jpeg" style="width:355px;max-width:400px">'
+ contents[33]='<img id="myImg" class="myImages" border="1" src="P034.jpeg" style="width:355px;max-width:400px">'
+ contents[34]='<img id="myImg" class="myImages" border="1" src="P035.jpeg" style="width:355px;max-width:400px">'
+ contents[35]='<img id="myImg" class="myImages" border="1" src="P036.jpeg" style="width:355px;max-width:400px">'
+ contents[36]='<img id="myImg" class="myImages" border="1" src="P037.jpeg" style="width:355px;max-width:400px">'
+ contents[37]='<img id="myImg" class="myImages" border="1" src="P038.jpeg" style="width:355px;max-width:400px">'
+ contents[38]='<img id="myImg" class="myImages" border="1" src="P039.jpeg" style="width:355px;max-width:400px">'
+ contents[39]='<img id="myImg" class="myImages" border="1" src="P040.jpeg" style="width:355px;max-width:400px">'
+ contents[40]='<img id="myImg" class="myImages" border="1" src="P041.jpeg" style="width:355px;max-width:400px">'
+ contents[41]='<img id="myImg" class="myImages" border="1" src="P042.jpeg" style="width:355px;max-width:400px">'
+ contents[42]='<img id="myImg" class="myImages" border="1" src="P043.jpeg" style="width:355px;max-width:400px">'
+ contents[43]='<img id="myImg" class="myImages" border="1" src="P044.jpeg" style="width:355px;max-width:400px">'
+ contents[44]='<img id="myImg" class="myImages" border="1" src="P045.jpeg" style="width:355px;max-width:400px">'
+ contents[45]='<img id="myImg" class="myImages" border="1" src="P046.jpeg" style="width:355px;max-width:400px">'
+ contents[46]='<img id="myImg" class="myImages" border="1" src="P047.jpeg" style="width:355px;max-width:400px">'
+ contents[47]='<img id="myImg" class="myImages" border="1" src="P048.jpeg" style="width:355px;max-width:400px">'
+ contents[48]='<img id="myImg" class="myImages" border="1" src="P049.jpeg" style="width:355px;max-width:400px">'
+ contents[49]='<img id="myImg" class="myImages" border="1" src="P050.jpeg" style="width:355px;max-width:400px">'
+ contents[50]='<img id="myImg" class="myImages" border="1" src="P051.jpeg" style="width:355px;max-width:400px">'
+ contents[51]='<img id="myImg" class="myImages" border="1" src="P052.jpeg" style="width:355px;max-width:400px">'
+ contents[52]='<img id="myImg" class="myImages" border="1" src="P053.jpeg" style="width:355px;max-width:400px">'
+ contents[53]='<img id="myImg" class="myImages" border="1" src="P054.jpeg" style="width:355px;max-width:400px">'
+ contents[54]='<img id="myImg" class="myImages" border="1" src="P055.jpeg" style="width:355px;max-width:400px">'
+ contents[55]='<img id="myImg" class="myImages" border="1" src="P056.jpeg" style="width:355px;max-width:400px">'
+ contents[56]='<img id="myImg" class="myImages" border="1" src="P057.jpeg" style="width:355px;max-width:400px">'
+ contents[57]='<img id="myImg" class="myImages" border="1" src="P058.jpeg" style="width:355px;max-width:400px">'
+ contents[58]='<img id="myImg" class="myImages" border="1" src="P059.jpeg" style="width:355px;max-width:400px">'
+ contents[59]='<img id="myImg" class="myImages" border="1" src="P060.jpeg" style="width:355px;max-width:400px">'
+ contents[60]='<img id="myImg" class="myImages" border="1" src="P061.jpeg" style="width:355px;max-width:400px">'
+ contents[61]='<img id="myImg" class="myImages" border="1" src="P062.jpeg" style="width:355px;max-width:400px">'
+ contents[62]='<img id="myImg" class="myImages" border="1" src="P063.jpeg" style="width:355px;max-width:400px">'
+ contents[63]='<img id="myImg" class="myImages" border="1" src="P064.jpeg" style="width:355px;max-width:400px">'
+ contents[64]='<img id="myImg" class="myImages" border="1" src="P065.jpeg" style="width:355px;max-width:400px">'
+ contents[65]='<img id="myImg" class="myImages" border="1" src="P066.jpeg" style="width:355px;max-width:400px">'
+ contents[66]='<img id="myImg" class="myImages" border="1" src="P067.jpeg" style="width:355px;max-width:400px">'
+ contents[67]='<img id="myImg" class="myImages" border="1" src="P068.jpeg" style="width:355px;max-width:400px">'
+ contents[68]='<img id="myImg" class="myImages" border="1" src="P069.jpeg" style="width:355px;max-width:400px">'
+ contents[69]='<img id="myImg" class="myImages" border="1" src="P070.jpeg" style="width:355px;max-width:400px">'
+ contents[70]='<img id="myImg" class="myImages" border="1" src="P071.jpeg" style="width:355px;max-width:400px">'
+ contents[71]='<img id="myImg" class="myImages" border="1" src="P072.jpeg" style="width:355px;max-width:400px">'
+ contents[72]='<img id="myImg" class="myImages" border="1" src="P073.jpeg" style="width:355px;max-width:400px">'
+ contents[73]='<img id="myImg" class="myImages" border="1" src="P074.jpeg" style="width:355px;max-width:400px">'
+ contents[74]='<img id="myImg" class="myImages" border="1" src="P075.jpeg" style="width:355px;max-width:400px">'
+ contents[75]='<img id="myImg" class="myImages" border="1" src="P076.jpeg" style="width:355px;max-width:400px">'
 ``` 
 
 ```{js, echo=F}
-var i=0
-//variable used to contain controlled random number 
-var random
-var spacing="<br>"
-//while all of array elements haven't been cycled thru
-while (i<contents.length){
-    //generate random num between 0 and arraylength-1
-    random=Math.floor(Math.random()*contents.length)
-    //if element hasn't been marked as "selected"
-    if (contents[random]!="selected"){
-        document.write(contents[random]+'&nbsp;')
-        //mark element as selected
-        contents[random]="selected"
-        i++
-    }
-}
+ var i=0
+ //variable used to contain controlled random number 
+ var random
+ var spacing="<br>"
+ //while all of array elements haven't been cycled thru
+ while (i<contents.length){
+     //generate random num between 0 and arraylength-1
+     random=Math.floor(Math.random()*contents.length)
+     //if element hasn't been marked as "selected"
+     if (contents[random]!="selected"){
+         document.write(contents[random]+'&nbsp;')
+         //mark element as selected
+         contents[random]="selected"
+         i++
+     }
+ }
 ```
+<!-- ################################ -->
 
 
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>  <!-- The Close Button -->
+  <img class="modal-content" id="img01">  <!-- Modal Content (The Image) -->
+  <div id="caption"></div>  <!-- Modal Caption (Image Text) -->
+</div>
 
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var images = document.getElementsByClassName('myImages');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+for (var i = 0; i < images.length; i++) {
+ var img = images[i];
+ img.onclick = function(){
+   modal.style.display = "block";
+   modalImg.src = this.src;
+   captionText.innerHTML = this.alt;
+ }
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
 
 
 
 
 
 <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>
-
 <hr>
 
+<!-- ################ Visit counter ############## -->
 
 <div align="center">
 <a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
 
 <hr><br>
+
+
+
+
+
+
+
+
 
 ```{r, eval = F, include = F}
 	# Create Rmd html result
@@ -175,15 +218,6 @@ while (i<contents.length){
 	render( input="index.Rmd" )
 ```
 
-
-
-<!-- 
-convert P001.jpeg -resize 20% P001.jpeg
-convert P002.jpeg -resize 20% P002.jpeg
-convert P003.jpeg -resize 20% P003.jpeg
-convert P004.jpeg -resize 20% P004.jpeg
-
- -->
 
 
 
