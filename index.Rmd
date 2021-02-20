@@ -12,7 +12,6 @@ output:
   highlight: tango  		# specifies the syntax highlighting style
 urlcolor: gray
 citecolor: gray
-comment_issue_id: 1 
 ---
 
 <head>
@@ -205,9 +204,6 @@ knitr::opts_chunk$set(echo = T)
 </div>
 
 <hr><br>
-
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-{% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
 
 
 
