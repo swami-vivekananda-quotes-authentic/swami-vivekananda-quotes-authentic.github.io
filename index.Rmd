@@ -201,8 +201,8 @@ knitr::opts_chunk$set(echo = T)
 
 
 <br>
-<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://swami-vivekananda-quotes-authentic.github.io/&picture=https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg&title=title+here&description=Your+description">
-  <img src="P066.jpeg" width="400" />
+<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg">
+  <img src="P066.jpeg" width="600" height="600" />
 </a>
 
 
