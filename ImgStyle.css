@@ -9,20 +9,21 @@
 
 .container {
   position: relative;
-  width: 80%;
-  max-width: 370px;
+  width: 90%;
+  max-width: 355px;
   float:left;
+  height: 430px
 }
 
 .container img {
-  width: 100%;
+  width: 355px;
   height: auto;
 }
 
 .container .btn {
   position: absolute;
-  top: 5.5%;
-  left: 11%;
+  top: 5.4%;
+  left: 12.3%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #45bbff;
