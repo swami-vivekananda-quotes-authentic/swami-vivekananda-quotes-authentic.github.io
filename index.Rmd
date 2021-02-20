@@ -14,17 +14,10 @@ urlcolor: gray
 citecolor: gray
 ---
 
+<!-- ### For google site verification. Don't delete this to keep google indexing. ### -->
 <head>
 <meta name="google-site-verification" content="FGoFsQAYjE2ald5KjM10Ms8FZY1YAtnXKamBSF3aOQY" />
 </head>
-
-```{r set-options, echo=FALSE, cache=FALSE}
-options(width = 150)
-```
-
-```{r setup, include = F}
-knitr::opts_chunk$set(echo = T)
-```
 
 <style type="text/css"> /* This sets the overall width of the HTML page */
  .main-container {
@@ -35,10 +28,19 @@ knitr::opts_chunk$set(echo = T)
  p {line-height: 4em;}
 </style>
 
-<div id="fb-root"></div>
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 150)
+```
+
+```{r setup, include = F}
+knitr::opts_chunk$set(echo = T)
+```
+
+<!-- ##### JavaScript SDK for enabling Facebook Comments Plugin #### -->
+<div id="fb-root"></div>    
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
 </script>
-
+<!-- ################ -->
 
 <hr> 
 
@@ -53,6 +55,10 @@ knitr::opts_chunk$set(echo = T)
 <!-- ################ -->
 
 <hr>
+
+
+
+
 
 <!-- ################ Javascript to randomly organize pics ################ --> 
 <!-- http://www.javascriptkit.com/javatutors/randomorder.shtml -->
@@ -194,6 +200,10 @@ knitr::opts_chunk$set(echo = T)
 <!-- ################ -->
 
 
+<br>
+<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://swami-vivekananda-quotes-authentic.github.io/&picture=P066.jpeg&title=Quote&description=this+is+a+great+quote">
+  <img src="P066.jpeg" width="400" />
+</a>
 
 
 
@@ -208,8 +218,11 @@ knitr::opts_chunk$set(echo = T)
 
 <hr><br>
 
+<!-- ################ Facebook comments plugin ############## -->
+
 <div class="fb-comments" data-href="https://swami-vivekananda-quotes-authentic.github.io" data-width="1000" data-numposts="10"></div>
 
+<br><br><br>
 
 
 
