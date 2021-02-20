@@ -45,7 +45,12 @@ knitr::opts_chunk$set(echo = T)
 <hr> 
 
 <!-- ################ Introduction text ################-->
-- The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. They will be randomly arranged every time you refresh the page. To download an image, right click and then 'save image'. More quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
+- The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, 30 randomly chosen Vivekananda quotes will be shown. More quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
+
+  - To see a larger image, simply click on any image
+  - To share an image in social media, click on the 'Share' button and share from the pop-up page.
+  - To download an image, right click on the image and then 'save image'. 
+
 <!-- ################ -->
 
 
@@ -148,9 +153,9 @@ knitr::opts_chunk$set(echo = T)
  var random
  var spacing="<br>"
  //while all of array elements haven't been cycled thru
- while (i<contents.length){
+ while (i<30){
      //generate random num between 0 and arraylength-1
-     random=Math.floor(Math.random()*contents.length)
+     random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
      if (contents[random]!="selected"){
          document.write(contents[random]+'&nbsp;'+'&nbsp;')
@@ -248,11 +253,6 @@ a2a_config.overlays.push({});
 
 <hr>
 
-<!-- ################ Visit counter ############## -->
-
-<a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
-<hr><br>
 
 <!-- ################ Facebook comments plugin ############## -->
 
@@ -261,6 +261,13 @@ a2a_config.overlays.push({});
 <br><br><br>
 
 
+<!-- ################ Visit counter ############## -->
+
+<div align="center">
+<a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+</div>
+
+<hr><br>
 
 
 ```{r, eval = F, include = F}

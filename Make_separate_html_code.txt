@@ -6,7 +6,7 @@ cat > P001.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=600></div>
@@ -25,7 +25,7 @@ cat > P002.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P002.jpeg" width=600></div>
@@ -44,7 +44,7 @@ cat > P003.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P003.jpeg" width=600></div>
@@ -63,7 +63,7 @@ cat > P004.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P004.jpeg" width=600></div>
@@ -82,7 +82,7 @@ cat > P005.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P005.jpeg" width=600></div>
@@ -101,7 +101,7 @@ cat > P006.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P006.jpeg" width=600></div>
@@ -120,7 +120,7 @@ cat > P007.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P007.jpeg" width=600></div>
@@ -139,7 +139,7 @@ cat > P008.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P008.jpeg" width=600></div>
@@ -158,7 +158,7 @@ cat > P009.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P009.jpeg" width=600></div>
@@ -177,7 +177,7 @@ cat > P010.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P010.jpeg" width=600></div>
@@ -196,7 +196,7 @@ cat > P011.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P011.jpeg" width=600></div>
@@ -215,7 +215,7 @@ cat > P012.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P012.jpeg" width=600></div>
@@ -234,7 +234,7 @@ cat > P013.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P013.jpeg" width=600></div>
@@ -253,7 +253,7 @@ cat > P014.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P014.jpeg" width=600></div>
@@ -278,7 +278,7 @@ cat > P015.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P015.jpeg" width=600></div>
@@ -297,7 +297,7 @@ cat > P016.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P016.jpeg" width=600></div>
@@ -316,7 +316,7 @@ cat > P017.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P017.jpeg" width=600></div>
@@ -335,7 +335,7 @@ cat > P018.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P018.jpeg" width=600></div>
@@ -354,7 +354,7 @@ cat > P019.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P019.jpeg" width=600></div>
@@ -373,7 +373,7 @@ cat > P020.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P020.jpeg" width=600></div>
@@ -392,7 +392,7 @@ cat > P021.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P021.jpeg" width=600></div>
@@ -411,12 +411,12 @@ cat > P022.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P022.jpeg" width=600></div>
 <p><font size=3 face="Arial">
-According to the Sankhya philosophy, the genesis of perception is as follows: the affections of external objects are carried by the outer instruments to their respective brain centres or organs, the organs carry the affections to the mind, the mind to the determinative faculty, from this the Purusha (the soul) receives them, when perception results. Next he gives the order back, as it were, to the motor centres to do the needful. With the exception of the Purusha all of these are material, but the mind is much finer matter than the external instruments. That material of which the mind is composed goes also to form the subtle matter called the Tanmâtras. These become gross and make the external matter. That is the psychology of the Sankhya. So that between the intellect and the grosser matter outside there is only a difference in degree. The Purusha is the only thing which is immaterial.
+According to the Sankhya philosophy, the genesis of perception is as follows: the affections of external objects are carried by the outer instruments to their respective brain centres or organs, the organs carry the affections to the mind, the mind to the determinative faculty, from this the Purusha (the soul) receives them, when perception results. Next he gives the order back, as it were, to the motor centres to do the needful. With the exception of the Purusha all of these are material, but the mind is much finer matter than the external instruments. That material of which the mind is composed goes also to form the subtle matter called the Tanm&acirc;tras. These become gross and make the external matter. That is the psychology of the Sankhya. So that between the intellect and the grosser matter outside there is only a difference in degree. The Purusha is the only thing which is immaterial.
 </font></p>
 </html>
 EOF
@@ -430,7 +430,7 @@ cat > P023.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P023.jpeg" width=600></div>
@@ -449,7 +449,7 @@ cat > P024.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P024.jpeg" width=600></div>
@@ -468,7 +468,7 @@ cat > P025.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P025.jpeg" width=600></div>
@@ -487,7 +487,7 @@ cat > P026.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P026.jpeg" width=600></div>
@@ -506,7 +506,7 @@ cat > P027.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P027.jpeg" width=600></div>
@@ -525,7 +525,7 @@ cat > P028.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P028.jpeg" width=600></div>
@@ -544,7 +544,7 @@ cat > P029.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P029.jpeg" width=600></div>
@@ -565,7 +565,7 @@ cat > P030.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P030.jpeg" width=600></div>
@@ -584,7 +584,7 @@ cat > P031.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P031.jpeg" width=600></div>
@@ -603,7 +603,7 @@ cat > P032.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P032.jpeg" width=600></div>
@@ -622,7 +622,7 @@ cat > P033.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P033.jpeg" width=600></div>
@@ -641,7 +641,7 @@ cat > P034.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P034.jpeg" width=600></div>
@@ -660,7 +660,7 @@ cat > P035.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P035.jpeg" width=600></div>
@@ -679,7 +679,7 @@ cat > P036.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P036.jpeg" width=600></div>
@@ -698,7 +698,7 @@ cat > P037.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P037.jpeg" width=600></div>
@@ -717,7 +717,7 @@ cat > P038.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P038.jpeg" width=600></div>
@@ -736,7 +736,7 @@ cat > P039.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P039.jpeg" width=600></div>
@@ -755,7 +755,7 @@ cat > P040.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P040.jpeg" width=600></div>
@@ -774,7 +774,7 @@ cat > P041.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P041.jpeg" width=600></div>
@@ -793,12 +793,12 @@ cat > P042.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P042.jpeg" width=600></div>
 <p><font size=3 face="Arial">
-In very remote times in India, thousands of years ago, these facts [extraordinary happenings] used to happen even more than they do today. It seems to me that when a country becomes very thickly populated, psychical power deteriorates. Given a vast country thinly inhabited, there will, perhaps, be more of psychical power there. These facts, the Hindus, being analytically minded, took up and investigated. And they came to certain remarkable conclusions; that is, they made a science of it. They found out that all these, though extraordinary, are also natural; there is nothing supernatural. They are under laws just the same as any other physical phenomenon... They can be systematically studied, practiced, and acquired. This science they call the science of Râja-Yoga.
+In very remote times in India, thousands of years ago, these facts [extraordinary happenings] used to happen even more than they do today. It seems to me that when a country becomes very thickly populated, psychical power deteriorates. Given a vast country thinly inhabited, there will, perhaps, be more of psychical power there. These facts, the Hindus, being analytically minded, took up and investigated. And they came to certain remarkable conclusions; that is, they made a science of it. They found out that all these, though extraordinary, are also natural; there is nothing supernatural. They are under laws just the same as any other physical phenomenon... They can be systematically studied, practiced, and acquired. This science they call the science of R&acirc;ja-Yoga.
 </font></p>
 </html>
 EOF
@@ -812,7 +812,7 @@ cat > P043.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P043.jpeg" width=600></div>
@@ -831,7 +831,7 @@ cat > P044.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P044.jpeg" width=600></div>
@@ -850,7 +850,7 @@ cat > P045.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P045.jpeg" width=600></div>
@@ -869,7 +869,7 @@ cat > P046.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P046.jpeg" width=600></div>
@@ -888,7 +888,7 @@ cat > P047.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P047.jpeg" width=600></div>
@@ -907,7 +907,7 @@ cat > P048.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P048.jpeg" width=600></div>
@@ -926,7 +926,7 @@ cat > P049.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P049.jpeg" width=600></div>
@@ -945,7 +945,7 @@ cat > P050.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P050.jpeg" width=600></div>
@@ -964,7 +964,7 @@ cat > P051.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P051.jpeg" width=600></div>
@@ -983,7 +983,7 @@ cat > P052.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P052.jpeg" width=600></div>
@@ -1002,7 +1002,7 @@ cat > P053.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P053.jpeg" width=600></div>
@@ -1021,7 +1021,7 @@ cat > P054.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P054.jpeg" width=600></div>
@@ -1040,7 +1040,7 @@ cat > P055.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P055.jpeg" width=600></div>
@@ -1059,12 +1059,12 @@ cat > P056.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P056.jpeg" width=600></div>
 <p><font size=3 face="Arial">
-The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and Âkâsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? - that which moves matter. And what is matter? - that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence.
+The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirc;k&acirc;sha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? - that which moves matter. And what is matter? - that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence.
 </font></p>
 </html>
 EOF
@@ -1078,7 +1078,7 @@ cat > P057.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P057.jpeg" width=600></div>
@@ -1097,7 +1097,7 @@ cat > P058.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P058.jpeg" width=600></div>
@@ -1116,12 +1116,12 @@ cat > P059.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P059.jpeg" width=600></div>
 <p><font size=3 face="Arial">
-If you want to be a Yogi, you must be free, and place yourself in circumstances where you are alone and free from all anxiety. He who desires a comfortable and nice life and at the same time wants to realise the Self is like the fool who, wanting to cross the river, caught hold of a crocodile, mistaking it for a log of wood (Vivekachudâmani, 84.). "Seek ye first the kingdom of God, and everything shall be added unto you." This is the one great duty, this is renunciation. Live for an ideal, and leave no place in the mind for anything else.
+If you want to be a Yogi, you must be free, and place yourself in circumstances where you are alone and free from all anxiety. He who desires a comfortable and nice life and at the same time wants to realise the Self is like the fool who, wanting to cross the river, caught hold of a crocodile, mistaking it for a log of wood (Vivekachud&acirc;mani, 84.). "Seek ye first the kingdom of God, and everything shall be added unto you." This is the one great duty, this is renunciation. Live for an ideal, and leave no place in the mind for anything else.
 </font></p>
 </html>
 EOF
@@ -1135,12 +1135,12 @@ cat > P060.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P060.jpeg" width=600></div>
 <p><font size=3 face="Arial">
-The greatest help to spiritual life is meditation (Dhyâna). In meditation we divest ourselves of all material conditions and feel our divine nature. We do not depend upon any external help in meditation.
+The greatest help to spiritual life is meditation (Dhy&acirc;na). In meditation we divest ourselves of all material conditions and feel our divine nature. We do not depend upon any external help in meditation.
 </font></p>
 </html>
 EOF
@@ -1154,7 +1154,7 @@ cat > P061.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P061.jpeg" width=600></div>
@@ -1173,7 +1173,7 @@ cat > P062.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P062.jpeg" width=600></div>
@@ -1192,7 +1192,7 @@ cat > P063.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P063.jpeg" width=600></div>
@@ -1211,7 +1211,7 @@ cat > P064.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P064.jpeg" width=600></div>
@@ -1230,7 +1230,7 @@ cat > P065.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P065.jpeg" width=600></div>
@@ -1249,7 +1249,7 @@ cat > P066.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P066.jpeg" width=600></div>
@@ -1268,7 +1268,7 @@ cat > P067.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P067.jpeg" width=600></div>
@@ -1287,7 +1287,7 @@ cat > P068.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P068.jpeg" width=600></div>
@@ -1306,7 +1306,7 @@ cat > P069.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P069.jpeg" width=600></div>
@@ -1325,7 +1325,7 @@ cat > P070.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P070.jpeg" width=600></div>
@@ -1344,7 +1344,7 @@ cat > P071.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P071.jpeg" width=600></div>
@@ -1363,7 +1363,7 @@ cat > P072.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P072.jpeg" width=600></div>
@@ -1382,7 +1382,7 @@ cat > P073.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P073.jpeg" width=600></div>
@@ -1401,7 +1401,7 @@ cat > P074.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P074.jpeg" width=600></div>
@@ -1420,7 +1420,7 @@ cat > P075.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P075.jpeg" width=600></div>
@@ -1439,7 +1439,7 @@ cat > P076.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'instagram', 'tumblr']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P076.jpeg" width=600></div>
