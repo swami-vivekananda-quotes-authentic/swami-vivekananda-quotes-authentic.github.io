@@ -200,13 +200,14 @@ knitr::opts_chunk$set(echo = T)
 <!-- ################ -->
 
 <br>
-<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=300'); return false;" href="https://www.facebook.com/sharer/sharer.php?u=https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg">
-  <img src="P066.jpeg" width="400" />
+<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=700,top=0,left=300'); return false;" href="P001.html">
+  <img src="P001.jpeg" width="400" />
 </a>
 
 
 
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
 
 <script>
 var a2a_config = a2a_config || {};
