@@ -199,11 +199,40 @@ knitr::opts_chunk$set(echo = T)
 </script>
 <!-- ################ -->
 
-
 <br>
-<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg">
-  <img src="P066.jpeg" width="600" height="600" />
+<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=300'); return false;" href="https://www.facebook.com/sharer/sharer.php?u=https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg">
+  <img src="P066.jpeg" width="400" />
 </a>
+
+
+
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({});
+</script>
+
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
