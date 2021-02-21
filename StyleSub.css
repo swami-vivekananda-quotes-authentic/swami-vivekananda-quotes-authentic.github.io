@@ -1,6 +1,11 @@
-/* Style the Image Used to Trigger the Modal */
+
+body { margin: 0 auto; 
+       margin-top: 10px; 
+       background-color: #FFF8E8;
+       width:800px;}
+
 #myImg {
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -12,7 +17,7 @@
   width: 90%;
   max-width: 355px;
   float:left;
-  height: 430px
+  height: 450px
 }
 
 .container img {
