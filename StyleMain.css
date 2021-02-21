@@ -108,6 +108,29 @@ h1 { color: #9E310A; font-family: 'Berkshire Swash', Helvetica, sans-serif; font
   /*color: white;*/
 }
 
+.container .btn2 {
+  position: relative;
+  bottom: 20%;
+  left: 16%;
+  width: 95%;
+  transform: translate(-15%, -110%);
+  /*-ms-transform: translate(100%, 100%);*/
+  background-color: green;
+  color: white;
+  font-size: 15px;
+  padding: 0px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: left;
+  /*text-transform: uppercase;*/
+}
+
+.container .btn2:hover {
+  opacity: 0.7;
+  /*background-color: black;*/
+  /*color: white;*/
+}
 
 
 
