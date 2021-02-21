@@ -19,7 +19,7 @@ citecolor: gray
 
 
 <div id="header">
-<img src="header1.jpeg" title="Belur Math from Ganges" />
+<img src="header.png" title="Belur Math from Ganges" />
 </div> 
 
 
