@@ -23,8 +23,9 @@ body { margin: 0 auto; margin-top: 70px; background-color: #FFF8E8;}
   display: inline-block;;
   color: #D32C08;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 0px;
   text-decoration: none;
+  font-size: medium;
 }
 
 /* Change background on mouse-over */
