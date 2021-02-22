@@ -2,6 +2,10 @@ cat > P001.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -25,6 +29,10 @@ cat > P002.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -48,6 +56,10 @@ cat > P003.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -71,6 +83,10 @@ cat > P004.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -94,6 +110,10 @@ cat > P005.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -117,6 +137,10 @@ cat > P006.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -140,6 +164,10 @@ cat > P007.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -163,6 +191,10 @@ cat > P008.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -186,6 +218,10 @@ cat > P009.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -209,6 +245,10 @@ cat > P010.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -232,6 +272,10 @@ cat > P011.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -255,6 +299,10 @@ cat > P012.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -278,6 +326,10 @@ cat > P013.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -301,6 +353,10 @@ cat > P014.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -324,6 +380,10 @@ cat > P015.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -347,6 +407,10 @@ cat > P016.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -370,6 +434,10 @@ cat > P017.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -393,6 +461,10 @@ cat > P018.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -416,6 +488,10 @@ cat > P019.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -439,6 +515,10 @@ cat > P020.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -462,6 +542,10 @@ cat > P021.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -485,6 +569,10 @@ cat > P022.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -508,6 +596,10 @@ cat > P023.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -531,6 +623,10 @@ cat > P024.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -554,6 +650,10 @@ cat > P025.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -577,6 +677,10 @@ cat > P026.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -600,6 +704,10 @@ cat > P027.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -623,6 +731,10 @@ cat > P028.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -646,6 +758,10 @@ cat > P029.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -670,6 +786,10 @@ cat > P030.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -693,6 +813,10 @@ cat > P031.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -716,6 +840,10 @@ cat > P032.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -739,6 +867,10 @@ cat > P033.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -762,6 +894,10 @@ cat > P034.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -785,6 +921,10 @@ cat > P035.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -808,6 +948,10 @@ cat > P036.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -831,6 +975,10 @@ cat > P037.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -854,6 +1002,10 @@ cat > P038.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -877,6 +1029,10 @@ cat > P039.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -900,6 +1056,10 @@ cat > P040.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -923,6 +1083,10 @@ cat > P041.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -946,6 +1110,10 @@ cat > P042.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -969,6 +1137,10 @@ cat > P043.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -992,6 +1164,10 @@ cat > P044.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1015,6 +1191,10 @@ cat > P045.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1038,6 +1218,10 @@ cat > P046.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1061,6 +1245,10 @@ cat > P047.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1084,6 +1272,10 @@ cat > P048.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1107,6 +1299,10 @@ cat > P049.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1130,6 +1326,10 @@ cat > P050.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1153,6 +1353,10 @@ cat > P051.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1176,6 +1380,10 @@ cat > P052.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1199,6 +1407,10 @@ cat > P053.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1222,6 +1434,10 @@ cat > P054.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1245,6 +1461,10 @@ cat > P055.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1268,6 +1488,10 @@ cat > P056.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1291,6 +1515,10 @@ cat > P057.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1314,6 +1542,10 @@ cat > P058.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1337,6 +1569,10 @@ cat > P059.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1360,6 +1596,10 @@ cat > P060.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1383,6 +1623,10 @@ cat > P061.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1406,6 +1650,10 @@ cat > P062.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1429,6 +1677,10 @@ cat > P063.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1452,6 +1704,10 @@ cat > P064.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1475,6 +1731,10 @@ cat > P065.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1498,6 +1758,10 @@ cat > P066.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1521,6 +1785,10 @@ cat > P067.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1544,6 +1812,10 @@ cat > P068.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1567,6 +1839,10 @@ cat > P069.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1590,6 +1866,10 @@ cat > P070.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1613,6 +1893,10 @@ cat > P071.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1636,6 +1920,10 @@ cat > P072.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1659,6 +1947,10 @@ cat > P073.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1682,6 +1974,10 @@ cat > P074.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1705,6 +2001,10 @@ cat > P075.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
@@ -1728,6 +2028,10 @@ cat > P076.html <<'EOF'
 <html>
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
+<div class="navbar">
+  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+</div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
 <script>
