@@ -1,8 +1,14 @@
 
+<!-- This file uses javascript code to detect browser (chrome, safari, firefox etc.)
+and inserts corresponding css file. Different browsers may have different 
+different relative positions. So, this file is necessary to use the right css 
+file to get the right view. -->
+
 <!DOCTYPE html>
 <html>
 <body>
 
+<!-- js function to add a css file to the header -->
 <script>
 function addCss(fileName) {
 
@@ -17,9 +23,10 @@ function addCss(fileName) {
 }
 </script>
 
+<!-- js function to choose to css file matching with browser type -->
 <script>
 function myFunction() { 
-     if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
+    if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
     {
         addCss("StyleMainChrome.css");
     }
@@ -45,7 +52,9 @@ function myFunction() {
     }
     }
 </script>
- <script>
+
+<!-- js script to execute the above functions -->
+<script>
 myFunction();
 </script>
 
