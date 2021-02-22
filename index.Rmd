@@ -12,10 +12,10 @@ citecolor: gray
 ---
 
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
 </div>
-
+<!-- Complete Works of Swami Vivekananda -->
 
 <div id="header">
 <img src="header.png" title="Belur Math from Ganges" />
@@ -56,13 +56,13 @@ knitr::opts_chunk$set(echo = T)
 <hr> 
 
 <!-- ################ Introduction text ################-->
-<font size=3 face="Arial">
-The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, <b>30 randomly chosen</b> Vivekananda quotes will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
+<font size=3 face="Arial"><b>
+The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, 30 randomly chosen Vivekananda quotes will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
 
   - To see larger size, click on the image.
   - To share in social media, click on the 'Share' button to open and share from the image page.
   - To download, right click on the image and then 'save image'. 
-</font>
+</b></font>
 <!-- ################ -->
 
 

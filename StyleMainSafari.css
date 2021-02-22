@@ -9,21 +9,28 @@
 body { 
   margin: 0 auto; 
   margin-top: 70px; 
-  background-color: #FFF8E8;
+  background-color: #F0F2F5;
 }
 
 
 
 /* Style the header */
 
+@import url( 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' );
+
+
 /* -- Style the header navigation bar */
 
 .navbar {
   overflow: hidden;
-  background-color: #FFF8E8;
+  background-color: white;
   position: fixed; 
-  top: 0; 
-  width: 85%; 
+  top: 0;
+  left: 0; 
+  width: 100%; 
+  height: 8%;
+  border-radius: 0px;      /*for rounded corners change this*/
+  -webkit-box-shadow: 3px 3px 5px 1px #ccc;   /*this is for shadow*/
 }
 
 /* -- Links inside the navbar */
@@ -31,9 +38,9 @@ body {
 .navbar a {
   float: left;
   display: inline-block;;
-  color: #D32C08;
+  color: white;
   text-align: center;
-  padding: 14px 0px;
+  padding: 9px 15px;
   text-decoration: none;
   font-size: medium;
 }
@@ -41,7 +48,7 @@ body {
 /* -- Change background on mouse-over */
 
 .navbar a:hover {
-  background: #ddd;
+  background: #CDE6E9;
   color: black;
 }
 
@@ -51,10 +58,10 @@ body {
 /* Style headings */
 
 h1 { 
-  color: #9E310A; 
+  color: #545454; 
   font-family: 'Berkshire Swash', Helvetica, sans-serif; 
-  font-size: 62px; 
-  font-weight: 800; 
+  font-size: 60px; 
+  font-weight: 600; 
   line-height: 62px; 
   margin: 0 0 8px; 
   text-align: left; 
