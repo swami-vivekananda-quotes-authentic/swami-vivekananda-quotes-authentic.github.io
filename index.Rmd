@@ -10,7 +10,8 @@ urlcolor: gray
 citecolor: gray
 ---
 ---
-title: Swami Vivekananda Quotes (Authentic)
+title: |
+  <center>Swami Vivekananda Quotes (Authentic)</center>
 ---
 
 <div class="navbar">
@@ -20,7 +21,7 @@ title: Swami Vivekananda Quotes (Authentic)
 <!-- Complete Works of Swami Vivekananda -->
 
 <div id="header" align="center">
-<img src="swamiji.png" title="Belur Math from Ganges" />
+<img src="swamiji1.png" title="Belur Math from Ganges" />
 </div> 
 
 
@@ -71,7 +72,7 @@ The purpose of doing this page is to make sure every Vivekananda quote is proper
 
 
 <!-- ################ Facebook iframe ################ -->
-<iframe position="absolute" align="right" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwami-Vivekananda-Quotes-Authentic-104968054944575&tabs=timeline&width=240&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="200" height="121" style="border:none;overflow:hidden;position:absolute; top: 11px; right: 35px;" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe position="absolute" align="right" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwami-Vivekananda-Quotes-Authentic-104968054944575&tabs=timeline&width=240&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="200" height="121" style="border:none;overflow:hidden;position:absolute; top: 35px; right: 35px;" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <!-- ################ -->
 
 <hr>
