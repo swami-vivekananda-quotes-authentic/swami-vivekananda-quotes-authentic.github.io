@@ -19,8 +19,8 @@ title: Swami Vivekananda Quotes (Authentic)
 </div>
 <!-- Complete Works of Swami Vivekananda -->
 
-<div id="header">
-<img src="header.png" title="Belur Math from Ganges" />
+<div id="header" align="center">
+<img src="swamiji.png" title="Belur Math from Ganges" />
 </div> 
 
 
