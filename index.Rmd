@@ -17,11 +17,12 @@ title: |
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- Complete Works of Swami Vivekananda -->
 
 <div id="header" align="center">
-<img src="swamiji1.png" title="Belur Math from Ganges" />
+<img src="swamiji1.png" title="Swami Vivekananda at San Francisco, 1900" />
 </div> 
 
 
@@ -61,18 +62,17 @@ knitr::opts_chunk$set(echo = T)
 <!-- ################ Introduction text ################-->
 
 
-<font size=3 face="Arial"><b>
-The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, 30 randomly chosen Vivekananda quotes will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
+<div align="center"><font size=3 face="Arial"><b>
+The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any<br> Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes.</b></font> 
 
-  - To see larger size, click on the image.
-  - To share in social media, click on the 'Share' button to open and share from the image page.
-  - To download, right click on the image and then 'save image'. 
-</b></font>
+<font size=3 face="Arial" color="grey"><b>Every time you refresh the page, 30 randomly chosen Vivekananda quotes will appear. Quotes will be added regularly. <br>For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
+
+</b></font></div>
 <!-- ################ -->
 
 
 <!-- ################ Facebook iframe ################ -->
-<iframe position="absolute" align="right" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwami-Vivekananda-Quotes-Authentic-104968054944575&tabs=timeline&width=240&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="200" height="121" style="border:none;overflow:hidden;position:absolute; top: 35px; right: 35px;" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<!-- <iframe position="absolute" align="right" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwami-Vivekananda-Quotes-Authentic-104968054944575&tabs=timeline&width=240&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="200" height="121" style="border:none;overflow:hidden;position:absolute; top: 55px; right: 35px;" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
 <!-- ################ -->
 
 <hr>

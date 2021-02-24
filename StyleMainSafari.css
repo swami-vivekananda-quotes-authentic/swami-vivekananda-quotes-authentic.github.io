@@ -9,7 +9,7 @@
 body { 
   margin: 0 auto; 
   margin-top: 70px; 
-  background-color: white;
+  background-color: white; /*#FBFBFD*/
 }
 
 
@@ -23,7 +23,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: white;
+  background-color: white; /*#333333*/
   position: fixed; 
   top: 0;
   left: 0; 
@@ -81,7 +81,7 @@ h1.title {
   /*-webkit-box-shadow: 1px 1px 1px 1px #ccc;*/
 }
 
-#myImg:hover {opacity: 0.8;}
+#myImg:hover {opacity: 1.5;}
 
 
 
@@ -131,10 +131,10 @@ h1.title {
   width: 95%;
   transform: translate(-15%, 30%);    /*this line is different from chrome browser*/
   /*-ms-transform: translate(50%, 50%);*/
-  background-color: white;
+  background-color: #FBFBFD;
   color: black;
   font-size: 15px;
-  font-weight: 460;
+  font-weight: 430;
   padding: 0px 5px;
   border: none;
   cursor: pointer;
