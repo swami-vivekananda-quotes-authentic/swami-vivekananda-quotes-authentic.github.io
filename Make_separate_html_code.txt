@@ -3,8 +3,9 @@ cat > P001.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -30,8 +31,9 @@ cat > P002.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -57,8 +59,9 @@ cat > P003.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -84,8 +87,9 @@ cat > P004.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -111,8 +115,9 @@ cat > P005.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -138,8 +143,9 @@ cat > P006.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -165,8 +171,9 @@ cat > P007.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -192,8 +199,9 @@ cat > P008.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -219,8 +227,9 @@ cat > P009.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -246,8 +255,9 @@ cat > P010.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -273,8 +283,9 @@ cat > P011.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -300,8 +311,9 @@ cat > P012.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -327,8 +339,9 @@ cat > P013.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -354,8 +367,9 @@ cat > P014.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -381,8 +395,9 @@ cat > P015.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -408,8 +423,9 @@ cat > P016.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -435,8 +451,9 @@ cat > P017.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -462,8 +479,9 @@ cat > P018.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -489,8 +507,9 @@ cat > P019.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -516,8 +535,9 @@ cat > P020.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -543,8 +563,9 @@ cat > P021.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -570,8 +591,9 @@ cat > P022.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -583,7 +605,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P022.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"According to the Sankhya philosophy, the genesis of perception is as follows: the affections of external objects are carried by the outer instruments to their respective brain centres or organs, the organs carry the affections to the mind, the mind to the determinative faculty, from this the Purusha (the soul) receives them, when perception results. Next he gives the order back, as it were, to the motor centres to do the needful. With the exception of the Purusha all of these are material, but the mind is much finer matter than the external instruments. That material of which the mind is composed goes also to form the subtle matter called the Tanmâtras. These become gross and make the external matter. That is the psychology of the Sankhya. So that between the intellect and the grosser matter outside there is only a difference in degree. The Purusha is the only thing which is immaterial."<br><br>
+"According to the Sankhya philosophy, the genesis of perception is as follows: the affections of external objects are carried by the outer instruments to their respective brain centres or organs, the organs carry the affections to the mind, the mind to the determinative faculty, from this the Purusha (the soul) receives them, when perception results. Next he gives the order back, as it were, to the motor centres to do the needful. With the exception of the Purusha all of these are material, but the mind is much finer matter than the external instruments. That material of which the mind is composed goes also to form the subtle matter called the Tanm&acirctras. These become gross and make the external matter. That is the psychology of the Sankhya. So that between the intellect and the grosser matter outside there is only a difference in degree. The Purusha is the only thing which is immaterial."<br><br>
 - Swami Vivekananda, "Introductory" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -597,8 +619,9 @@ cat > P023.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -624,8 +647,9 @@ cat > P024.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -651,8 +675,9 @@ cat > P025.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -678,8 +703,9 @@ cat > P026.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -705,8 +731,9 @@ cat > P027.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -732,8 +759,9 @@ cat > P028.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -759,8 +787,9 @@ cat > P029.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -787,8 +816,9 @@ cat > P030.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -814,8 +844,9 @@ cat > P031.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -841,8 +872,9 @@ cat > P032.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -868,8 +900,9 @@ cat > P033.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -895,8 +928,9 @@ cat > P034.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -922,8 +956,9 @@ cat > P035.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -949,8 +984,9 @@ cat > P036.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -976,8 +1012,9 @@ cat > P037.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1003,8 +1040,9 @@ cat > P038.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1030,8 +1068,9 @@ cat > P039.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1057,8 +1096,9 @@ cat > P040.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1084,8 +1124,9 @@ cat > P041.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1111,8 +1152,9 @@ cat > P042.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1124,7 +1166,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P042.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"In very remote times in India, thousands of years ago, these facts [extraordinary happenings] used to happen even more than they do today. It seems to me that when a country becomes very thickly populated, psychical power deteriorates. Given a vast country thinly inhabited, there will, perhaps, be more of psychical power there. These facts, the Hindus, being analytically minded, took up and investigated. And they came to certain remarkable conclusions; that is, they made a science of it. They found out that all these, though extraordinary, are also natural; there is nothing supernatural. They are under laws just the same as any other physical phenomenon... They can be systematically studied, practiced, and acquired. This science they call the science of Râja-Yoga."<br><br>
+"In very remote times in India, thousands of years ago, these facts [extraordinary happenings] used to happen even more than they do today. It seems to me that when a country becomes very thickly populated, psychical power deteriorates. Given a vast country thinly inhabited, there will, perhaps, be more of psychical power there. These facts, the Hindus, being analytically minded, took up and investigated. And they came to certain remarkable conclusions; that is, they made a science of it. They found out that all these, though extraordinary, are also natural; there is nothing supernatural. They are under laws just the same as any other physical phenomenon... They can be systematically studied, practiced, and acquired. This science they call the science of R&acircja-Yoga."<br><br>
 - Swami Vivekananda, "The Powers of the Mind" (Jan 8, 1900, Los Angeles), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1138,8 +1180,9 @@ cat > P043.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1165,8 +1208,9 @@ cat > P044.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1192,8 +1236,9 @@ cat > P045.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1219,8 +1264,9 @@ cat > P046.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1246,8 +1292,9 @@ cat > P047.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1273,8 +1320,9 @@ cat > P048.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1300,8 +1348,9 @@ cat > P049.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1327,8 +1376,9 @@ cat > P050.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1354,8 +1404,9 @@ cat > P051.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1381,8 +1432,9 @@ cat > P052.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1408,8 +1460,9 @@ cat > P053.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1435,8 +1488,9 @@ cat > P054.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1462,8 +1516,9 @@ cat > P055.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1489,8 +1544,9 @@ cat > P056.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1502,7 +1558,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P056.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and Âkâsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? — that which moves matter. And what is matter? — that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence."<br><br>
+"The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirck&acircsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? — that which moves matter. And what is matter? — that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence."<br><br>
 - Swami Vivekananda, "Hints on Practical Spirituality" (Spiritual Breathing, Dec 29, 1899, Los Angeles Home of Truth), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1516,8 +1572,9 @@ cat > P057.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1543,8 +1600,9 @@ cat > P058.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1570,8 +1628,9 @@ cat > P059.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1583,7 +1642,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P059.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"If you want to be a Yogi, you must be free, and place yourself in circumstances where you are alone and free from all anxiety. He who desires a comfortable and nice life and at the same time wants to realise the Self is like the fool who, wanting to cross the river, caught hold of a crocodile, mistaking it for a log of wood (Vivekachudâmani, 84.)."Seek ye first the kingdom of God, and everything shall be added unto you." This is the one great duty, this is renunciation. Live for an ideal, and leave no place in the mind for anything else."<br><br>
+"If you want to be a Yogi, you must be free, and place yourself in circumstances where you are alone and free from all anxiety. He who desires a comfortable and nice life and at the same time wants to realise the Self is like the fool who, wanting to cross the river, caught hold of a crocodile, mistaking it for a log of wood (Vivekachud&acircmani, 84.)."Seek ye first the kingdom of God, and everything shall be added unto you." This is the one great duty, this is renunciation. Live for an ideal, and leave no place in the mind for anything else."<br><br>
 - Swami Vivekananda, "Hints on Practical Spirituality" (Spiritual Breathing, Dec 29, 1899, Los Angeles Home of Truth), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1597,8 +1656,9 @@ cat > P060.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1610,7 +1670,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P060.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The greatest help to spiritual life is meditation (Dhyâna). In meditation we divest ourselves of all material conditions and feel our divine nature. We do not depend upon any external help in meditation."<br><br>
+"The greatest help to spiritual life is meditation (Dhy&acircna). In meditation we divest ourselves of all material conditions and feel our divine nature. We do not depend upon any external help in meditation."<br><br>
 - Swami Vivekananda, "Hints on Practical Spirituality" (Spiritual Breathing, Dec 29, 1899, Los Angeles Home of Truth), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1624,8 +1684,9 @@ cat > P061.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1651,8 +1712,9 @@ cat > P062.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1678,8 +1740,9 @@ cat > P063.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1705,8 +1768,9 @@ cat > P064.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1732,8 +1796,9 @@ cat > P065.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1759,8 +1824,9 @@ cat > P066.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1786,8 +1852,9 @@ cat > P067.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1813,8 +1880,9 @@ cat > P068.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1840,8 +1908,9 @@ cat > P069.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1867,8 +1936,9 @@ cat > P070.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1894,8 +1964,9 @@ cat > P071.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1921,8 +1992,9 @@ cat > P072.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1948,8 +2020,9 @@ cat > P073.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1975,8 +2048,9 @@ cat > P074.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2002,8 +2076,9 @@ cat > P075.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2029,8 +2104,9 @@ cat > P076.html <<'EOF'
 <head><link rel="stylesheet" href="StyleSub.css"></head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank">Complete Works of Swami Vivekananda</a>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->

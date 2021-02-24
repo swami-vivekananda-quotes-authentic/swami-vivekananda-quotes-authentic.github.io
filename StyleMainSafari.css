@@ -131,7 +131,7 @@ h1.title {
   width: 95%;
   transform: translate(-15%, 30%);    /*this line is different from chrome browser*/
   /*-ms-transform: translate(50%, 50%);*/
-  background-color: #FBFBFD;
+  background-color: white; /*#FBFBFD*/
   color: black;
   font-size: 15px;
   font-weight: 430;

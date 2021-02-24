@@ -19,7 +19,7 @@ title: |
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
-<!-- Complete Works of Swami Vivekananda -->
+
 
 <div id="header" align="center">
 <img src="swamiji1.png" title="Swami Vivekananda at San Francisco, 1900" />
@@ -65,7 +65,7 @@ knitr::opts_chunk$set(echo = T)
 <div align="center"><font size=3 face="Arial"><b>
 The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any<br> Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes.</b></font> 
 
-<font size=3 face="Arial" color="grey"><b>Every time you refresh the page, 30 randomly chosen Vivekananda quotes will appear. Quotes will be added regularly. <br>For a set of quotes falsely attributed to Vivekananda, see [here](https://onudhyan.blogspot.com/2020/06/quotes-falsely-attributed-to-swami.html){target="\_blank"}.
+<font size=3 face="Arial" color="grey"><b>Every time you refresh the page, 30 randomly chosen Vivekananda quotes will appear. Quotes will be added regularly. <br>For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.
 
 </b></font></div>
 <!-- ################ -->
