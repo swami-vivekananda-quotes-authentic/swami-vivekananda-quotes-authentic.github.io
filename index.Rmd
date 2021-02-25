@@ -11,20 +11,8 @@ citecolor: gray
 ---
 ---
 title: |
-  <center>Swami Vivekananda Quotes (Authentic)</center>
+  <center><font face="Helvetica Neue" color="#202124">Swami Vivekananda Quotes (Authentic)</font></center>
 ---
-
-<div class="navbar">
-  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-</div>
-
-
-<div id="header" align="center">
-<img src="swamiji1.png" title="Swami Vivekananda at San Francisco, 1900" />
-</div> 
-
 
 <!-- ### For google site verification. Don't delete this to keep google indexing. ### -->
 <head>
@@ -51,31 +39,78 @@ options(width = 150)
 knitr::opts_chunk$set(echo = T)
 ```
 
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<div id="header" align="center">
+<img src="swamiji1.png" title="Swami Vivekananda at San Francisco, 1900" />
+</div> 
+
+
+
 <!-- ##### JavaScript SDK for enabling Facebook Comments Plugin #### -->
 <div id="fb-root"></div>    
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
 </script>
 <!-- ################ -->
+<!-- <p>&nbsp;</p> -->
 
-<hr> 
+<!-- <hr>  -->
 
 <!-- ################ Introduction text ################-->
 
-
-<div align="center"><font size=3 face="Arial"><b>
-The purpose of doing this page is to make sure every Vivekananda quote is properly referenced. It is encouraged not to forward any<br> Vivekananda quote in any social media without confirming its reference. Below, all the quotes are authentic Vivekananda quotes.</b></font> 
-
-<font size=3 face="Arial" color="grey"><b>Every time you refresh the page, 30 randomly chosen Vivekananda quotes will appear. Quotes will be added regularly. <br>For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.
-
-</b></font></div>
-<!-- ################ -->
+<p>&nbsp;</p>
+<!-- <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p> -->
 
 
-<!-- ################ Facebook iframe ################ -->
-<!-- <iframe position="absolute" align="right" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwami-Vivekananda-Quotes-Authentic-104968054944575&tabs=timeline&width=240&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="200" height="121" style="border:none;overflow:hidden;position:absolute; top: 55px; right: 35px;" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
-<!-- ################ -->
+<div align="center">
+<font size=2.5 face="Arial" color="#202124"><b>
+"My ideal, indeed, can be put into a few words, and that is: to preach unto mankind their divinity, and<br> how to make it manifest in every movement of life." - CW 7, Epistles XXXVI (to Miss Noble)</b></font>
 
+<p>&nbsp;</p>
 <hr>
+<p>&nbsp;</p>
+
+<p style="width: 60%;"><i>
+The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, 15 randomly chosen quotes will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
+
+<p>&nbsp;<br></p>
+
+
+<div1>
+<script async src="https://cse.google.com/cse.js?cx=7ff85561f8bdcf675"></script>
+<div class="gcse-search" id="cse" style="width: 50%; margin: 0 auto"></div>
+</div1>
+
+
+<!-- The form -->
+<!-- <form class="example" action="action_page.php">
+  <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form> -->
+
+<p>&nbsp;</p>
+
 
 
 
@@ -170,7 +205,7 @@ The purpose of doing this page is to make sure every Vivekananda quote is proper
  var random
  var spacing="<br>"
  //while all of array elements haven't been cycled thru
- while (i<30){
+ while (i<15){
      //generate random num between 0 and arraylength-1
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
