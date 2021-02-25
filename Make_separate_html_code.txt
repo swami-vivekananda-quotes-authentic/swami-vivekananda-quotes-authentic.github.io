@@ -1,6 +1,13 @@
 cat > P001.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -12,7 +19,7 @@ cat > P001.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -28,7 +35,14 @@ EOF
 
 cat > P002.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -40,7 +54,7 @@ cat > P002.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P002.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -56,7 +70,14 @@ EOF
 
 cat > P003.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -68,7 +89,7 @@ cat > P003.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P003.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -84,7 +105,14 @@ EOF
 
 cat > P004.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -96,7 +124,7 @@ cat > P004.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P004.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -112,7 +140,14 @@ EOF
 
 cat > P005.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -124,7 +159,7 @@ cat > P005.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P005.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -140,7 +175,14 @@ EOF
 
 cat > P006.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -152,7 +194,7 @@ cat > P006.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P006.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -168,7 +210,14 @@ EOF
 
 cat > P007.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -180,7 +229,7 @@ cat > P007.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P007.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -196,7 +245,14 @@ EOF
 
 cat > P008.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -208,7 +264,7 @@ cat > P008.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P008.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -224,7 +280,14 @@ EOF
 
 cat > P009.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -236,7 +299,7 @@ cat > P009.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P009.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -252,7 +315,14 @@ EOF
 
 cat > P010.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -264,7 +334,7 @@ cat > P010.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P010.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -280,7 +350,14 @@ EOF
 
 cat > P011.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -292,7 +369,7 @@ cat > P011.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P011.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -308,7 +385,14 @@ EOF
 
 cat > P012.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -320,7 +404,7 @@ cat > P012.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P012.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -336,7 +420,14 @@ EOF
 
 cat > P013.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -348,7 +439,7 @@ cat > P013.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P013.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -364,7 +455,14 @@ EOF
 
 cat > P014.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -376,7 +474,7 @@ cat > P014.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P014.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -392,7 +490,14 @@ EOF
 
 cat > P015.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -404,7 +509,7 @@ cat > P015.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P015.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -420,7 +525,14 @@ EOF
 
 cat > P016.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -432,7 +544,7 @@ cat > P016.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P016.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -448,7 +560,14 @@ EOF
 
 cat > P017.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -460,7 +579,7 @@ cat > P017.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P017.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -476,7 +595,14 @@ EOF
 
 cat > P018.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -488,7 +614,7 @@ cat > P018.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P018.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -504,7 +630,14 @@ EOF
 
 cat > P019.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -516,7 +649,7 @@ cat > P019.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P019.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -532,7 +665,14 @@ EOF
 
 cat > P020.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -544,7 +684,7 @@ cat > P020.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P020.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -560,7 +700,14 @@ EOF
 
 cat > P021.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -572,7 +719,7 @@ cat > P021.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P021.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -588,7 +735,14 @@ EOF
 
 cat > P022.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -600,7 +754,7 @@ cat > P022.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P022.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -616,7 +770,14 @@ EOF
 
 cat > P023.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Introductory, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -628,7 +789,7 @@ cat > P023.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P023.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -644,7 +805,14 @@ EOF
 
 cat > P024.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The First Steps, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -656,7 +824,7 @@ cat > P024.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P024.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -672,7 +840,14 @@ EOF
 
 cat > P025.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The First Steps, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -684,7 +859,7 @@ cat > P025.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P025.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -700,7 +875,14 @@ EOF
 
 cat > P026.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The First Steps, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -712,7 +894,7 @@ cat > P026.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P026.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -728,7 +910,14 @@ EOF
 
 cat > P027.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The First Steps, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -740,7 +929,7 @@ cat > P027.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P027.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -756,7 +945,14 @@ EOF
 
 cat > P028.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The First Steps, Raja-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -768,7 +964,7 @@ cat > P028.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P028.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -784,7 +980,14 @@ EOF
 
 cat > P029.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -796,7 +999,7 @@ cat > P029.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P029.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -813,7 +1016,14 @@ EOF
 
 cat > P030.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -825,7 +1035,7 @@ cat > P030.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P030.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -841,7 +1051,14 @@ EOF
 
 cat > P031.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -853,7 +1070,7 @@ cat > P031.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P031.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -869,7 +1086,14 @@ EOF
 
 cat > P032.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -881,7 +1105,7 @@ cat > P032.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P032.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -897,7 +1121,14 @@ EOF
 
 cat > P033.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -909,7 +1140,7 @@ cat > P033.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P033.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -925,7 +1156,14 @@ EOF
 
 cat > P034.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -937,7 +1175,7 @@ cat > P034.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P034.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -953,7 +1191,14 @@ EOF
 
 cat > P035.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -965,7 +1210,7 @@ cat > P035.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P035.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -981,7 +1226,14 @@ EOF
 
 cat > P036.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -993,7 +1245,7 @@ cat > P036.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P036.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1009,7 +1261,14 @@ EOF
 
 cat > P037.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1021,7 +1280,7 @@ cat > P037.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P037.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1037,7 +1296,14 @@ EOF
 
 cat > P038.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1049,7 +1315,7 @@ cat > P038.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P038.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1065,7 +1331,14 @@ EOF
 
 cat > P039.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1077,7 +1350,7 @@ cat > P039.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P039.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1093,7 +1366,14 @@ EOF
 
 cat > P040.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Work and Its Secret" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1105,7 +1385,7 @@ cat > P040.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P040.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1121,7 +1401,14 @@ EOF
 
 cat > P041.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1133,7 +1420,7 @@ cat > P041.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P041.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1149,7 +1436,14 @@ EOF
 
 cat > P042.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1161,7 +1455,7 @@ cat > P042.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P042.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1177,7 +1471,14 @@ EOF
 
 cat > P043.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1189,7 +1490,7 @@ cat > P043.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P043.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1205,7 +1506,14 @@ EOF
 
 cat > P044.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1217,7 +1525,7 @@ cat > P044.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P044.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1233,7 +1541,14 @@ EOF
 
 cat > P045.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1245,7 +1560,7 @@ cat > P045.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P045.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1261,7 +1576,14 @@ EOF
 
 cat > P046.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1273,7 +1595,7 @@ cat > P046.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P046.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1289,7 +1611,14 @@ EOF
 
 cat > P047.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1301,7 +1630,7 @@ cat > P047.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P047.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1317,7 +1646,14 @@ EOF
 
 cat > P048.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1329,7 +1665,7 @@ cat > P048.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P048.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1345,7 +1681,14 @@ EOF
 
 cat > P049.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Powers of the Mind" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1357,7 +1700,7 @@ cat > P049.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P049.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1373,7 +1716,14 @@ EOF
 
 cat > P050.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1385,7 +1735,7 @@ cat > P050.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P050.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1401,7 +1751,14 @@ EOF
 
 cat > P051.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1413,7 +1770,7 @@ cat > P051.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P051.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1429,7 +1786,14 @@ EOF
 
 cat > P052.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1441,7 +1805,7 @@ cat > P052.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P052.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1457,7 +1821,14 @@ EOF
 
 cat > P053.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1469,7 +1840,7 @@ cat > P053.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P053.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1485,7 +1856,14 @@ EOF
 
 cat > P054.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1497,7 +1875,7 @@ cat > P054.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P054.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1513,7 +1891,14 @@ EOF
 
 cat > P055.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1525,7 +1910,7 @@ cat > P055.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P055.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1541,7 +1926,14 @@ EOF
 
 cat > P056.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1553,7 +1945,7 @@ cat > P056.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P056.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1569,7 +1961,14 @@ EOF
 
 cat > P057.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1581,7 +1980,7 @@ cat > P057.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P057.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1597,7 +1996,14 @@ EOF
 
 cat > P058.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1609,7 +2015,7 @@ cat > P058.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P058.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1625,7 +2031,14 @@ EOF
 
 cat > P059.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1637,7 +2050,7 @@ cat > P059.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P059.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1653,7 +2066,14 @@ EOF
 
 cat > P060.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1665,7 +2085,7 @@ cat > P060.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P060.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1681,7 +2101,14 @@ EOF
 
 cat > P061.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hints on Practical Spirituality" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1693,7 +2120,7 @@ cat > P061.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P061.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1709,7 +2136,14 @@ EOF
 
 cat > P062.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Concentration" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1721,7 +2155,7 @@ cat > P062.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P062.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1737,7 +2171,14 @@ EOF
 
 cat > P063.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Concentration" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1749,7 +2190,7 @@ cat > P063.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P063.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1765,7 +2206,14 @@ EOF
 
 cat > P064.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Concentration" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1777,7 +2225,7 @@ cat > P064.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P064.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1793,7 +2241,14 @@ EOF
 
 cat > P065.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Concentration" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1805,7 +2260,7 @@ cat > P065.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P065.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1821,7 +2276,14 @@ EOF
 
 cat > P066.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Concentration" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1833,7 +2295,7 @@ cat > P066.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P066.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1849,7 +2311,14 @@ EOF
 
 cat > P067.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Concentration" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1861,7 +2330,7 @@ cat > P067.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P067.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1877,7 +2346,14 @@ EOF
 
 cat > P068.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1889,7 +2365,7 @@ cat > P068.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P068.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1905,7 +2381,14 @@ EOF
 
 cat > P069.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1917,7 +2400,7 @@ cat > P069.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P069.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1933,7 +2416,14 @@ EOF
 
 cat > P070.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1945,7 +2435,7 @@ cat > P070.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P070.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1961,7 +2451,14 @@ EOF
 
 cat > P071.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -1973,7 +2470,7 @@ cat > P071.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P071.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -1989,7 +2486,14 @@ EOF
 
 cat > P072.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -2001,7 +2505,7 @@ cat > P072.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P072.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -2017,7 +2521,14 @@ EOF
 
 cat > P073.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -2029,7 +2540,7 @@ cat > P073.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P073.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -2045,7 +2556,14 @@ EOF
 
 cat > P074.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -2057,7 +2575,7 @@ cat > P074.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P074.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -2073,7 +2591,14 @@ EOF
 
 cat > P075.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -2085,7 +2610,7 @@ cat > P075.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P075.jpeg" width=550 style="float:none; padding: 10px;"></div>
@@ -2101,7 +2626,14 @@ EOF
 
 cat > P076.html <<'EOF'  
 <html>
-<head><link rel="stylesheet" href="StyleSub.css"></head>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/" />
+</head>
 <body width = 500px>
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -2113,7 +2645,7 @@ cat > P076.html <<'EOF'
 <script>
 var a2a_config = a2a_config || {};
 a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','gmail']});
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P076.jpeg" width=550 style="float:none; padding: 10px;"></div>
