@@ -1,4 +1,5 @@
 ---
+title: Swami Vivekananda Quotes (Authentic)
 output:
  html_document:
   includes:
@@ -9,10 +10,10 @@ output:
 urlcolor: gray
 citecolor: gray
 ---
----
+<!-- ---
 title: |
   <center><font face="Helvetica Neue" color="#202124">Swami Vivekananda Quotes (Authentic)</font></center>
----
+--- -->
 
 <!-- ### For google site verification. Don't delete this to keep google indexing. ### -->
 <head>
@@ -27,6 +28,12 @@ title: |
    margin-right: auto;
  };
  p {line-height: 4em;}
+ h1.title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 37px;
+  color: #1E1F21;
+  text-align: center;
+ }
 </style>
 
 
@@ -84,7 +91,7 @@ knitr::opts_chunk$set(echo = T)
 
 
 <div align="center">
-<font size=2.5 face="Arial" color="#202124"><b>
+<font size=2.5 face="Arial" color="#161618"><b>
 "My ideal, indeed, can be put into a few words, and that is: to preach unto mankind their divinity, and<br> how to make it manifest in every movement of life." - CW 7, Epistles XXXVI (to Miss Noble)</b></font>
 
 <p>&nbsp;</p>
