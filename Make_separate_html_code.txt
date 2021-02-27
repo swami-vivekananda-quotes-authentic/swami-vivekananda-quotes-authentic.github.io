@@ -250,7 +250,7 @@ cat > P008.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P008.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
-<meta property="og:description" content="The men of mighty will the world has produced have all been tremendous workers — gigantic souls, with wills powerful enough to overturn worlds, wills they got by persistent work, through ages, and ages. Such a gigantic will as that of a Buddha or a Jesus could not be obtained in one life, for we know who their fathers were... Millions and millions of carpenters like Joseph had gone; millions are still living. Millions and millions of petty kings like Buddha's father had been in the world. If it was only a case of hereditary transmission, how do you account for this petty prince, who was not, perhaps, obeyed by his own servants, producing this son, whom half a world worships? How do you explain the gulf between the carpenter and his son, whom millions of human beings worship as God? It cannot be solved by the theory of heredity. The gigantic will which Buddha and Jesus threw over the world, whence did it come? Whence came this accumulation of power? It must have been there through ages and ages, continually growing bigger and bigger, until it burst on society in a Buddha or a Jesus, even rolling down to the present day." />
+<meta property="og:description" content="The men of mighty will the world has produced have all been tremendous workers - gigantic souls, with wills powerful enough to overturn worlds, wills they got by persistent work, through ages, and ages. Such a gigantic will as that of a Buddha or a Jesus could not be obtained in one life, for we know who their fathers were... Millions and millions of carpenters like Joseph had gone; millions are still living. Millions and millions of petty kings like Buddha's father had been in the world. If it was only a case of hereditary transmission, how do you account for this petty prince, who was not, perhaps, obeyed by his own servants, producing this son, whom half a world worships? How do you explain the gulf between the carpenter and his son, whom millions of human beings worship as God? It cannot be solved by the theory of heredity. The gigantic will which Buddha and Jesus threw over the world, whence did it come? Whence came this accumulation of power? It must have been there through ages and ages, continually growing bigger and bigger, until it burst on society in a Buddha or a Jesus, even rolling down to the present day." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P008.jpeg" />
 </head>
 <body width = 500px>
@@ -269,7 +269,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P008.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The men of mighty will the world has produced have all been tremendous workers — gigantic souls, with wills powerful enough to overturn worlds, wills they got by persistent work, through ages, and ages. Such a gigantic will as that of a Buddha or a Jesus could not be obtained in one life, for we know who their fathers were... Millions and millions of carpenters like Joseph had gone; millions are still living. Millions and millions of petty kings like Buddha's father had been in the world. If it was only a case of hereditary transmission, how do you account for this petty prince, who was not, perhaps, obeyed by his own servants, producing this son, whom half a world worships? How do you explain the gulf between the carpenter and his son, whom millions of human beings worship as God? It cannot be solved by the theory of heredity. The gigantic will which Buddha and Jesus threw over the world, whence did it come? Whence came this accumulation of power? It must have been there through ages and ages, continually growing bigger and bigger, until it burst on society in a Buddha or a Jesus, even rolling down to the present day."<br><br>
+"The men of mighty will the world has produced have all been tremendous workers - gigantic souls, with wills powerful enough to overturn worlds, wills they got by persistent work, through ages, and ages. Such a gigantic will as that of a Buddha or a Jesus could not be obtained in one life, for we know who their fathers were... Millions and millions of carpenters like Joseph had gone; millions are still living. Millions and millions of petty kings like Buddha's father had been in the world. If it was only a case of hereditary transmission, how do you account for this petty prince, who was not, perhaps, obeyed by his own servants, producing this son, whom half a world worships? How do you explain the gulf between the carpenter and his son, whom millions of human beings worship as God? It cannot be solved by the theory of heredity. The gigantic will which Buddha and Jesus threw over the world, whence did it come? Whence came this accumulation of power? It must have been there through ages and ages, continually growing bigger and bigger, until it burst on society in a Buddha or a Jesus, even rolling down to the present day."<br><br>
 - Swami Vivekananda, "Karma in its Effect on Character" (Dec 13, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -460,7 +460,7 @@ cat > P014.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P014.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Raja-Yoga" />
-<meta property="og:description" content="Each soul is potentially divine. The goal is to manifest this Divinity within by controlling nature, external and internal. Do this either by work, or worship, or psychic control, or philosophy — by one, or more, or all of these — and be free. This is the whole of religion. Doctrines, or dogmas, or rituals, or books, or temples, or forms, are but secondary details." />
+<meta property="og:description" content="Each soul is potentially divine. The goal is to manifest this Divinity within by controlling nature, external and internal. Do this either by work, or worship, or psychic control, or philosophy - by one, or more, or all of these - and be free. This is the whole of religion. Doctrines, or dogmas, or rituals, or books, or temples, or forms, are but secondary details." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P014.jpeg" />
 </head>
 <body width = 500px>
@@ -479,7 +479,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P014.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"Each soul is potentially divine. The goal is to manifest this Divinity within by controlling nature, external and internal. Do this either by work, or worship, or psychic control, or philosophy — by one, or more, or all of these — and be free. This is the whole of religion. Doctrines, or dogmas, or rituals, or books, or temples, or forms, are but secondary details."<br><br>
+"Each soul is potentially divine. The goal is to manifest this Divinity within by controlling nature, external and internal. Do this either by work, or worship, or psychic control, or philosophy - by one, or more, or all of these - and be free. This is the whole of religion. Doctrines, or dogmas, or rituals, or books, or temples, or forms, are but secondary details."<br><br>
 - Swami Vivekananda, Preface, Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -495,7 +495,7 @@ cat > P015.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P015.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
-<meta property="og:description" content="The Christian asks you to believe in his religion, to believe in Christ and to believe in him as the incarnation of God, to believe in a God, in a soul, and in a better state of that soul. If I ask him for reason, he says he believes in them. But if you go to the fountain-head of Christianity, you will find that it is based upon experience. Christ said he saw God; the disciples said they felt God; and so forth. Similarly, in Buddhism, it is Buddha's experience. He experienced certain truths, saw them, came in contact with them, and preached them to the world. So with the Hindus. In their books the writers, who are called Rishis, or sages, declare they experienced certain truths, and these they preach. Thus it is clear that all the religions of the world have been built upon that one universal and adamantine foundation of all our knowledge — direct experience. The teachers all saw God; they all saw their own souls, they saw their future, they saw their eternity, and what they saw they preached." />
+<meta property="og:description" content="The Christian asks you to believe in his religion, to believe in Christ and to believe in him as the incarnation of God, to believe in a God, in a soul, and in a better state of that soul. If I ask him for reason, he says he believes in them. But if you go to the fountain-head of Christianity, you will find that it is based upon experience. Christ said he saw God; the disciples said they felt God; and so forth. Similarly, in Buddhism, it is Buddha's experience. He experienced certain truths, saw them, came in contact with them, and preached them to the world. So with the Hindus. In their books the writers, who are called Rishis, or sages, declare they experienced certain truths, and these they preach. Thus it is clear that all the religions of the world have been built upon that one universal and adamantine foundation of all our knowledge - direct experience. The teachers all saw God; they all saw their own souls, they saw their future, they saw their eternity, and what they saw they preached." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P015.jpeg" />
 </head>
 <body width = 500px>
@@ -514,7 +514,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P015.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The Christian asks you to believe in his religion, to believe in Christ and to believe in him as the incarnation of God, to believe in a God, in a soul, and in a better state of that soul. If I ask him for reason, he says he believes in them. But if you go to the fountain-head of Christianity, you will find that it is based upon experience. Christ said he saw God; the disciples said they felt God; and so forth. Similarly, in Buddhism, it is Buddha's experience. He experienced certain truths, saw them, came in contact with them, and preached them to the world. So with the Hindus. In their books the writers, who are called Rishis, or sages, declare they experienced certain truths, and these they preach. Thus it is clear that all the religions of the world have been built upon that one universal and adamantine foundation of all our knowledge — direct experience. The teachers all saw God; they all saw their own souls, they saw their future, they saw their eternity, and what they saw they preached."<br><br>
+"The Christian asks you to believe in his religion, to believe in Christ and to believe in him as the incarnation of God, to believe in a God, in a soul, and in a better state of that soul. If I ask him for reason, he says he believes in them. But if you go to the fountain-head of Christianity, you will find that it is based upon experience. Christ said he saw God; the disciples said they felt God; and so forth. Similarly, in Buddhism, it is Buddha's experience. He experienced certain truths, saw them, came in contact with them, and preached them to the world. So with the Hindus. In their books the writers, who are called Rishis, or sages, declare they experienced certain truths, and these they preach. Thus it is clear that all the religions of the world have been built upon that one universal and adamantine foundation of all our knowledge - direct experience. The teachers all saw God; they all saw their own souls, they saw their future, they saw their eternity, and what they saw they preached."<br><br>
 - Swami Vivekananda, "Introductory" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -530,7 +530,7 @@ cat > P016.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P016.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
-<meta property="og:description" content="In acquiring knowledge we make use of generalisations, and generalisation is based upon observation. We first observe facts, then generalise, and then draw conclusions or principles. The knowledge of the mind, of the internal nature of man, of thought, can never be had until we have first the power of observing the facts that are going on within. It is comparatively easy to observe facts in the external world, for many instruments have been invented for the purpose, but in the internal world we have no instrument to help us. Yet we know we must observe in order to have a real science. Without a proper analysis, any science will be hopeless — mere theorising... The science of Raja-Yoga, in the first place, proposes to give us such a means of observing the internal states. The instrument is the mind itself. The power of attention, when properly guided, and directed towards the internal world, will analyse the mind, and illumine facts for us." />
+<meta property="og:description" content="In acquiring knowledge we make use of generalisations, and generalisation is based upon observation. We first observe facts, then generalise, and then draw conclusions or principles. The knowledge of the mind, of the internal nature of man, of thought, can never be had until we have first the power of observing the facts that are going on within. It is comparatively easy to observe facts in the external world, for many instruments have been invented for the purpose, but in the internal world we have no instrument to help us. Yet we know we must observe in order to have a real science. Without a proper analysis, any science will be hopeless - mere theorising... The science of Raja-Yoga, in the first place, proposes to give us such a means of observing the internal states. The instrument is the mind itself. The power of attention, when properly guided, and directed towards the internal world, will analyse the mind, and illumine facts for us." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P016.jpeg" />
 </head>
 <body width = 500px>
@@ -549,7 +549,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P016.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"In acquiring knowledge we make use of generalisations, and generalisation is based upon observation. We first observe facts, then generalise, and then draw conclusions or principles. The knowledge of the mind, of the internal nature of man, of thought, can never be had until we have first the power of observing the facts that are going on within. It is comparatively easy to observe facts in the external world, for many instruments have been invented for the purpose, but in the internal world we have no instrument to help us. Yet we know we must observe in order to have a real science. Without a proper analysis, any science will be hopeless — mere theorising... The science of Raja-Yoga, in the first place, proposes to give us such a means of observing the internal states. The instrument is the mind itself. The power of attention, when properly guided, and directed towards the internal world, will analyse the mind, and illumine facts for us."<br><br>
+"In acquiring knowledge we make use of generalisations, and generalisation is based upon observation. We first observe facts, then generalise, and then draw conclusions or principles. The knowledge of the mind, of the internal nature of man, of thought, can never be had until we have first the power of observing the facts that are going on within. It is comparatively easy to observe facts in the external world, for many instruments have been invented for the purpose, but in the internal world we have no instrument to help us. Yet we know we must observe in order to have a real science. Without a proper analysis, any science will be hopeless - mere theorising... The science of Raja-Yoga, in the first place, proposes to give us such a means of observing the internal states. The instrument is the mind itself. The power of attention, when properly guided, and directed towards the internal world, will analyse the mind, and illumine facts for us."<br><br>
 - Swami Vivekananda, "Introductory" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -565,7 +565,7 @@ cat > P017.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P017.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
-<meta property="og:description" content="It is easy to concentrate the mind on external things, the mind naturally goes outwards; but not so in the case of religion, or psychology, or metaphysics, where the subject and the object, are one. The object is internal, the mind itself is the object, and it is necessary to study the mind itself — mind studying mind. We know that there is the power of the mind called reflection. I am talking to you. At the same time I am standing aside, as it were, a second person, and knowing and hearing what I am talking. You work and think at the same time, while a portion of your mind stands by and sees what you are thinking. The powers of the mind should be concentrated and turned back upon itself, and... this concentrated mind penetrate its own innermost secrets. Thus will we come to the basis of belief, the real genuine religion. We will perceive for ourselves whether we have souls, whether life is of five minutes or of eternity, whether there is a God in the universe or more. It will all be revealed to us. This is what Raja-Yoga proposes to teach." />
+<meta property="og:description" content="It is easy to concentrate the mind on external things, the mind naturally goes outwards; but not so in the case of religion, or psychology, or metaphysics, where the subject and the object, are one. The object is internal, the mind itself is the object, and it is necessary to study the mind itself - mind studying mind. We know that there is the power of the mind called reflection. I am talking to you. At the same time I am standing aside, as it were, a second person, and knowing and hearing what I am talking. You work and think at the same time, while a portion of your mind stands by and sees what you are thinking. The powers of the mind should be concentrated and turned back upon itself, and... this concentrated mind penetrate its own innermost secrets. Thus will we come to the basis of belief, the real genuine religion. We will perceive for ourselves whether we have souls, whether life is of five minutes or of eternity, whether there is a God in the universe or more. It will all be revealed to us. This is what Raja-Yoga proposes to teach." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P017.jpeg" />
 </head>
 <body width = 500px>
@@ -584,7 +584,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P017.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"It is easy to concentrate the mind on external things, the mind naturally goes outwards; but not so in the case of religion, or psychology, or metaphysics, where the subject and the object, are one. The object is internal, the mind itself is the object, and it is necessary to study the mind itself — mind studying mind. We know that there is the power of the mind called reflection. I am talking to you. At the same time I am standing aside, as it were, a second person, and knowing and hearing what I am talking. You work and think at the same time, while a portion of your mind stands by and sees what you are thinking. The powers of the mind should be concentrated and turned back upon itself, and... this concentrated mind penetrate its own innermost secrets. Thus will we come to the basis of belief, the real genuine religion. We will perceive for ourselves whether we have souls, whether life is of five minutes or of eternity, whether there is a God in the universe or more. It will all be revealed to us. This is what Raja-Yoga proposes to teach."<br><br>
+"It is easy to concentrate the mind on external things, the mind naturally goes outwards; but not so in the case of religion, or psychology, or metaphysics, where the subject and the object, are one. The object is internal, the mind itself is the object, and it is necessary to study the mind itself - mind studying mind. We know that there is the power of the mind called reflection. I am talking to you. At the same time I am standing aside, as it were, a second person, and knowing and hearing what I am talking. You work and think at the same time, while a portion of your mind stands by and sees what you are thinking. The powers of the mind should be concentrated and turned back upon itself, and... this concentrated mind penetrate its own innermost secrets. Thus will we come to the basis of belief, the real genuine religion. We will perceive for ourselves whether we have souls, whether life is of five minutes or of eternity, whether there is a God in the universe or more. It will all be revealed to us. This is what Raja-Yoga proposes to teach."<br><br>
 - Swami Vivekananda, "Introductory" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -670,7 +670,7 @@ cat > P020.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P020.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
-<meta property="og:description" content="The end and aim of all science is to find the unity, the One out of which the manifold is being manufactured, that One existing as many. Raja-Yoga proposes to start from the internal world, to study internal nature, and through that, control the whole — both internal and external. It is a very old attempt. India has been its special stronghold, but it was also attempted by other nations. In Western countries it was regarded as mysticism and people who wanted to practice it were either burned or killed as witches and sorcerers. In India, for various reasons, it fell into the hands of persons who destroyed ninety per cent of the knowledge, and tried to make a great secret of the remainder. In modern times many so-called teachers have arisen in the West worse than those of India, because the latter knew something, while these modern exponents know nothing." />
+<meta property="og:description" content="The end and aim of all science is to find the unity, the One out of which the manifold is being manufactured, that One existing as many. Raja-Yoga proposes to start from the internal world, to study internal nature, and through that, control the whole - both internal and external. It is a very old attempt. India has been its special stronghold, but it was also attempted by other nations. In Western countries it was regarded as mysticism and people who wanted to practice it were either burned or killed as witches and sorcerers. In India, for various reasons, it fell into the hands of persons who destroyed ninety per cent of the knowledge, and tried to make a great secret of the remainder. In modern times many so-called teachers have arisen in the West worse than those of India, because the latter knew something, while these modern exponents know nothing." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P020.jpeg" />
 </head>
 <body width = 500px>
@@ -689,7 +689,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P020.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The end and aim of all science is to find the unity, the One out of which the manifold is being manufactured, that One existing as many. Raja-Yoga proposes to start from the internal world, to study internal nature, and through that, control the whole — both internal and external. It is a very old attempt. India has been its special stronghold, but it was also attempted by other nations. In Western countries it was regarded as mysticism and people who wanted to practice it were either burned or killed as witches and sorcerers. In India, for various reasons, it fell into the hands of persons who destroyed ninety per cent of the knowledge, and tried to make a great secret of the remainder. In modern times many so-called teachers have arisen in the West worse than those of India, because the latter knew something, while these modern exponents know nothing."<br><br>
+"The end and aim of all science is to find the unity, the One out of which the manifold is being manufactured, that One existing as many. Raja-Yoga proposes to start from the internal world, to study internal nature, and through that, control the whole - both internal and external. It is a very old attempt. India has been its special stronghold, but it was also attempted by other nations. In Western countries it was regarded as mysticism and people who wanted to practice it were either burned or killed as witches and sorcerers. In India, for various reasons, it fell into the hands of persons who destroyed ninety per cent of the knowledge, and tried to make a great secret of the remainder. In modern times many so-called teachers have arisen in the West worse than those of India, because the latter knew something, while these modern exponents know nothing."<br><br>
 - Swami Vivekananda, "Introductory" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -705,7 +705,7 @@ cat > P021.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P021.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
-<meta property="og:description" content="Anything that is secret and mysterious in these systems of Yoga should be at once rejected. The best guide in life is strength. In religion, as in all other matters, discard everything that weakens you, have nothing to do with it. Mystery-mongering weakens the human brain. It has well-nigh destroyed Yoga — one of the grandest of sciences. From the time it was discovered, more than four thousand years ago, Yoga was perfectly delineated, formulated, and preached in India. It is a striking fact that the more modern the commentator the greater the mistakes he makes, while the more ancient the writer the more rational he is. Most of the modern writers talk of all sorts of mystery. Thus Yoga fell into the hands of a few persons who made it a secret, instead of letting the full blaze of daylight and reason fall upon it. They did so that they might have the powers to themselves." />
+<meta property="og:description" content="Anything that is secret and mysterious in these systems of Yoga should be at once rejected. The best guide in life is strength. In religion, as in all other matters, discard everything that weakens you, have nothing to do with it. Mystery-mongering weakens the human brain. It has well-nigh destroyed Yoga - one of the grandest of sciences. From the time it was discovered, more than four thousand years ago, Yoga was perfectly delineated, formulated, and preached in India. It is a striking fact that the more modern the commentator the greater the mistakes he makes, while the more ancient the writer the more rational he is. Most of the modern writers talk of all sorts of mystery. Thus Yoga fell into the hands of a few persons who made it a secret, instead of letting the full blaze of daylight and reason fall upon it. They did so that they might have the powers to themselves." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P021.jpeg" />
 </head>
 <body width = 500px>
@@ -724,7 +724,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P021.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"Anything that is secret and mysterious in these systems of Yoga should be at once rejected. The best guide in life is strength. In religion, as in all other matters, discard everything that weakens you, have nothing to do with it. Mystery-mongering weakens the human brain. It has well-nigh destroyed Yoga — one of the grandest of sciences. From the time it was discovered, more than four thousand years ago, Yoga was perfectly delineated, formulated, and preached in India. It is a striking fact that the more modern the commentator the greater the mistakes he makes, while the more ancient the writer the more rational he is. Most of the modern writers talk of all sorts of mystery. Thus Yoga fell into the hands of a few persons who made it a secret, instead of letting the full blaze of daylight and reason fall upon it. They did so that they might have the powers to themselves."<br><br>
+"Anything that is secret and mysterious in these systems of Yoga should be at once rejected. The best guide in life is strength. In religion, as in all other matters, discard everything that weakens you, have nothing to do with it. Mystery-mongering weakens the human brain. It has well-nigh destroyed Yoga - one of the grandest of sciences. From the time it was discovered, more than four thousand years ago, Yoga was perfectly delineated, formulated, and preached in India. It is a striking fact that the more modern the commentator the greater the mistakes he makes, while the more ancient the writer the more rational he is. Most of the modern writers talk of all sorts of mystery. Thus Yoga fell into the hands of a few persons who made it a secret, instead of letting the full blaze of daylight and reason fall upon it. They did so that they might have the powers to themselves."<br><br>
 - Swami Vivekananda, "Introductory" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -810,7 +810,7 @@ cat > P024.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P024.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
-<meta property="og:description" content="Hatha-Yoga... deals entirely with the physical body, its aim being to make the physical body very strong. We have nothing to do with it here, because its practices are very difficult, and cannot be learned in a day, and, after all, do not lead to much spiritual growth... The result of this branch of Yoga is to make men live long; health is the chief idea, the one goal of the Hatha-Yogi. He is determined not to fall sick, and he never does. He lives long; a hundred years is nothing to him; he is quite young and fresh when he is 150, without one hair turned grey. But that is all. A banyan tree lives sometimes 5000 years, but it is a banyan tree and nothing more. So, if a man lives long, he is only a healthy animal. One or two ordinary lessons of the Hatha-Yogis are very useful. "" />
+<meta property="og:description" content="Hatha-Yoga... deals entirely with the physical body, its aim being to make the physical body very strong. We have nothing to do with it here, because its practices are very difficult, and cannot be learned in a day, and, after all, do not lead to much spiritual growth... The result of this branch of Yoga is to make men live long; health is the chief idea, the one goal of the Hatha-Yogi. He is determined not to fall sick, and he never does. He lives long; a hundred years is nothing to him; he is quite young and fresh when he is 150, without one hair turned grey. But that is all. A banyan tree lives sometimes 5000 years, but it is a banyan tree and nothing more. So, if a man lives long, he is only a healthy animal. One or two ordinary lessons of the Hatha-Yogis are very useful." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P024.jpeg" />
 </head>
 <body width = 500px>
@@ -829,7 +829,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P024.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"Hatha-Yoga... deals entirely with the physical body, its aim being to make the physical body very strong. We have nothing to do with it here, because its practices are very difficult, and cannot be learned in a day, and, after all, do not lead to much spiritual growth... The result of this branch of Yoga is to make men live long; health is the chief idea, the one goal of the Hatha-Yogi. He is determined not to fall sick, and he never does. He lives long; a hundred years is nothing to him; he is quite young and fresh when he is 150, without one hair turned grey. But that is all. A banyan tree lives sometimes 5000 years, but it is a banyan tree and nothing more. So, if a man lives long, he is only a healthy animal. One or two ordinary lessons of the Hatha-Yogis are very useful. "<br><br>
+"Hatha-Yoga... deals entirely with the physical body, its aim being to make the physical body very strong. We have nothing to do with it here, because its practices are very difficult, and cannot be learned in a day, and, after all, do not lead to much spiritual growth... The result of this branch of Yoga is to make men live long; health is the chief idea, the one goal of the Hatha-Yogi. He is determined not to fall sick, and he never does. He lives long; a hundred years is nothing to him; he is quite young and fresh when he is 150, without one hair turned grey. But that is all. A banyan tree lives sometimes 5000 years, but it is a banyan tree and nothing more. So, if a man lives long, he is only a healthy animal. One or two ordinary lessons of the Hatha-Yogis are very useful."<br><br>
 - Swami Vivekananda, "The First Steps" (Dec 14, 1895, New York Vedanta Society), Raja-Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1056,7 +1056,7 @@ cat > P031.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P031.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
-<meta property="og:description" content="If we examine our own lives, we find that the greatest cause of sorrow is this: we take up something, and put our whole energy on it — perhaps it is a failure and yet we cannot give it up. We know that it is hurting us, that any further clinging to it is simply bringing misery on us; still, we cannot tear ourselves away from it. The bee came to sip the honey, but its feet stuck to the honey-pot and it could not get away. Again and again, we are finding ourselves in that state." />
+<meta property="og:description" content="If we examine our own lives, we find that the greatest cause of sorrow is this: we take up something, and put our whole energy on it - perhaps it is a failure and yet we cannot give it up. We know that it is hurting us, that any further clinging to it is simply bringing misery on us; still, we cannot tear ourselves away from it. The bee came to sip the honey, but its feet stuck to the honey-pot and it could not get away. Again and again, we are finding ourselves in that state." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P031.jpeg" />
 </head>
 <body width = 500px>
@@ -1075,7 +1075,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P031.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"If we examine our own lives, we find that the greatest cause of sorrow is this: we take up something, and put our whole energy on it — perhaps it is a failure and yet we cannot give it up. We know that it is hurting us, that any further clinging to it is simply bringing misery on us; still, we cannot tear ourselves away from it. The bee came to sip the honey, but its feet stuck to the honey-pot and it could not get away. Again and again, we are finding ourselves in that state."<br><br>
+"If we examine our own lives, we find that the greatest cause of sorrow is this: we take up something, and put our whole energy on it - perhaps it is a failure and yet we cannot give it up. We know that it is hurting us, that any further clinging to it is simply bringing misery on us; still, we cannot tear ourselves away from it. The bee came to sip the honey, but its feet stuck to the honey-pot and it could not get away. Again and again, we are finding ourselves in that state."<br><br>
 - Swami Vivekananda, "Work and Its Secret" (What Brings Success, Jan 4, 1900, Los Angeles, Complete Works: Vol 2)
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1161,7 +1161,7 @@ cat > P034.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P034.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
-<meta property="og:description" content="The perfect man can put his whole soul upon that one point of love, yet he is unattached. "" />
+<meta property="og:description" content="The perfect man can put his whole soul upon that one point of love, yet he is unattached." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P034.jpeg" />
 </head>
 <body width = 500px>
@@ -1180,7 +1180,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P034.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The perfect man can put his whole soul upon that one point of love, yet he is unattached. "<br><br>
+"The perfect man can put his whole soul upon that one point of love, yet he is unattached."<br><br>
 - Swami Vivekananda, "Work and Its Secret" (What Brings Success, Jan 4, 1900, Los Angeles, Complete Works: Vol 2)
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1266,7 +1266,7 @@ cat > P037.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P037.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
-<meta property="og:description" content="Ask nothing; want nothing in return. Give what you have to give; it will come back to you — but do not think of that now, it will come back multiplied a thousandfold — but the attention must not be on that. Yet have the power to give: give, and there it ends. Learn that the whole of life is giving, that nature will force you to give. So, give willingly." />
+<meta property="og:description" content="Ask nothing; want nothing in return. Give what you have to give; it will come back to you - but do not think of that now, it will come back multiplied a thousandfold - but the attention must not be on that. Yet have the power to give: give, and there it ends. Learn that the whole of life is giving, that nature will force you to give. So, give willingly." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P037.jpeg" />
 </head>
 <body width = 500px>
@@ -1285,7 +1285,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P037.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"Ask nothing; want nothing in return. Give what you have to give; it will come back to you — but do not think of that now, it will come back multiplied a thousandfold — but the attention must not be on that. Yet have the power to give: give, and there it ends. Learn that the whole of life is giving, that nature will force you to give. So, give willingly."<br><br>
+"Ask nothing; want nothing in return. Give what you have to give; it will come back to you - but do not think of that now, it will come back multiplied a thousandfold - but the attention must not be on that. Yet have the power to give: give, and there it ends. Learn that the whole of life is giving, that nature will force you to give. So, give willingly."<br><br>
 - Swami Vivekananda, "Work and Its Secret" (What Brings Success, Jan 4, 1900, Los Angeles, Complete Works: Vol 2)
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1476,7 +1476,7 @@ cat > P043.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P043.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
-<meta property="og:description" content="The world is one of influence. Part of our energy is used up in the preservation of our own bodies. Beyond that, every particle of our energy is day and night being used in influencing others. Our bodies, our virtues, our intellect, and our spirituality, all these are continuously influencing others; and so, conversely, we are being influenced by them... A man comes; you know he is very learned, his language is beautiful, and he speaks to you by the hour; but he does not make any impression. Another man comes, and he speaks a few words, not well arranged, ungrammatical perhaps; all the same, he makes an immense impression. Many of you have seen that. So it is evident that words alone cannot always produce an impression. Words, even thoughts contribute only one-third of the influence in making an impression, the man, two-thirds. What you call the personal magnetism of the man — that is what goes out and impresses you." />
+<meta property="og:description" content="The world is one of influence. Part of our energy is used up in the preservation of our own bodies. Beyond that, every particle of our energy is day and night being used in influencing others. Our bodies, our virtues, our intellect, and our spirituality, all these are continuously influencing others; and so, conversely, we are being influenced by them... A man comes; you know he is very learned, his language is beautiful, and he speaks to you by the hour; but he does not make any impression. Another man comes, and he speaks a few words, not well arranged, ungrammatical perhaps; all the same, he makes an immense impression. Many of you have seen that. So it is evident that words alone cannot always produce an impression. Words, even thoughts contribute only one-third of the influence in making an impression, the man, two-thirds. What you call the personal magnetism of the man - that is what goes out and impresses you." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P043.jpeg" />
 </head>
 <body width = 500px>
@@ -1495,7 +1495,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P043.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The world is one of influence. Part of our energy is used up in the preservation of our own bodies. Beyond that, every particle of our energy is day and night being used in influencing others. Our bodies, our virtues, our intellect, and our spirituality, all these are continuously influencing others; and so, conversely, we are being influenced by them... A man comes; you know he is very learned, his language is beautiful, and he speaks to you by the hour; but he does not make any impression. Another man comes, and he speaks a few words, not well arranged, ungrammatical perhaps; all the same, he makes an immense impression. Many of you have seen that. So it is evident that words alone cannot always produce an impression. Words, even thoughts contribute only one-third of the influence in making an impression, the man, two-thirds. What you call the personal magnetism of the man — that is what goes out and impresses you."<br><br>
+"The world is one of influence. Part of our energy is used up in the preservation of our own bodies. Beyond that, every particle of our energy is day and night being used in influencing others. Our bodies, our virtues, our intellect, and our spirituality, all these are continuously influencing others; and so, conversely, we are being influenced by them... A man comes; you know he is very learned, his language is beautiful, and he speaks to you by the hour; but he does not make any impression. Another man comes, and he speaks a few words, not well arranged, ungrammatical perhaps; all the same, he makes an immense impression. Many of you have seen that. So it is evident that words alone cannot always produce an impression. Words, even thoughts contribute only one-third of the influence in making an impression, the man, two-thirds. What you call the personal magnetism of the man - that is what goes out and impresses you."<br><br>
 - Swami Vivekananda, "The Powers of the Mind" (Jan 8, 1900, Los Angeles), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1651,7 +1651,7 @@ cat > P048.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P048.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
-<meta property="og:description" content="We also know that the greatest power is lodged in the fine, not in the coarse. We see a man take up a huge weight, we see his muscles swell, and all over his body we see signs of exertion, and we think the muscles are powerful things. But it is the thin thread-like things, the nerves, which bring power to the muscles; the moment one of these threads is cut off from reaching the muscles, they are not able to work at all. These tiny nerves bring the power from something still finer, and that again in its turn brings it from something finer still — thought, and so on. So, it is the fine that is really the seat of power... when fine movements take place, we cannot see them. When a gross thing moves, we catch it, and thus we naturally identify movement with things which are gross. But all the power is really in the fine... if by any science, any investigation, we are helped to get hold of these finer forces which are the cause of the expression, the expression itself will be under control." />
+<meta property="og:description" content="We also know that the greatest power is lodged in the fine, not in the coarse. We see a man take up a huge weight, we see his muscles swell, and all over his body we see signs of exertion, and we think the muscles are powerful things. But it is the thin thread-like things, the nerves, which bring power to the muscles; the moment one of these threads is cut off from reaching the muscles, they are not able to work at all. These tiny nerves bring the power from something still finer, and that again in its turn brings it from something finer still - thought, and so on. So, it is the fine that is really the seat of power... when fine movements take place, we cannot see them. When a gross thing moves, we catch it, and thus we naturally identify movement with things which are gross. But all the power is really in the fine... if by any science, any investigation, we are helped to get hold of these finer forces which are the cause of the expression, the expression itself will be under control." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P048.jpeg" />
 </head>
 <body width = 500px>
@@ -1670,7 +1670,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P048.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"We also know that the greatest power is lodged in the fine, not in the coarse. We see a man take up a huge weight, we see his muscles swell, and all over his body we see signs of exertion, and we think the muscles are powerful things. But it is the thin thread-like things, the nerves, which bring power to the muscles; the moment one of these threads is cut off from reaching the muscles, they are not able to work at all. These tiny nerves bring the power from something still finer, and that again in its turn brings it from something finer still — thought, and so on. So, it is the fine that is really the seat of power... when fine movements take place, we cannot see them. When a gross thing moves, we catch it, and thus we naturally identify movement with things which are gross. But all the power is really in the fine... if by any science, any investigation, we are helped to get hold of these finer forces which are the cause of the expression, the expression itself will be under control."<br><br>
+"We also know that the greatest power is lodged in the fine, not in the coarse. We see a man take up a huge weight, we see his muscles swell, and all over his body we see signs of exertion, and we think the muscles are powerful things. But it is the thin thread-like things, the nerves, which bring power to the muscles; the moment one of these threads is cut off from reaching the muscles, they are not able to work at all. These tiny nerves bring the power from something still finer, and that again in its turn brings it from something finer still - thought, and so on. So, it is the fine that is really the seat of power... when fine movements take place, we cannot see them. When a gross thing moves, we catch it, and thus we naturally identify movement with things which are gross. But all the power is really in the fine... if by any science, any investigation, we are helped to get hold of these finer forces which are the cause of the expression, the expression itself will be under control."<br><br>
 - Swami Vivekananda, "The Powers of the Mind" (Jan 8, 1900, Los Angeles), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -1931,7 +1931,7 @@ cat > P056.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P056.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
-<meta property="og:description" content="The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirck&acircsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? — that which moves matter. And what is matter? — that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence." />
+<meta property="og:description" content="The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirck&acircsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? - that which moves matter. And what is matter? - that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P056.jpeg" />
 </head>
 <body width = 500px>
@@ -1950,7 +1950,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P056.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirck&acircsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? — that which moves matter. And what is matter? — that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence."<br><br>
+"The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirck&acircsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? - that which moves matter. And what is matter? - that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence."<br><br>
 - Swami Vivekananda, "Hints on Practical Spirituality" (Spiritual Breathing, Dec 29, 1899, Los Angeles Home of Truth), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -2106,7 +2106,7 @@ cat > P061.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P061.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
-<meta property="og:description" content="The less the thought of the body, the better. For it is the body that drags us down. It is attachment, identification, which makes us miserable. That is the secret: To think that I am the spirit and not the body, and that the whole of this universe with all its relations, with all its good and all its evil, is but as a series of paintings — scenes on a canvas — of which I am the witness." />
+<meta property="og:description" content="The less the thought of the body, the better. For it is the body that drags us down. It is attachment, identification, which makes us miserable. That is the secret: To think that I am the spirit and not the body, and that the whole of this universe with all its relations, with all its good and all its evil, is but as a series of paintings - scenes on a canvas - of which I am the witness." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P061.jpeg" />
 </head>
 <body width = 500px>
@@ -2125,7 +2125,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P061.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"The less the thought of the body, the better. For it is the body that drags us down. It is attachment, identification, which makes us miserable. That is the secret: To think that I am the spirit and not the body, and that the whole of this universe with all its relations, with all its good and all its evil, is but as a series of paintings — scenes on a canvas — of which I am the witness."<br><br>
+"The less the thought of the body, the better. For it is the body that drags us down. It is attachment, identification, which makes us miserable. That is the secret: To think that I am the spirit and not the body, and that the whole of this universe with all its relations, with all its good and all its evil, is but as a series of paintings - scenes on a canvas - of which I am the witness."<br><br>
 - Swami Vivekananda, "Hints on Practical Spirituality" (Spiritual Breathing, Dec 29, 1899, Los Angeles Home of Truth), Complete Works: Vol 2
 </font></p>
 <hr><p>&nbsp;</p>
@@ -2141,7 +2141,7 @@ cat > P062.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P062.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
-<meta property="og:description" content="All knowledge that we have, either of the external or internal world, is obtained through only one method — by the concentration of the mind. No knowledge can be had of any science unless we can concentrate our minds upon the subject. The astronomer concentrates his mind through the telescope... and so on. If you want to study your own mind, it will be the same process. You will have to concentrate your mind and turn it back upon itself. The difference in this world between mind and mind is simply the fact of concentration. One, more concentrated than the other, gets more knowledge." />
+<meta property="og:description" content="All knowledge that we have, either of the external or internal world, is obtained through only one method - by the concentration of the mind. No knowledge can be had of any science unless we can concentrate our minds upon the subject. The astronomer concentrates his mind through the telescope... and so on. If you want to study your own mind, it will be the same process. You will have to concentrate your mind and turn it back upon itself. The difference in this world between mind and mind is simply the fact of concentration. One, more concentrated than the other, gets more knowledge." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P062.jpeg" />
 </head>
 <body width = 500px>
@@ -2160,7 +2160,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P062.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"All knowledge that we have, either of the external or internal world, is obtained through only one method — by the concentration of the mind. No knowledge can be had of any science unless we can concentrate our minds upon the subject. The astronomer concentrates his mind through the telescope... and so on. If you want to study your own mind, it will be the same process. You will have to concentrate your mind and turn it back upon itself. The difference in this world between mind and mind is simply the fact of concentration. One, more concentrated than the other, gets more knowledge."<br><br>
+"All knowledge that we have, either of the external or internal world, is obtained through only one method - by the concentration of the mind. No knowledge can be had of any science unless we can concentrate our minds upon the subject. The astronomer concentrates his mind through the telescope... and so on. If you want to study your own mind, it will be the same process. You will have to concentrate your mind and turn it back upon itself. The difference in this world between mind and mind is simply the fact of concentration. One, more concentrated than the other, gets more knowledge."<br><br>
 - Swami Vivekananda, "Concentration" (March 16, 1900, Washington Hall, San Francisco)[recorded by Ida Ansell], Lectures and Discourses, Complete Works: Vol 4
 </font></p>
 <hr><p>&nbsp;</p>
@@ -2316,7 +2316,7 @@ cat > P067.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P067.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
-<meta property="og:description" content="Bathing, and dress, and food regulation — all these have their proper value when they are complementary to the spiritual. .... That first, and these all help. But without it, no amount of eating grass... is any good at all. They are helps if properly understood. But improperly understood, they are derogatory... This is the reason why I am explaining these things: First, because in all religions everything degenerates upon being practiced by [the ignorant]. The camphor in the bottle evaporated, and they are fighting over the bottle." />
+<meta property="og:description" content="Bathing, and dress, and food regulation - all these have their proper value when they are complementary to the spiritual. .... That first, and these all help. But without it, no amount of eating grass... is any good at all. They are helps if properly understood. But improperly understood, they are derogatory... This is the reason why I am explaining these things: First, because in all religions everything degenerates upon being practiced by [the ignorant]. The camphor in the bottle evaporated, and they are fighting over the bottle." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P067.jpeg" />
 </head>
 <body width = 500px>
@@ -2335,7 +2335,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P067.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"Bathing, and dress, and food regulation — all these have their proper value when they are complementary to the spiritual. .... That first, and these all help. But without it, no amount of eating grass... is any good at all. They are helps if properly understood. But improperly understood, they are derogatory... This is the reason why I am explaining these things: First, because in all religions everything degenerates upon being practiced by [the ignorant]. The camphor in the bottle evaporated, and they are fighting over the bottle."<br><br>
+"Bathing, and dress, and food regulation - all these have their proper value when they are complementary to the spiritual. .... That first, and these all help. But without it, no amount of eating grass... is any good at all. They are helps if properly understood. But improperly understood, they are derogatory... This is the reason why I am explaining these things: First, because in all religions everything degenerates upon being practiced by [the ignorant]. The camphor in the bottle evaporated, and they are fighting over the bottle."<br><br>
 - Swami Vivekananda, "Concentration" (March 16, 1900, Washington Hall, San Francisco)[recorded by Ida Ansell], Lectures and Discourses, Complete Works: Vol 4
 </font></p>
 <hr><p>&nbsp;</p>
@@ -2351,7 +2351,7 @@ cat > P068.html <<'EOF'
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P068.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
-<meta property="og:description" content="We all know about morality, and we all know about duty, but at the same time we find that in different countries the significance of morality varies greatly. What is regarded as moral in one country may in another be considered perfectly immoral...So it is with duty...In one country, if a man does not do certain things, people will say he has acted wrongly; while if he does those very things in another country, people will say that he did not act rightly — and yet we know that there must be some universal idea of duty... Two ways are left open to us — the way of the ignorant, who think that there is only one way to truth and that all the rest are wrong, and the way of the wise, who admit that, according to our mental constitution or the different planes of existence in which we are, duty and morality may vary. The important thing is to know that there are gradations of duty and of morality — that the duty of one state of life, in one set of circumstances, will not and cannot be that of another." />
+<meta property="og:description" content="We all know about morality, and we all know about duty, but at the same time we find that in different countries the significance of morality varies greatly. What is regarded as moral in one country may in another be considered perfectly immoral...So it is with duty...In one country, if a man does not do certain things, people will say he has acted wrongly; while if he does those very things in another country, people will say that he did not act rightly - and yet we know that there must be some universal idea of duty... Two ways are left open to us - the way of the ignorant, who think that there is only one way to truth and that all the rest are wrong, and the way of the wise, who admit that, according to our mental constitution or the different planes of existence in which we are, duty and morality may vary. The important thing is to know that there are gradations of duty and of morality - that the duty of one state of life, in one set of circumstances, will not and cannot be that of another." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P068.jpeg" />
 </head>
 <body width = 500px>
@@ -2370,7 +2370,7 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <div align="center"><img id="myImg" class="center" border="0" src="P068.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
-"We all know about morality, and we all know about duty, but at the same time we find that in different countries the significance of morality varies greatly. What is regarded as moral in one country may in another be considered perfectly immoral...So it is with duty...In one country, if a man does not do certain things, people will say he has acted wrongly; while if he does those very things in another country, people will say that he did not act rightly — and yet we know that there must be some universal idea of duty... Two ways are left open to us — the way of the ignorant, who think that there is only one way to truth and that all the rest are wrong, and the way of the wise, who admit that, according to our mental constitution or the different planes of existence in which we are, duty and morality may vary. The important thing is to know that there are gradations of duty and of morality — that the duty of one state of life, in one set of circumstances, will not and cannot be that of another."<br><br>
+"We all know about morality, and we all know about duty, but at the same time we find that in different countries the significance of morality varies greatly. What is regarded as moral in one country may in another be considered perfectly immoral...So it is with duty...In one country, if a man does not do certain things, people will say he has acted wrongly; while if he does those very things in another country, people will say that he did not act rightly - and yet we know that there must be some universal idea of duty... Two ways are left open to us - the way of the ignorant, who think that there is only one way to truth and that all the rest are wrong, and the way of the wise, who admit that, according to our mental constitution or the different planes of existence in which we are, duty and morality may vary. The important thing is to know that there are gradations of duty and of morality - that the duty of one state of life, in one set of circumstances, will not and cannot be that of another."<br><br>
 - Swami Vivekananda, "Each Is Great in His Own Place" (Advanced karma yoga class, Dec 13, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
 </font></p>
 <hr><p>&nbsp;</p>
@@ -2659,6 +2659,889 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
+cat > P077.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P077.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Great is the tenacity with which man clings to the senses. Yet, however substantial he may think the external world in which he lives and moves, there comes a time in the lives of individuals and of races when, involuntarily, they ask, "Is this real?" To the person who never finds a moment to question the credentials of his senses, whose every moment is occupied with some sort of sense-enjoyment - even to him death comes, and he also is compelled to ask, "Is this real?" Religion begins with this question and ends with its answer." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P077.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P077.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Great is the tenacity with which man clings to the senses. Yet, however substantial he may think the external world in which he lives and moves, there comes a time in the lives of individuals and of races when, involuntarily, they ask, "Is this real?" To the person who never finds a moment to question the credentials of his senses, whose every moment is occupied with some sort of sense-enjoyment - even to him death comes, and he also is compelled to ask, "Is this real?" Religion begins with this question and ends with its answer."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P078.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P078.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="One of the most poetical of the Upanishads, the Katha Upanishad, begins with the inquiry: "When a man dies, there is a dispute. One party declares that he has gone for ever, the other insists that he is still living. Which is true?" Various answers have been given. The whole sphere of metaphysics, philosophy, and religion is really filled with various answers to this question. At the same time, attempts have been made to suppress it, to put a stop to the unrest of mind which asks, "What is beyond? What is real?" But so long as death remains, all these attempts at suppression will always prove to be unsuccessful." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P078.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P078.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"One of the most poetical of the Upanishads, the Katha Upanishad, begins with the inquiry: "When a man dies, there is a dispute. One party declares that he has gone for ever, the other insists that he is still living. Which is true?" Various answers have been given. The whole sphere of metaphysics, philosophy, and religion is really filled with various answers to this question. At the same time, attempts have been made to suppress it, to put a stop to the unrest of mind which asks, "What is beyond? What is real?" But so long as death remains, all these attempts at suppression will always prove to be unsuccessful."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P079.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P079.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="We may talk about seeing nothing beyond and keeping all our hopes and aspirations confined to the present moment, and struggle hard not to think of anything beyond the world of senses; and, perhaps, everything outside helps to keep us limited within its narrow bounds. The whole world may combine to prevent us from broadening out beyond the present. Yet, so long as there is death, the question must come again and again, "Is death the end of all these things to which we are clinging, as if they were the most real of all realities, the most substantial of all substances?" The world vanishes in a moment and is gone. Standing on the brink of a precipice beyond which is the infinite yawning chasm, every mind, however hardened, is bound to recoil and ask, "Is this real?" The hopes of a lifetime, built up little by little with all the energies of a great mind, vanish in a second. Are they real? This question must be answered." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P079.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P079.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"We may talk about seeing nothing beyond and keeping all our hopes and aspirations confined to the present moment, and struggle hard not to think of anything beyond the world of senses; and, perhaps, everything outside helps to keep us limited within its narrow bounds. The whole world may combine to prevent us from broadening out beyond the present. Yet, so long as there is death, the question must come again and again, "Is death the end of all these things to which we are clinging, as if they were the most real of all realities, the most substantial of all substances?" The world vanishes in a moment and is gone. Standing on the brink of a precipice beyond which is the infinite yawning chasm, every mind, however hardened, is bound to recoil and ask, "Is this real?" The hopes of a lifetime, built up little by little with all the energies of a great mind, vanish in a second. Are they real? This question must be answered."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P080.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P080.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="We run after everything to make ourselves happy; we pursue our mad career in the external world of senses. If you ask the young man with whom life is successful, he will declare that it is real; and he really thinks so. Perhaps, when the same man grows old and finds fortune ever eluding him, he will then declare that it is fate. He finds at last that his desires cannot be fulfilled. Wherever he goes, there is an adamantine wall beyond which he cannot pass. Every sense-activity results in a reaction. Everything is evanescent. Enjoyment, misery, luxury, wealth, power, and poverty, even life itself, are all evanescent. Two positions remain to mankind. One is to believe with the nihilists that all is nothing, that we know nothing, that we can never know anything either about the future, the past, or even the present. For we must remember that he who denies the past and the future and wants to stick to the present is simply a madman. One may as well deny the father and mother and assert the child. It would be equally logical. To deny the past and future, the present must inevitably be denied also. This is one position, that of the Then there is the other position - to seek for an explanation, to seek for the real, to discover in the midst of this eternally changing and evanescent world whatever is real." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P080.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P080.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"We run after everything to make ourselves happy; we pursue our mad career in the external world of senses. If you ask the young man with whom life is successful, he will declare that it is real; and he really thinks so. Perhaps, when the same man grows old and finds fortune ever eluding him, he will then declare that it is fate. He finds at last that his desires cannot be fulfilled. Wherever he goes, there is an adamantine wall beyond which he cannot pass. Every sense-activity results in a reaction. Everything is evanescent. Enjoyment, misery, luxury, wealth, power, and poverty, even life itself, are all evanescent. Two positions remain to mankind. One is to believe with the nihilists that all is nothing, that we know nothing, that we can never know anything either about the future, the past, or even the present. For we must remember that he who denies the past and the future and wants to stick to the present is simply a madman. One may as well deny the father and mother and assert the child. It would be equally logical. To deny the past and future, the present must inevitably be denied also. This is one position, that of the Then there is the other position - to seek for an explanation, to seek for the real, to discover in the midst of this eternally changing and evanescent world whatever is real."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P081.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P081.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="It is a significant fact that all religions, without one exception, hold that man is a degeneration of what he was, whether they clothe this in mythological words, or in the clear language of philosophy, or in the beautiful expressions of poetry. This is the one fact that comes out of every scripture and of every mythology that the man that is, is a degeneration of what he was. This is the kernel of truth within the story of Adam's fall in the Jewish scripture. This is again and again repeated in the scriptures of the Hindus; the dream of a period which they call the Age of Truth, when no man died unless he wished to die, when he could keep his body as long as he liked, and his mind was pure and strong. There was no evil and no misery; and the present age is a corruption of that state of perfection. Side by side with this, we find the story of the deluge everywhere. That story itself is a proof that this present age is held to be a corruption of a former age by every religion. It went on becoming more and more corrupt until the deluge swept away a large portion of mankind, and again the ascending series began. It is going up slowly again to reach once more that early state of purity. You are all aware of the story of the deluge in the Old Testament. The same story was current among the ancient Babylonians, the Egyptians, the Chinese, and the Hindus." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P081.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P081.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"It is a significant fact that all religions, without one exception, hold that man is a degeneration of what he was, whether they clothe this in mythological words, or in the clear language of philosophy, or in the beautiful expressions of poetry. This is the one fact that comes out of every scripture and of every mythology that the man that is, is a degeneration of what he was. This is the kernel of truth within the story of Adam's fall in the Jewish scripture. This is again and again repeated in the scriptures of the Hindus; the dream of a period which they call the Age of Truth, when no man died unless he wished to die, when he could keep his body as long as he liked, and his mind was pure and strong. There was no evil and no misery; and the present age is a corruption of that state of perfection. Side by side with this, we find the story of the deluge everywhere. That story itself is a proof that this present age is held to be a corruption of a former age by every religion. It went on becoming more and more corrupt until the deluge swept away a large portion of mankind, and again the ascending series began. It is going up slowly again to reach once more that early state of purity. You are all aware of the story of the deluge in the Old Testament. The same story was current among the ancient Babylonians, the Egyptians, the Chinese, and the Hindus."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P082.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P082.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Human language is the attempt to express the truth that is within. I am fully persuaded that a baby whose language consists of unintelligible sounds is attempting to express the highest philosophy, only the baby has not the organs to express it nor the means. The difference between the language of the highest philosophers and the utterances of babies is one of degree and not of kind. What you call the most correct, systematic, mathematical language of the present time, and the hazy, mystical, mythological languages of the ancients, differ only in degree. All of them have a grand idea behind, which is, as it were, struggling to express itself; and often behind these ancient mythologies are nuggets of truth; and often, I am sorry to say, behind the fine, polished phrases of the moderns is arrant trash." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P082.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P082.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Human language is the attempt to express the truth that is within. I am fully persuaded that a baby whose language consists of unintelligible sounds is attempting to express the highest philosophy, only the baby has not the organs to express it nor the means. The difference between the language of the highest philosophers and the utterances of babies is one of degree and not of kind. What you call the most correct, systematic, mathematical language of the present time, and the hazy, mystical, mythological languages of the ancients, differ only in degree. All of them have a grand idea behind, which is, as it were, struggling to express itself; and often behind these ancient mythologies are nuggets of truth; and often, I am sorry to say, behind the fine, polished phrases of the moderns is arrant trash."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P083.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P083.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="We need not throw a thing overboard because it is clothed in mythology, because it does not fit in with the notions of Mr. So-and-so or Mrs. So-and-so of modern times. If people should laugh at religion because most religions declare that men must believe in mythologies taught by such and such a prophet, they ought to laugh more at these moderns. In modern times, if a man quotes a Moses or a Buddha or a Christ, he is laughed at; but let him give the name of a Huxley, a Tyndall, or a Darwin, and it is swallowed without salt. "Huxley has said it", that is enough for many. We are free from superstitions indeed! That was a religious superstition, and this a scientific superstition; only, in and through that superstition came life-giving ideas of spirituality; in and through this modern superstition come lust and greed." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P083.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P083.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"We need not throw a thing overboard because it is clothed in mythology, because it does not fit in with the notions of Mr. So-and-so or Mrs. So-and-so of modern times. If people should laugh at religion because most religions declare that men must believe in mythologies taught by such and such a prophet, they ought to laugh more at these moderns. In modern times, if a man quotes a Moses or a Buddha or a Christ, he is laughed at; but let him give the name of a Huxley, a Tyndall, or a Darwin, and it is swallowed without salt. "Huxley has said it", that is enough for many. We are free from superstitions indeed! That was a religious superstition, and this a scientific superstition; only, in and through that superstition came life-giving ideas of spirituality; in and through this modern superstition come lust and greed."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P084.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P084.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="To return to mythology. Behind all these stories we find one idea standing supreme - that man is a degeneration of what he was. Coming to the present times, modern research seems to repudiate this position absolutely. Evolutionists seem to contradict entirely this assertion. According to them, man is the evolution of the mollusc; and, therefore, what mythology states cannot be true. There is in India, however, a mythology which is able to reconcile both these positions. The Indian mythology has a theory of cycles, that all progression is in the form of waves. Every wave is attended by a fall, and that by a rise the next moment, that by a fall in the next, and again another rise. The motion is in cycles. Certainly it is true, even on the grounds of modern research, that man cannot be simply an evolution. Every evolution presupposes an involution. The modern scientific man will tell you that you can only get the amount of energy out of a machine which you have previously put into it. Something cannot be produced out of nothing. If a man is an evolution of the mollusc, then the perfect man - the Buddha-man, the Christ-man - was involved in the mollusc. If it is not so, whence come these gigantic personalities? Something cannot come out of nothing. Thus we are in the position of reconciling the scriptures with modern light. That energy which manifests itself slowly through various stages until it becomes the perfect man, cannot come out of nothing. It existed somewhere; and if the mollusc or the protoplasm is the first point to which you can trace it, that protoplasm, somehow or other, must have contained the energy." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P084.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P084.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"To return to mythology. Behind all these stories we find one idea standing supreme - that man is a degeneration of what he was. Coming to the present times, modern research seems to repudiate this position absolutely. Evolutionists seem to contradict entirely this assertion. According to them, man is the evolution of the mollusc; and, therefore, what mythology states cannot be true. There is in India, however, a mythology which is able to reconcile both these positions. The Indian mythology has a theory of cycles, that all progression is in the form of waves. Every wave is attended by a fall, and that by a rise the next moment, that by a fall in the next, and again another rise. The motion is in cycles. Certainly it is true, even on the grounds of modern research, that man cannot be simply an evolution. Every evolution presupposes an involution. The modern scientific man will tell you that you can only get the amount of energy out of a machine which you have previously put into it. Something cannot be produced out of nothing. If a man is an evolution of the mollusc, then the perfect man - the Buddha-man, the Christ-man - was involved in the mollusc. If it is not so, whence come these gigantic personalities? Something cannot come out of nothing. Thus we are in the position of reconciling the scriptures with modern light. That energy which manifests itself slowly through various stages until it becomes the perfect man, cannot come out of nothing. It existed somewhere; and if the mollusc or the protoplasm is the first point to which you can trace it, that protoplasm, somehow or other, must have contained the energy."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P085.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P085.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="The religions of the world of course hold that the force called thought manifests the body, and not the reverse. There are schools of modern thought which hold that what we call thought is simply the outcome of the adjustment of the parts of the machine which we call body. Taking the second position that the soul or the mass of thought, or however you may call it, is the outcome of this machine, the outcome of the chemical and physical combinations of matter making up the body and brain, leaves the question unanswered. What makes the body? What force combines the molecules into the body form? What force is there which takes up material from the mass of matter around and forms my body one way, another body another way, and so on? What makes these infinite distinctions? To say that the force called soul is the outcome of the combinations of the molecules of the body is putting the cart before the horse. How did the combinations come; where was the force to make them? If you say that some other force was the cause of these combinations, and soul was the outcome of that matter, and that soul - which combined a certain mass of matter - was itself the result of the combinations, it is no answer. That theory ought to be taken which explains most of the facts, if not all, and that without contradicting other existing theories. It is more logical to say that the force which takes up the matter and forms the body is the same which manifests through that body. To say, therefore, that the thought forces manifested by the body are the outcome of the arrangement of molecules and have no independent existence has no meaning." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P085.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P085.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"The religions of the world of course hold that the force called thought manifests the body, and not the reverse. There are schools of modern thought which hold that what we call thought is simply the outcome of the adjustment of the parts of the machine which we call body. Taking the second position that the soul or the mass of thought, or however you may call it, is the outcome of this machine, the outcome of the chemical and physical combinations of matter making up the body and brain, leaves the question unanswered. What makes the body? What force combines the molecules into the body form? What force is there which takes up material from the mass of matter around and forms my body one way, another body another way, and so on? What makes these infinite distinctions? To say that the force called soul is the outcome of the combinations of the molecules of the body is putting the cart before the horse. How did the combinations come; where was the force to make them? If you say that some other force was the cause of these combinations, and soul was the outcome of that matter, and that soul - which combined a certain mass of matter - was itself the result of the combinations, it is no answer. That theory ought to be taken which explains most of the facts, if not all, and that without contradicting other existing theories. It is more logical to say that the force which takes up the matter and forms the body is the same which manifests through that body. To say, therefore, that the thought forces manifested by the body are the outcome of the arrangement of molecules and have no independent existence has no meaning."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P086.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P086.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Time begins with mind, space also is in the mind. Causation cannot stand without time. Without the idea of succession there cannot be any idea of causation. Time, space and causation, therefore, are in the mind, and as this Atman is beyond the mind and formless, it must be beyond time, beyond space, and beyond causation. Now, if it is beyond time, space, and causation, it must be infinite. Then comes the highest speculation in our philosophy. The infinite cannot be two. If the soul be infinite, there can be only one Soul, and all ideas of various souls - you having one soul, and I having another, and so forth - are not real. The Real Man, therefore, is one and infinite, the omnipresent Spirit. And the apparent man is only a limitation of that Real Man." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P086.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P086.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Time begins with mind, space also is in the mind. Causation cannot stand without time. Without the idea of succession there cannot be any idea of causation. Time, space and causation, therefore, are in the mind, and as this Atman is beyond the mind and formless, it must be beyond time, beyond space, and beyond causation. Now, if it is beyond time, space, and causation, it must be infinite. Then comes the highest speculation in our philosophy. The infinite cannot be two. If the soul be infinite, there can be only one Soul, and all ideas of various souls - you having one soul, and I having another, and so forth - are not real. The Real Man, therefore, is one and infinite, the omnipresent Spirit. And the apparent man is only a limitation of that Real Man."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P087.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P087.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="The Real Man, the Spirit, being beyond cause and effect, not bound by time and space, must, therefore, be free. He was never bound, and could not be bound. The apparent man, the reflection, is limited by time, space, and causation, and is, therefore, bound. Or in the language of some of our philosophers, he appears to be bound, but really is not. This is the reality in our souls, this omnipresence, this spiritual nature, this infinity. Every soul is infinite, therefore there is no question of birth and death...In infinite space there is no up or down; that is only in the relative. Where is the going or coming for the infinite? Whence should it come and whither should it go?" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P087.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P087.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"The Real Man, the Spirit, being beyond cause and effect, not bound by time and space, must, therefore, be free. He was never bound, and could not be bound. The apparent man, the reflection, is limited by time, space, and causation, and is, therefore, bound. Or in the language of some of our philosophers, he appears to be bound, but really is not. This is the reality in our souls, this omnipresence, this spiritual nature, this infinity. Every soul is infinite, therefore there is no question of birth and death...In infinite space there is no up or down; that is only in the relative. Where is the going or coming for the infinite? Whence should it come and whither should it go?"<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P088.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P088.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="When people cease to think of the past or future, when they give up the idea of body, because the body comes and goes and is limited, then they have risen to a higher ideal. The body is not the Real Man, neither is the mind, for the mind waxes and wanes. It is the Spirit beyond, which alone can live for ever. The body and mind are continually changing, and are, in fact, only names of series of changeful phenomena, like rivers whose waters are in a constant state of flux, yet presenting the appearance of unbroken streams. Every particle in this body is continually changing; no one has the same body for many minutes together, and yet we think of it as the same body. So with the mind; one moment it is happy, another moment unhappy; one moment strong, another weak; an ever-changing whirlpool. That cannot be the Spirit which is infinite. Change can only be in the limited. To say that the infinite changes in any way is absurd; it cannot be." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P088.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P088.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"When people cease to think of the past or future, when they give up the idea of body, because the body comes and goes and is limited, then they have risen to a higher ideal. The body is not the Real Man, neither is the mind, for the mind waxes and wanes. It is the Spirit beyond, which alone can live for ever. The body and mind are continually changing, and are, in fact, only names of series of changeful phenomena, like rivers whose waters are in a constant state of flux, yet presenting the appearance of unbroken streams. Every particle in this body is continually changing; no one has the same body for many minutes together, and yet we think of it as the same body. So with the mind; one moment it is happy, another moment unhappy; one moment strong, another weak; an ever-changing whirlpool. That cannot be the Spirit which is infinite. Change can only be in the limited. To say that the infinite changes in any way is absurd; it cannot be."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P089.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P089.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="People are frightened when they are told that they are Universal Being, everywhere present...They will again and again ask you if they are not going to keep their individuality. What is individuality? I should like to see it. A baby has no moustache; when he grows to be a man, perhaps he has a moustache and beard. His individuality would be lost, if it were in the body. If I lose one eye, or if I lose one of my hands, my individuality would be lost if it were in the body. Then, a drunkard should not give up drinking because he would lose his individuality. A thief should not be a good man because he would thereby lose his individuality. No man ought to change his habits for fear of this. There is no individuality except in the Infinite. That is the only condition which does not change. Everything else is in a constant state of flux." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P089.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P089.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"People are frightened when they are told that they are Universal Being, everywhere present...They will again and again ask you if they are not going to keep their individuality. What is individuality? I should like to see it. A baby has no moustache; when he grows to be a man, perhaps he has a moustache and beard. His individuality would be lost, if it were in the body. If I lose one eye, or if I lose one of my hands, my individuality would be lost if it were in the body. Then, a drunkard should not give up drinking because he would lose his individuality. A thief should not be a good man because he would thereby lose his individuality. No man ought to change his habits for fear of this. There is no individuality except in the Infinite. That is the only condition which does not change. Everything else is in a constant state of flux."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P090.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P090.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="We are not individuals yet. We are struggling towards individuality, and that is the Infinite, that is the real nature of man. He alone lives whose life is in the whole universe, and the more we concentrate our lives on limited things, the faster we go towards death. Those moments alone we live when our lives are in the universe, in others; and living this little life is death, simply death, and that is why the fear of death comes. The fear of death can only be conquered when man realises that so long as there is one life in this universe, he is living. When he can say, "I am in everything, in everybody, I am in all lives, I am the universe," then alone comes the state of fearlessness. To talk of immortality in constantly changing things is absurd." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P090.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P090.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"We are not individuals yet. We are struggling towards individuality, and that is the Infinite, that is the real nature of man. He alone lives whose life is in the whole universe, and the more we concentrate our lives on limited things, the faster we go towards death. Those moments alone we live when our lives are in the universe, in others; and living this little life is death, simply death, and that is why the fear of death comes. The fear of death can only be conquered when man realises that so long as there is one life in this universe, he is living. When he can say, "I am in everything, in everybody, I am in all lives, I am the universe," then alone comes the state of fearlessness. To talk of immortality in constantly changing things is absurd."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P091.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P091.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Says an old Sanskrit philosopher: It is only the Spirit that is the individual, because it is infinite. No infinity can be divided; infinity cannot be broken into pieces. It is the same one, undivided unit for ever, and this is the individual man, the Real Man. The apparent man is merely a struggle to express, to manifest this individuality which is beyond; and evolution is not in the Spirit. These changes which are going on - the wicked becoming good, the animal becoming man, take them in whatever way you like - are not in the Spirit. They are evolution of nature and manifestation of Spirit." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P091.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P091.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Says an old Sanskrit philosopher: It is only the Spirit that is the individual, because it is infinite. No infinity can be divided; infinity cannot be broken into pieces. It is the same one, undivided unit for ever, and this is the individual man, the Real Man. The apparent man is merely a struggle to express, to manifest this individuality which is beyond; and evolution is not in the Spirit. These changes which are going on - the wicked becoming good, the animal becoming man, take them in whatever way you like - are not in the Spirit. They are evolution of nature and manifestation of Spirit."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P092.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P092.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Suppose there is a screen hiding you from me, in which there is a small hole through which I can see some of the faces before me, just a few faces. Now suppose the hole begins to grow larger and larger, and as it does so, more and more of the scene before me reveals itself and when at last the whole screen has disappeared, I stand face to face with you all. You did not change at all in this case; it was the hole that was evolving, and you were gradually manifesting yourselves. So it is with the Spirit. No perfection is going to be attained. You are already free and perfect. What are these ideas of religion and God and searching for the hereafter? Why does man look for a God? Why does man, in every nation, in every state of society, want a perfect ideal somewhere, either in man, in God, or elsewhere? Because that idea is within you. It was your own heart beating and you did not know; you were mistaking it for something external. It is the God within your own self that is propelling you to seek for Him, to realise Him." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P092.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P092.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Suppose there is a screen hiding you from me, in which there is a small hole through which I can see some of the faces before me, just a few faces. Now suppose the hole begins to grow larger and larger, and as it does so, more and more of the scene before me reveals itself and when at last the whole screen has disappeared, I stand face to face with you all. You did not change at all in this case; it was the hole that was evolving, and you were gradually manifesting yourselves. So it is with the Spirit. No perfection is going to be attained. You are already free and perfect. What are these ideas of religion and God and searching for the hereafter? Why does man look for a God? Why does man, in every nation, in every state of society, want a perfect ideal somewhere, either in man, in God, or elsewhere? Because that idea is within you. It was your own heart beating and you did not know; you were mistaking it for something external. It is the God within your own self that is propelling you to seek for Him, to realise Him."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P093.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P093.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="After long searches here and there, in temples and in churches, in earths and in heavens, at last you come back, completing the circle from where you started, to your own soul and find that He for whom you have been seeking all over the world, for whom you have been weeping and praying in churches and temples, on whom you were looking as the mystery of all mysteries shrouded in the clouds, is nearest of the near, is your own Self, the reality of your life, body, and soul. That is your own nature. Assert it, manifest it. Not to become pure, you are pure already. You are not to be perfect, you are that already. Nature is like that screen which is hiding the reality beyond. Every good thought that you think or act upon is simply tearing the veil, as it were; and the purity, the Infinity, the God behind, manifests Itself more and more." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P093.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P093.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"After long searches here and there, in temples and in churches, in earths and in heavens, at last you come back, completing the circle from where you started, to your own soul and find that He for whom you have been seeking all over the world, for whom you have been weeping and praying in churches and temples, on whom you were looking as the mystery of all mysteries shrouded in the clouds, is nearest of the near, is your own Self, the reality of your life, body, and soul. That is your own nature. Assert it, manifest it. Not to become pure, you are pure already. You are not to be perfect, you are that already. Nature is like that screen which is hiding the reality beyond. Every good thought that you think or act upon is simply tearing the veil, as it were; and the purity, the Infinity, the God behind, manifests Itself more and more."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P094.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P094.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="This is the whole history of man. Finer and finer becomes the veil [nature], more and more of the light behind shines forth, for it is its nature to shine. It [the Spirit] cannot be known; in vain we try to know it. Were it knowable, it would not be what it is, for it is the eternal subject. Knowledge is a limitation, knowledge is objectifying. He is the eternal subject of everything, the eternal witness in this universe, your own Self. Knowledge is, as it were, a lower step, a degeneration. We are that eternal subject already; how can we know it? It is the real nature of every man, and he is struggling to express it in various ways." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P094.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P094.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"This is the whole history of man. Finer and finer becomes the veil [nature], more and more of the light behind shines forth, for it is its nature to shine. It [the Spirit] cannot be known; in vain we try to know it. Were it knowable, it would not be what it is, for it is the eternal subject. Knowledge is a limitation, knowledge is objectifying. He is the eternal subject of everything, the eternal witness in this universe, your own Self. Knowledge is, as it were, a lower step, a degeneration. We are that eternal subject already; how can we know it? It is the real nature of every man, and he is struggling to express it in various ways."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P095.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P095.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="This idea of "me and mine" - Ahamk&acircra and Mamat&acirc - is the result of past Superstition, and the more this present self passes away, the more the real Self becomes manifest. This is true self-abnegation, the centre, the basis, the gist of all moral teaching; and whether man knows it or not the whole world is slowly going towards it, practicing it more or less. Only, the vast majority of mankind are doing it unconsciously. Let them do it consciously. Let then make the sacrifice, knowing that this "me and mine" is not the real Self, but only a limitation. But one glimpse of that infinite reality which is behind - but one spark of that infinite fire that is the All - represents the present man; the Infinite is his true nature." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P095.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P095.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"This idea of "me and mine" - Ahamk&acircra and Mamat&acirc - is the result of past Superstition, and the more this present self passes away, the more the real Self becomes manifest. This is true self-abnegation, the centre, the basis, the gist of all moral teaching; and whether man knows it or not the whole world is slowly going towards it, practicing it more or less. Only, the vast majority of mankind are doing it unconsciously. Let them do it consciously. Let then make the sacrifice, knowing that this "me and mine" is not the real Self, but only a limitation. But one glimpse of that infinite reality which is behind - but one spark of that infinite fire that is the All - represents the present man; the Infinite is his true nature."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P096.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P096.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="What right has a person to ask that truth should be judged by the standard of utility or money? Suppose there is no utility, will it be less true? Utility is not the test of truth." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P096.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P096.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"What right has a person to ask that truth should be judged by the standard of utility or money? Suppose there is no utility, will it be less true? Utility is not the test of truth."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P097.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P097.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Without the knowledge of the Spirit, all material knowledge is only adding fuel to fire, only giving into the hands of selfish man one more instrument to take what belongs to others, to live upon the life of others, instead of giving up his life for them." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P097.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P097.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Without the knowledge of the Spirit, all material knowledge is only adding fuel to fire, only giving into the hands of selfish man one more instrument to take what belongs to others, to live upon the life of others, instead of giving up his life for them."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P098.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P098.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="Truth does not pay homage to any society, ancient or modern. Society has to pay homage to Truth or die. Societies should be moulded upon truth, and truth has not to adjust itself to society. If such a noble truth as unselfishness cannot be practiced in society, it is better for man to give up society and go into the forest. That is the daring man." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P098.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P098.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"Truth does not pay homage to any society, ancient or modern. Society has to pay homage to Truth or die. Societies should be moulded upon truth, and truth has not to adjust itself to society. If such a noble truth as unselfishness cannot be practiced in society, it is better for man to give up society and go into the forest. That is the daring man."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P099.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P099.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="There are two sorts of courage. One is the courage of facing the cannon. And the other is the courage of spiritual conviction. An Emperor who invaded India was told by his teacher to go and see some of the sages there. After a long search for one, he found a very old man sitting on a block of stone. The Emperor talked with him a little and became very much impressed by his wisdom. He asked the sage to go to his country with him. "No," said the sage, "I am quite satisfied with my forest here." Said the Emperor, "I will give you money, position, wealth. I am the Emperor of the world." "No," replied the man, "I don't care for those things." The Emperor replied, "If you do not go, I will kill you." The man smiled serenely and said, "That is the most foolish thing you ever said, Emperor. You cannot kill me. Me the sun cannot dry, fire cannot burn, sword cannot kill, for I am the birthless, the deathless, the ever-living omnipotent, omnipresent Spirit." This is spiritual boldness, while the other is the courage of a lion or a tiger." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P099.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P099.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"There are two sorts of courage. One is the courage of facing the cannon. And the other is the courage of spiritual conviction. An Emperor who invaded India was told by his teacher to go and see some of the sages there. After a long search for one, he found a very old man sitting on a block of stone. The Emperor talked with him a little and became very much impressed by his wisdom. He asked the sage to go to his country with him. "No," said the sage, "I am quite satisfied with my forest here." Said the Emperor, "I will give you money, position, wealth. I am the Emperor of the world." "No," replied the man, "I don't care for those things." The Emperor replied, "If you do not go, I will kill you." The man smiled serenely and said, "That is the most foolish thing you ever said, Emperor. You cannot kill me. Me the sun cannot dry, fire cannot burn, sword cannot kill, for I am the birthless, the deathless, the ever-living omnipotent, omnipresent Spirit." This is spiritual boldness, while the other is the courage of a lion or a tiger."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P100.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P100.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="There is a great tendency in modern times to talk too much of work and decry thought. Doing is very good, but that comes from thinking. Little manifestations of energy through the muscles are called work. But where there is no thought, there will be no work. Fill the brain, therefore, with high thoughts, highest ideals, place them day and night before you, and out of that will come great work." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P100.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P100.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"There is a great tendency in modern times to talk too much of work and decry thought. Doing is very good, but that comes from thinking. Little manifestations of energy through the muscles are called work. But where there is no thought, there will be no work. Fill the brain, therefore, with high thoughts, highest ideals, place them day and night before you, and out of that will come great work."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P101.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P101.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="There was a stump of a tree, and in the dark, a thief came that way and said, "That is a policeman." A young man waiting for his beloved saw it and thought that it was his sweetheart. A child who had been told ghost stories took it for a ghost and began to shriek. But all the time it was the stump of a tree. We see the world as we are." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P101.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P101.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"There was a stump of a tree, and in the dark, a thief came that way and said, "That is a policeman." A young man waiting for his beloved saw it and thought that it was his sweetheart. A child who had been told ghost stories took it for a ghost and began to shriek. But all the time it was the stump of a tree. We see the world as we are."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
+
+cat > P102.html <<'EOF'  
+<html>
+<head>
+<link rel="stylesheet" href="StyleSub.css">
+<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P102.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
+<meta property="og:description" content="That which we have inside, we see outside. The baby has no thief inside and sees no thief outside. So with all knowledge. Do not talk of the wickedness of the world and all its sins. Weep that you are bound to see wickedness yet. Weep that you are bound to see sin everywhere, and if you want to help the world, do not condemn it. Do not weaken it more. For what is sin and what is misery, and what are all these, but the results of weakness? The world is made weaker and weaker every day by such teachings. Men are taught from childhood that they are weak and sinners. Teach them that they are all glorious children of immortality, even those who are the weakest in manifestation. Let positive, strong, helpful thought enter into their brains from very childhood. Lay yourselves open to these thoughts, and not to weakening and paralysing ones." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P102.jpeg" />
+</head>
+<body width = 500px>
+<div class="navbar">
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div align="center"><img id="myImg" class="center" border="0" src="P102.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<p style="text-align: justify;"><font size=3 face="Arial">
+"That which we have inside, we see outside. The baby has no thief inside and sees no thief outside. So with all knowledge. Do not talk of the wickedness of the world and all its sins. Weep that you are bound to see wickedness yet. Weep that you are bound to see sin everywhere, and if you want to help the world, do not condemn it. Do not weaken it more. For what is sin and what is misery, and what are all these, but the results of weakness? The world is made weaker and weaker every day by such teachings. Men are taught from childhood that they are weak and sinners. Teach them that they are all glorious children of immortality, even those who are the weakest in manifestation. Let positive, strong, helpful thought enter into their brains from very childhood. Lay yourselves open to these thoughts, and not to weakening and paralysing ones."<br><br>
+- Swami Vivekananda, "The Real Nature of Man" (The Real and The Apparent Man, June 21, 1896, Royal Institute of Painters, London), Jnana Yoga, Complete Works: Vol 2
+</font></p>
+<hr><p>&nbsp;</p>
+</body>
+</html>
+EOF
 
 
 
