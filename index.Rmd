@@ -23,7 +23,7 @@ title: |
 
 <style type="text/css"> /* This sets the overall width of the HTML page */
  .main-container {
-   max-width: 1100px;
+   max-width: 1200px;
    margin-left: auto;
    margin-right: auto;
  };
@@ -80,9 +80,7 @@ knitr::opts_chunk$set(echo = T)
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
 </script>
 <!-- ################ -->
-<!-- <p>&nbsp;</p> -->
 
-<!-- <hr>  -->
 
 <!-- ################ Introduction text ################-->
 
@@ -109,12 +107,6 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 <div class="gcse-search" id="cse" style="width: 50%; margin: 0 auto"></div>
 </div1>
 
-
-<!-- The form -->
-<!-- <form class="example" action="action_page.php">
-  <input type="text" placeholder="Search.." name="search">
-  <button type="submit"><i class="fa fa-search"></i></button>
-</form> -->
 
 <p>&nbsp;</p>
 
@@ -250,14 +242,14 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
  var i=0
  //variable used to contain controlled random number 
  var random
- var spacing="<br>"
+ var spacing="&nbsp;"
  //while all of array elements haven't been cycled thru
  while (i<15){
      //generate random num between 0 and arraylength-1
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
      if (contents[random]!="selected"){
-         document.write(contents[random])
+         document.write(contents[random] + spacing + spacing + spacing + spacing + spacing + spacing)
          //mark element as selected
          contents[random]="selected"
          i++
