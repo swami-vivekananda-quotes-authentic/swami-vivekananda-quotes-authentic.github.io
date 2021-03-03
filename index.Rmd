@@ -85,8 +85,8 @@ title: |
 
 <p>&nbsp;</p>
 <div align="center">
-<font size=2.5 face="Arial" color="#161618"><b>
-"My ideal, indeed, can be put into a few words, and that is: to preach unto mankind their divinity, and<br> how to make it manifest in every movement of life." - CW 7, Epistles XXXVI (to Miss Noble)</b></font>
+<font size=3 face="Verdana" color="#161618"><p style="width: 65%;">"My ideal, indeed, can be put into a few words, and that is: to preach unto mankind their divinity, and how to make it manifest in every movement of life."</p></font> 
+<font size=2 face="Rockwell" color="#161618">$\hspace{5in}$ - CW 7, Epistles XXXVI (to Miss Noble)</font>
 
 <p>&nbsp;</p>
 <hr>
@@ -98,7 +98,7 @@ title: |
 <!-- Introduction text -->
 
 <p style="width: 60%;"><i>
-The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, 15 randomly chosen quotes will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
+The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, <b>12 randomly chosen quotes</b> will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
 
 <p>&nbsp;<br></p>
 
@@ -246,7 +246,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
  var random
  var spacing="&nbsp;"
  //while all of array elements haven't been cycled thru
- while (i<15){
+ while (i<12){
      //generate random num between 0 and arraylength-1
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
