@@ -1,7 +1,7 @@
-cat > P001.html <<'EOF'  
+cat > images/P001.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P001.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -33,10 +33,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P002.html <<'EOF'  
+cat > images/P002.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P002.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -68,10 +68,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P003.html <<'EOF'  
+cat > images/P003.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P003.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -103,10 +103,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P004.html <<'EOF'  
+cat > images/P004.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P004.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -138,10 +138,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P005.html <<'EOF'  
+cat > images/P005.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P005.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -173,10 +173,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P006.html <<'EOF'  
+cat > images/P006.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P006.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -208,10 +208,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P007.html <<'EOF'  
+cat > images/P007.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P007.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -243,10 +243,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P008.html <<'EOF'  
+cat > images/P008.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P008.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -278,10 +278,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P009.html <<'EOF'  
+cat > images/P009.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P009.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -313,10 +313,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P010.html <<'EOF'  
+cat > images/P010.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P010.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -348,10 +348,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P011.html <<'EOF'  
+cat > images/P011.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P011.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -383,10 +383,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P012.html <<'EOF'  
+cat > images/P012.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P012.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -418,10 +418,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P013.html <<'EOF'  
+cat > images/P013.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P013.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
@@ -453,10 +453,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P014.html <<'EOF'  
+cat > images/P014.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P014.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Raja-Yoga" />
@@ -488,10 +488,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P015.html <<'EOF'  
+cat > images/P015.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P015.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -523,10 +523,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P016.html <<'EOF'  
+cat > images/P016.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P016.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -558,10 +558,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P017.html <<'EOF'  
+cat > images/P017.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P017.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -593,10 +593,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P018.html <<'EOF'  
+cat > images/P018.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P018.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -628,10 +628,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P019.html <<'EOF'  
+cat > images/P019.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P019.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -663,10 +663,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P020.html <<'EOF'  
+cat > images/P020.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P020.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -698,10 +698,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P021.html <<'EOF'  
+cat > images/P021.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P021.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -733,10 +733,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P022.html <<'EOF'  
+cat > images/P022.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P022.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -768,10 +768,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P023.html <<'EOF'  
+cat > images/P023.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P023.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
@@ -803,10 +803,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P024.html <<'EOF'  
+cat > images/P024.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P024.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
@@ -838,10 +838,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P025.html <<'EOF'  
+cat > images/P025.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P025.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
@@ -873,10 +873,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P026.html <<'EOF'  
+cat > images/P026.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P026.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
@@ -908,10 +908,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P027.html <<'EOF'  
+cat > images/P027.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P027.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
@@ -943,10 +943,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P028.html <<'EOF'  
+cat > images/P028.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P028.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
@@ -978,10 +978,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P029.html <<'EOF'  
+cat > images/P029.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P029.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1014,10 +1014,10 @@ Our great defect in life is that we are so much drawn to the ideal, the goal is 
 EOF
 
 
-cat > P030.html <<'EOF'  
+cat > images/P030.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P030.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1049,10 +1049,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P031.html <<'EOF'  
+cat > images/P031.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P031.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1084,10 +1084,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P032.html <<'EOF'  
+cat > images/P032.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P032.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1119,10 +1119,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P033.html <<'EOF'  
+cat > images/P033.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P033.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1154,10 +1154,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P034.html <<'EOF'  
+cat > images/P034.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P034.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1189,10 +1189,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P035.html <<'EOF'  
+cat > images/P035.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P035.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1224,10 +1224,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P036.html <<'EOF'  
+cat > images/P036.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P036.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1259,10 +1259,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P037.html <<'EOF'  
+cat > images/P037.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P037.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1294,10 +1294,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P038.html <<'EOF'  
+cat > images/P038.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P038.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1329,10 +1329,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P039.html <<'EOF'  
+cat > images/P039.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P039.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1364,10 +1364,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P040.html <<'EOF'  
+cat > images/P040.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P040.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
@@ -1399,10 +1399,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P041.html <<'EOF'  
+cat > images/P041.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P041.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1434,10 +1434,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P042.html <<'EOF'  
+cat > images/P042.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P042.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1469,10 +1469,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P043.html <<'EOF'  
+cat > images/P043.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P043.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1504,10 +1504,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P044.html <<'EOF'  
+cat > images/P044.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P044.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1539,10 +1539,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P045.html <<'EOF'  
+cat > images/P045.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P045.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1574,10 +1574,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P046.html <<'EOF'  
+cat > images/P046.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P046.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1609,10 +1609,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P047.html <<'EOF'  
+cat > images/P047.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P047.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1644,10 +1644,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P048.html <<'EOF'  
+cat > images/P048.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P048.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1679,10 +1679,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P049.html <<'EOF'  
+cat > images/P049.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P049.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
@@ -1714,10 +1714,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P050.html <<'EOF'  
+cat > images/P050.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P050.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1749,10 +1749,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P051.html <<'EOF'  
+cat > images/P051.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P051.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1784,10 +1784,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P052.html <<'EOF'  
+cat > images/P052.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P052.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1819,10 +1819,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P053.html <<'EOF'  
+cat > images/P053.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P053.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1854,10 +1854,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P054.html <<'EOF'  
+cat > images/P054.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P054.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1889,10 +1889,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P055.html <<'EOF'  
+cat > images/P055.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P055.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1924,10 +1924,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P056.html <<'EOF'  
+cat > images/P056.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P056.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1959,10 +1959,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P057.html <<'EOF'  
+cat > images/P057.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P057.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -1994,10 +1994,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P058.html <<'EOF'  
+cat > images/P058.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P058.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -2029,10 +2029,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P059.html <<'EOF'  
+cat > images/P059.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P059.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -2064,10 +2064,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P060.html <<'EOF'  
+cat > images/P060.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P060.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -2099,10 +2099,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P061.html <<'EOF'  
+cat > images/P061.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P061.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
@@ -2134,10 +2134,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P062.html <<'EOF'  
+cat > images/P062.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P062.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
@@ -2169,10 +2169,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P063.html <<'EOF'  
+cat > images/P063.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P063.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
@@ -2204,10 +2204,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P064.html <<'EOF'  
+cat > images/P064.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P064.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
@@ -2239,10 +2239,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P065.html <<'EOF'  
+cat > images/P065.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P065.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
@@ -2274,10 +2274,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P066.html <<'EOF'  
+cat > images/P066.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P066.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
@@ -2309,10 +2309,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P067.html <<'EOF'  
+cat > images/P067.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P067.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
@@ -2344,10 +2344,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P068.html <<'EOF'  
+cat > images/P068.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P068.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2379,10 +2379,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P069.html <<'EOF'  
+cat > images/P069.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P069.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2414,10 +2414,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P070.html <<'EOF'  
+cat > images/P070.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P070.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2449,10 +2449,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P071.html <<'EOF'  
+cat > images/P071.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P071.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2484,10 +2484,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P072.html <<'EOF'  
+cat > images/P072.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P072.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2519,10 +2519,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P073.html <<'EOF'  
+cat > images/P073.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P073.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2554,10 +2554,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P074.html <<'EOF'  
+cat > images/P074.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P074.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2589,10 +2589,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P075.html <<'EOF'  
+cat > images/P075.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2624,10 +2624,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P076.html <<'EOF'  
+cat > images/P076.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P076.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
@@ -2659,10 +2659,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
-cat > P077.html <<'EOF'  
+cat > images/P077.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P077.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2693,10 +2693,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P078.html <<'EOF'  
+cat > images/P078.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P078.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2727,10 +2727,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P079.html <<'EOF'  
+cat > images/P079.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P079.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2761,10 +2761,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P080.html <<'EOF'  
+cat > images/P080.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P080.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2795,10 +2795,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P081.html <<'EOF'  
+cat > images/P081.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P081.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2829,10 +2829,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P082.html <<'EOF'  
+cat > images/P082.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P082.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2863,10 +2863,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P083.html <<'EOF'  
+cat > images/P083.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P083.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2897,10 +2897,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P084.html <<'EOF'  
+cat > images/P084.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P084.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2931,10 +2931,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P085.html <<'EOF'  
+cat > images/P085.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P085.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2965,10 +2965,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P086.html <<'EOF'  
+cat > images/P086.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P086.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -2999,10 +2999,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P087.html <<'EOF'  
+cat > images/P087.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P087.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3033,10 +3033,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P088.html <<'EOF'  
+cat > images/P088.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P088.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3067,10 +3067,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P089.html <<'EOF'  
+cat > images/P089.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P089.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3101,10 +3101,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P090.html <<'EOF'  
+cat > images/P090.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P090.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3135,10 +3135,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P091.html <<'EOF'  
+cat > images/P091.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P091.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3169,10 +3169,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P092.html <<'EOF'  
+cat > images/P092.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P092.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3203,10 +3203,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P093.html <<'EOF'  
+cat > images/P093.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P093.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3237,10 +3237,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P094.html <<'EOF'  
+cat > images/P094.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P094.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3271,10 +3271,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P095.html <<'EOF'  
+cat > images/P095.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P095.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3305,10 +3305,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P096.html <<'EOF'  
+cat > images/P096.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P096.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3339,10 +3339,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P097.html <<'EOF'  
+cat > images/P097.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P097.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3373,10 +3373,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P098.html <<'EOF'  
+cat > images/P098.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P098.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3407,10 +3407,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P099.html <<'EOF'  
+cat > images/P099.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P099.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3441,10 +3441,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P100.html <<'EOF'  
+cat > images/P100.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P100.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3475,10 +3475,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P101.html <<'EOF'  
+cat > images/P101.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P101.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3509,10 +3509,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P102.html <<'EOF'  
+cat > images/P102.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P102.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
@@ -3543,10 +3543,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P103.html <<'EOF'  
+cat > images/P103.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P103.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3577,10 +3577,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P104.html <<'EOF'  
+cat > images/P104.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P104.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3611,10 +3611,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P105.html <<'EOF'  
+cat > images/P105.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P105.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3645,10 +3645,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P106.html <<'EOF'  
+cat > images/P106.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P106.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3679,10 +3679,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P107.html <<'EOF'  
+cat > images/P107.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P107.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3713,10 +3713,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P108.html <<'EOF'  
+cat > images/P108.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P108.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3747,10 +3747,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P109.html <<'EOF'  
+cat > images/P109.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P109.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3781,10 +3781,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P110.html <<'EOF'  
+cat > images/P110.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P110.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3815,10 +3815,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P111.html <<'EOF'  
+cat > images/P111.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P111.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3849,10 +3849,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P112.html <<'EOF'  
+cat > images/P112.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P112.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3883,10 +3883,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P113.html <<'EOF'  
+cat > images/P113.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P113.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3917,10 +3917,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P114.html <<'EOF'  
+cat > images/P114.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P114.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
@@ -3951,10 +3951,10 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
-cat > P115.html <<'EOF'  
+cat > images/P115.html <<'EOF'  
 <html>
 <head>
-<link rel="stylesheet" href="StyleSub.css">
+<link rel="stylesheet" href="../StyleSub.css">
 <meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P115.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />

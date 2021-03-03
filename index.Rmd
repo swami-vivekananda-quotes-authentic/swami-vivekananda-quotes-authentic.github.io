@@ -1,3 +1,4 @@
+
 ---
 title: Swami Vivekananda Quotes (Authentic)
 output:
@@ -5,25 +6,45 @@ output:
   includes:
    in_header: ["myheader.html", "BrowserDetection.html"]  
   theme: default  		# default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
-  highlight: tango  		# specifies the syntax highlighting style
+  highlight: tango  	# specifies the syntax highlighting style
   logo: header.jpeg
 urlcolor: gray
 citecolor: gray
 ---
+
+
+<!-- Write title separately -->
+
 <!-- ---
 title: |
   <center><font face="Helvetica Neue" color="#202124">Swami Vivekananda Quotes (Authentic)</font></center>
 --- -->
 
-<!-- ### For google site verification. Don't delete this to keep google indexing. ### -->
+
+
+<!-- For google site verification. Don't delete this to keep google indexing. -->
+
 <head>
 <meta name="google-site-verification" content="FGoFsQAYjE2ald5KjM10Ms8FZY1YAtnXKamBSF3aOQY" />
 </head>
 
 
-<style type="text/css"> /* This sets the overall width of the HTML page */
+
+
+<!-- JavaScript SDK for enabling Facebook Comments Plugin -->
+
+<div id="fb-root"></div>    
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
+</script>
+
+
+
+
+<!-- Set styles for overall width of the HTML page, p, title font etc -->
+
+<style type="text/css"> 
  .main-container {
-   max-width: 1200px;
+   max-width: 1100px;
    margin-left: auto;
    margin-right: auto;
  };
@@ -38,13 +59,8 @@ title: |
 
 
 
-```{r set-options, echo=FALSE, cache=FALSE}
-options(width = 150)
-```
 
-```{r setup, include = F}
-knitr::opts_chunk$set(echo = T)
-```
+<!-- Insert the navigation bar -->
 
 <div class="navbar">
   <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
@@ -55,18 +71,7 @@ knitr::opts_chunk$set(echo = T)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Insert the cover pic -->
 
 <br>
 <div id="header" align="center">
@@ -75,19 +80,10 @@ knitr::opts_chunk$set(echo = T)
 
 
 
-<!-- ##### JavaScript SDK for enabling Facebook Comments Plugin #### -->
-<div id="fb-root"></div>    
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
-</script>
-<!-- ################ -->
 
-
-<!-- ################ Introduction text ################-->
+<!-- Cover quote -->
 
 <p>&nbsp;</p>
-<!-- <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p> -->
-
-
 <div align="center">
 <font size=2.5 face="Arial" color="#161618"><b>
 "My ideal, indeed, can be put into a few words, and that is: to preach unto mankind their divinity, and<br> how to make it manifest in every movement of life." - CW 7, Epistles XXXVI (to Miss Noble)</b></font>
@@ -96,147 +92,153 @@ knitr::opts_chunk$set(echo = T)
 <hr>
 <p>&nbsp;</p>
 
+
+
+
+<!-- Introduction text -->
+
 <p style="width: 60%;"><i>
 The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, 15 randomly chosen quotes will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
 
 <p>&nbsp;<br></p>
 
 
+
+
+<!-- Insert search box -->
+
 <div1>
 <script async src="https://cse.google.com/cse.js?cx=7ff85561f8bdcf675"></script>
 <div class="gcse-search" id="cse" style="width: 50%; margin: 0 auto"></div>
 </div1>
-
 
 <p>&nbsp;</p>
 
 
 
 
+<!-- Javascript to randomly organize pics [http://www.javascriptkit.com/javatutors/randomorder.shtml] --> 
 
-
-<!-- ################ Javascript to randomly organize pics ################ --> 
-<!-- http://www.javascriptkit.com/javatutors/randomorder.shtml -->
-```{js, echo=F}
+<script>
  var contents=new Array()
  //width is set as 360 because 3 pics in a row makes 1180, and the html page width is set as 1200.
- contents[0]='<div class="container"><img id="myImg" class="myImages" border="1" src="P001.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P001.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[1]='<div class="container"><img id="myImg" class="myImages" border="1" src="P002.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P002.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[2]='<div class="container"><img id="myImg" class="myImages" border="1" src="P003.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P003.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[3]='<div class="container"><img id="myImg" class="myImages" border="1" src="P004.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P004.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[4]='<div class="container"><img id="myImg" class="myImages" border="1" src="P005.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P005.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[5]='<div class="container"><img id="myImg" class="myImages" border="1" src="P006.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P006.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[6]='<div class="container"><img id="myImg" class="myImages" border="1" src="P007.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P007.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[7]='<div class="container"><img id="myImg" class="myImages" border="1" src="P008.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P008.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[8]='<div class="container"><img id="myImg" class="myImages" border="1" src="P009.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P009.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[9]='<div class="container"><img id="myImg" class="myImages" border="1" src="P010.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P010.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[10]='<div class="container"><img id="myImg" class="myImages" border="1" src="P011.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P011.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[11]='<div class="container"><img id="myImg" class="myImages" border="1" src="P012.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P012.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[12]='<div class="container"><img id="myImg" class="myImages" border="1" src="P013.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P013.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
- contents[13]='<div class="container"><img id="myImg" class="myImages" border="1" src="P014.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P014.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[14]='<div class="container"><img id="myImg" class="myImages" border="1" src="P015.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P015.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[15]='<div class="container"><img id="myImg" class="myImages" border="1" src="P016.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P016.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[16]='<div class="container"><img id="myImg" class="myImages" border="1" src="P017.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P017.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[17]='<div class="container"><img id="myImg" class="myImages" border="1" src="P018.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P018.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[18]='<div class="container"><img id="myImg" class="myImages" border="1" src="P019.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P019.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[19]='<div class="container"><img id="myImg" class="myImages" border="1" src="P020.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P020.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[20]='<div class="container"><img id="myImg" class="myImages" border="1" src="P021.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P021.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[21]='<div class="container"><img id="myImg" class="myImages" border="1" src="P022.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P022.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[22]='<div class="container"><img id="myImg" class="myImages" border="1" src="P023.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P023.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
- contents[23]='<div class="container"><img id="myImg" class="myImages" border="1" src="P024.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P024.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
- contents[24]='<div class="container"><img id="myImg" class="myImages" border="1" src="P025.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P025.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
- contents[25]='<div class="container"><img id="myImg" class="myImages" border="1" src="P026.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P026.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
- contents[26]='<div class="container"><img id="myImg" class="myImages" border="1" src="P027.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P027.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
- contents[27]='<div class="container"><img id="myImg" class="myImages" border="1" src="P028.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P028.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
- contents[28]='<div class="container"><img id="myImg" class="myImages" border="1" src="P029.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P029.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[29]='<div class="container"><img id="myImg" class="myImages" border="1" src="P030.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P030.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[30]='<div class="container"><img id="myImg" class="myImages" border="1" src="P031.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P031.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[31]='<div class="container"><img id="myImg" class="myImages" border="1" src="P032.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P032.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[32]='<div class="container"><img id="myImg" class="myImages" border="1" src="P033.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P033.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[33]='<div class="container"><img id="myImg" class="myImages" border="1" src="P034.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P034.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[34]='<div class="container"><img id="myImg" class="myImages" border="1" src="P035.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P035.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[35]='<div class="container"><img id="myImg" class="myImages" border="1" src="P036.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P036.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[36]='<div class="container"><img id="myImg" class="myImages" border="1" src="P037.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P037.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[37]='<div class="container"><img id="myImg" class="myImages" border="1" src="P038.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P038.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[38]='<div class="container"><img id="myImg" class="myImages" border="1" src="P039.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P039.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[39]='<div class="container"><img id="myImg" class="myImages" border="1" src="P040.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P040.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
- contents[40]='<div class="container"><img id="myImg" class="myImages" border="1" src="P041.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P041.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[41]='<div class="container"><img id="myImg" class="myImages" border="1" src="P042.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P042.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[42]='<div class="container"><img id="myImg" class="myImages" border="1" src="P043.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P043.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[43]='<div class="container"><img id="myImg" class="myImages" border="1" src="P044.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P044.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[44]='<div class="container"><img id="myImg" class="myImages" border="1" src="P045.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P045.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[45]='<div class="container"><img id="myImg" class="myImages" border="1" src="P046.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P046.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[46]='<div class="container"><img id="myImg" class="myImages" border="1" src="P047.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P047.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[47]='<div class="container"><img id="myImg" class="myImages" border="1" src="P048.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P048.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[48]='<div class="container"><img id="myImg" class="myImages" border="1" src="P049.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P049.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
- contents[49]='<div class="container"><img id="myImg" class="myImages" border="1" src="P050.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P050.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[50]='<div class="container"><img id="myImg" class="myImages" border="1" src="P051.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P051.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[51]='<div class="container"><img id="myImg" class="myImages" border="1" src="P052.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P052.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[52]='<div class="container"><img id="myImg" class="myImages" border="1" src="P053.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P053.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[53]='<div class="container"><img id="myImg" class="myImages" border="1" src="P054.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P054.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[54]='<div class="container"><img id="myImg" class="myImages" border="1" src="P055.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P055.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[55]='<div class="container"><img id="myImg" class="myImages" border="1" src="P056.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P056.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[56]='<div class="container"><img id="myImg" class="myImages" border="1" src="P057.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P057.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[57]='<div class="container"><img id="myImg" class="myImages" border="1" src="P058.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P058.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[58]='<div class="container"><img id="myImg" class="myImages" border="1" src="P059.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P059.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[59]='<div class="container"><img id="myImg" class="myImages" border="1" src="P060.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P060.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[60]='<div class="container"><img id="myImg" class="myImages" border="1" src="P061.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P061.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
- contents[61]='<div class="container"><img id="myImg" class="myImages" border="1" src="P062.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P062.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
- contents[62]='<div class="container"><img id="myImg" class="myImages" border="1" src="P063.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P063.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
- contents[63]='<div class="container"><img id="myImg" class="myImages" border="1" src="P064.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P064.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
- contents[64]='<div class="container"><img id="myImg" class="myImages" border="1" src="P065.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P065.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
- contents[65]='<div class="container"><img id="myImg" class="myImages" border="1" src="P066.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P066.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
- contents[66]='<div class="container"><img id="myImg" class="myImages" border="1" src="P067.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P067.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
- contents[67]='<div class="container"><img id="myImg" class="myImages" border="1" src="P068.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P068.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[68]='<div class="container"><img id="myImg" class="myImages" border="1" src="P069.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P069.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[69]='<div class="container"><img id="myImg" class="myImages" border="1" src="P070.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P070.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[70]='<div class="container"><img id="myImg" class="myImages" border="1" src="P071.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P071.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[71]='<div class="container"><img id="myImg" class="myImages" border="1" src="P072.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P072.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[72]='<div class="container"><img id="myImg" class="myImages" border="1" src="P073.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P073.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[73]='<div class="container"><img id="myImg" class="myImages" border="1" src="P074.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P074.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[74]='<div class="container"><img id="myImg" class="myImages" border="1" src="P075.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P075.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[75]='<div class="container"><img id="myImg" class="myImages" border="1" src="P076.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P076.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[76]='<div class="container"><img id="myImg" class="myImages" border="1" src="P077.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P077.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[77]='<div class="container"><img id="myImg" class="myImages" border="1" src="P078.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P078.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[78]='<div class="container"><img id="myImg" class="myImages" border="1" src="P079.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P079.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[79]='<div class="container"><img id="myImg" class="myImages" border="1" src="P080.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P080.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[80]='<div class="container"><img id="myImg" class="myImages" border="1" src="P081.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P081.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[81]='<div class="container"><img id="myImg" class="myImages" border="1" src="P082.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P082.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[82]='<div class="container"><img id="myImg" class="myImages" border="1" src="P083.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P083.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[83]='<div class="container"><img id="myImg" class="myImages" border="1" src="P084.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P084.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[84]='<div class="container"><img id="myImg" class="myImages" border="1" src="P085.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P085.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[85]='<div class="container"><img id="myImg" class="myImages" border="1" src="P086.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P086.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[86]='<div class="container"><img id="myImg" class="myImages" border="1" src="P087.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P087.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[87]='<div class="container"><img id="myImg" class="myImages" border="1" src="P088.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P088.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[88]='<div class="container"><img id="myImg" class="myImages" border="1" src="P089.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P089.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[89]='<div class="container"><img id="myImg" class="myImages" border="1" src="P090.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P090.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[90]='<div class="container"><img id="myImg" class="myImages" border="1" src="P091.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P091.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[91]='<div class="container"><img id="myImg" class="myImages" border="1" src="P092.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P092.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[92]='<div class="container"><img id="myImg" class="myImages" border="1" src="P093.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P093.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[93]='<div class="container"><img id="myImg" class="myImages" border="1" src="P094.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P094.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[94]='<div class="container"><img id="myImg" class="myImages" border="1" src="P095.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P095.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[95]='<div class="container"><img id="myImg" class="myImages" border="1" src="P096.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P096.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[96]='<div class="container"><img id="myImg" class="myImages" border="1" src="P097.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P097.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[97]='<div class="container"><img id="myImg" class="myImages" border="1" src="P098.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P098.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[98]='<div class="container"><img id="myImg" class="myImages" border="1" src="P099.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P099.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[99]='<div class="container"><img id="myImg" class="myImages" border="1" src="P100.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P100.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[100]='<div class="container"><img id="myImg" class="myImages" border="1" src="P101.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P101.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[101]='<div class="container"><img id="myImg" class="myImages" border="1" src="P102.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P102.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
- contents[102]='<div class="container"><img id="myImg" class="myImages" border="1" src="P103.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P103.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[103]='<div class="container"><img id="myImg" class="myImages" border="1" src="P104.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P104.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[104]='<div class="container"><img id="myImg" class="myImages" border="1" src="P105.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P105.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[105]='<div class="container"><img id="myImg" class="myImages" border="1" src="P106.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P106.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[106]='<div class="container"><img id="myImg" class="myImages" border="1" src="P107.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P107.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[107]='<div class="container"><img id="myImg" class="myImages" border="1" src="P108.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P108.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[108]='<div class="container"><img id="myImg" class="myImages" border="1" src="P109.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P109.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[109]='<div class="container"><img id="myImg" class="myImages" border="1" src="P110.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P110.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[110]='<div class="container"><img id="myImg" class="myImages" border="1" src="P111.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P111.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[111]='<div class="container"><img id="myImg" class="myImages" border="1" src="P112.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P112.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[112]='<div class="container"><img id="myImg" class="myImages" border="1" src="P113.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P113.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[113]='<div class="container"><img id="myImg" class="myImages" border="1" src="P114.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P114.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
- contents[114]='<div class="container"><img id="myImg" class="myImages" border="1" src="P115.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="P115.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[0]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P001.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P001.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[1]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P002.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P002.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[2]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P003.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P003.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[3]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P004.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P004.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[4]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P005.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P005.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[5]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P006.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P006.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[6]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P007.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P007.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[7]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P008.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P008.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[8]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P009.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P009.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[9]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P010.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P010.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[10]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P011.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P011.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[11]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P012.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P012.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[12]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P013.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P013.html"><button class="btn">Share</button><button class="btn2">Karma in its Effect on Character</button></a></div>'
+ contents[13]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P014.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P014.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[14]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P015.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P015.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[15]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P016.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P016.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[16]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P017.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P017.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[17]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P018.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P018.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[18]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P019.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P019.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[19]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P020.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P020.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[20]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P021.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P021.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[21]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P022.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P022.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[22]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P023.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P023.html"><button class="btn">Share</button><button class="btn2">Introductory, Raja-Yoga</button></a></div>'
+ contents[23]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P024.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P024.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
+ contents[24]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P025.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P025.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
+ contents[25]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P026.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P026.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
+ contents[26]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P027.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P027.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
+ contents[27]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P028.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P028.html"><button class="btn">Share</button><button class="btn2">The First Steps, Raja-Yoga</button></a></div>'
+ contents[28]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P029.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P029.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[29]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P030.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P030.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[30]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P031.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P031.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[31]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P032.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P032.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[32]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P033.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P033.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[33]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P034.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P034.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[34]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P035.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P035.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[35]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P036.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P036.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[36]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P037.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P037.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[37]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P038.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P038.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[38]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P039.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P039.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[39]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P040.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P040.html"><button class="btn">Share</button><button class="btn2">Work and Its Secret</button></a></div>'
+ contents[40]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P041.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P041.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[41]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P042.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P042.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[42]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P043.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P043.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[43]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P044.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P044.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[44]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P045.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P045.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[45]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P046.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P046.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[46]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P047.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P047.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[47]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P048.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P048.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[48]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P049.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P049.html"><button class="btn">Share</button><button class="btn2">The Powers of the Mind</button></a></div>'
+ contents[49]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P050.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P050.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[50]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P051.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P051.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[51]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P052.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P052.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[52]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P053.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P053.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[53]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P054.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P054.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[54]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P055.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P055.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[55]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P056.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P056.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[56]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P057.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P057.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[57]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P058.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P058.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[58]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P059.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P059.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[59]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P060.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P060.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[60]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P061.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P061.html"><button class="btn">Share</button><button class="btn2">Hints on Practical Spirituality</button></a></div>'
+ contents[61]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P062.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P062.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
+ contents[62]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P063.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P063.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
+ contents[63]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P064.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P064.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
+ contents[64]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P065.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P065.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
+ contents[65]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P066.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P066.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
+ contents[66]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P067.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P067.html"><button class="btn">Share</button><button class="btn2">Concentration</button></a></div>'
+ contents[67]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P068.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P068.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[68]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P069.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P069.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[69]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P070.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P070.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[70]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P071.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P071.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[71]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P072.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P072.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[72]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P073.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P073.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[73]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P074.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P074.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[74]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P075.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P075.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[75]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P076.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P076.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[76]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P077.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P077.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[77]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P078.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P078.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[78]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P079.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P079.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[79]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P080.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P080.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[80]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P081.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P081.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[81]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P082.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P082.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[82]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P083.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P083.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[83]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P084.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P084.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[84]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P085.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P085.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[85]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P086.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P086.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[86]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P087.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P087.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[87]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P088.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P088.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[88]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P089.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P089.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[89]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P090.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P090.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[90]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P091.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P091.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[91]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P092.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P092.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[92]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P093.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P093.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[93]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P094.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P094.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[94]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P095.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P095.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[95]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P096.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P096.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[96]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P097.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P097.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[97]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P098.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P098.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[98]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P099.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P099.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[99]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P100.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P100.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[100]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P101.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P101.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[101]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P102.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P102.html"><button class="btn">Share</button><button class="btn2">The Real Nature of Man</button></a></div>'
+ contents[102]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P103.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P103.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[103]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P104.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P104.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[104]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P105.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P105.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[105]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P106.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P106.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[106]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P107.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P107.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[107]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P108.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P108.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[108]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P109.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P109.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[109]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P110.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P110.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[110]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P111.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P111.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[111]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P112.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P112.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[112]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P113.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P113.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[113]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P114.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P114.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
+ contents[114]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P115.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P115.html"><button class="btn">Share</button><button class="btn2">The Necessity of Religion</button></a></div>'
  
-``` 
+</script> 
 
 <script>
  var i=0
@@ -256,18 +258,20 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
      }
  }
 </script>
-<!-- ################ -->
 
-<!-- ################ Javascript to pop-up image onclick in modal ################ --> 
-<!-- https://www.w3schools.com/howto/howto_css_modal_images.asp -->
-<!-- The Modal -->
+
+
+
+<!-- Javascript to pop-up image onclick in modal [https://www.w3schools.com/howto/howto_css_modal_images.asp] --> 
+
 <div id="myModal" class="modal">
-  <span class="close">&times;</span>  <!-- The Close Button -->
-  <img class="modal-content" id="img01">  <!-- Modal Content (The Image) -->
-  <div id="caption"></div>  <!-- Modal Caption (Image Text) -->
+  <span class="close">&times;</span>  		<!-- The Close Button -->
+  <img class="modal-content" id="img01">  	<!-- Modal Content (The Image) -->
+  <div id="caption"></div>  				<!-- Modal Caption (Image Text) -->
 </div>
 
 <script>
+ 
  // Get the modal
  var modal = document.getElementById("myModal"); 
 
@@ -275,9 +279,11 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
  var images = document.getElementsByClassName('myImages');
  var modalImg = document.getElementById("img01");
  var captionText = document.getElementById("caption");
- for (var i = 0; i < images.length; i++) {
+ for (var i = 0; i < images.length; i++) 
+ {
   var img = images[i];
-  img.onclick = function(){
+  img.onclick = function()
+  {
     modal.style.display = "block";
     modalImg.src = this.src;
     captionText.innerHTML = this.alt;
@@ -291,73 +297,32 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
  span.onclick = function() { 
    modal.style.display = "none";
  }
+
 </script>
-<!-- ################ -->
-
-
-
-
-
-
-
-<!-- <div class="container">
-<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=700,top=0,left=300'); return false;" href="P001.html">
-  <img id="myImg" class="myImages" border="1" src="P001.jpeg" style="width:325px;max-width:400px" />
-  <button class="btn">Share</button>
-</a>
-</div> -->
-
-
-
-
-<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
-<!-- Will not work in laptop. Will work in web. -->
-
-<!-- <script>
-var a2a_config = a2a_config || {};
-a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
-</script>
-
-<script async src="https://static.addtoany.com/menu/page.js"></script>
- -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <hr>
 
 
-<!-- ################ Facebook comments plugin ############## -->
+
+
+<!-- Insert Facebook comments plugin -->
 
 <div align="center" class="fb-comments" data-href="https://swami-vivekananda-quotes-authentic.github.io" data-width="1000" data-numposts="10"></div>
 
 <br><br><br>
 
 
-<!-- ################ Visit counter ############## -->
+
+
+<!-- Insert visit counter -->
 
 <div align="center">
 <a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
 
 <hr><br>
+
+
 
 
 ```{r, eval = F, include = F}

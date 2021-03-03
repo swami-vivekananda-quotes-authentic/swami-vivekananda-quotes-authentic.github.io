@@ -16,7 +16,7 @@ body {
 
 /* Style the header */
 
-@import url( 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' );
+/*@import url( 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' );*/
 
 
 /* -- Style the header navigation bar */
@@ -211,7 +211,7 @@ h1.title {
 .close {
   position: absolute;
   top: 15px;
-  right: 35px;
+  right: 200px;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
