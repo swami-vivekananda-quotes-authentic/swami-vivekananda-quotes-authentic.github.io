@@ -14,11 +14,6 @@ body {
 
 
 
-/* Style the header */
-
-/*@import url( 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' );*/
-
-
 /* -- Style the header navigation bar */
 
 .navbar {
@@ -232,8 +227,6 @@ h1.title {
     width: 100%;
   }
 }
-
-
 
 
 

@@ -251,7 +251,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
      if (contents[random]!="selected"){
-         document.write(contents[random] + spacing + spacing + spacing + spacing + spacing + spacing)
+         document.write(contents[random])
          //mark element as selected
          contents[random]="selected"
          i++
@@ -298,6 +298,13 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
    modal.style.display = "none";
  }
 
+ // When the user presses Escape key, close the modal
+ document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    // close modal here
+    modal.style.display = "none";
+  }
+})
 </script>
 
 <hr>
