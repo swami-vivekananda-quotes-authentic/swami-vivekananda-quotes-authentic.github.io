@@ -22,14 +22,6 @@ title: |
 
 
 
-<!-- For google site verification. Don't delete this to keep google indexing. -->
-
-<head>
-<meta name="google-site-verification" content="FGoFsQAYjE2ald5KjM10Ms8FZY1YAtnXKamBSF3aOQY" />
-</head>
-
-
-
 
 <!-- JavaScript SDK for enabling Facebook Comments Plugin -->
 
