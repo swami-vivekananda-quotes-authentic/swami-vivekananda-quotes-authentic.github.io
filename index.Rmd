@@ -55,8 +55,8 @@ title: |
 <!-- Insert the navigation bar -->
 
 <div class="navbar">
-  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
-  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <a href="index.html"><img src="home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 
@@ -67,7 +67,7 @@ title: |
 
 <br>
 <div id="header" align="center">
-<img src="swamiji1.png" title="Swami Vivekananda at San Francisco, 1900" />
+<img src="swamiji.png" title="Swami Vivekananda at San Francisco, 1900" />
 </div> 
 
 
