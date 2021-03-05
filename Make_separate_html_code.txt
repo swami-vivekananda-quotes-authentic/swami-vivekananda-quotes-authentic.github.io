@@ -10,7 +10,7 @@ cat > images/P001.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -45,7 +45,7 @@ cat > images/P002.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -80,7 +80,7 @@ cat > images/P003.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -115,7 +115,7 @@ cat > images/P004.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -150,7 +150,7 @@ cat > images/P005.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -185,7 +185,7 @@ cat > images/P006.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -220,7 +220,7 @@ cat > images/P007.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -255,7 +255,7 @@ cat > images/P008.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -290,7 +290,7 @@ cat > images/P009.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -325,7 +325,7 @@ cat > images/P010.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -360,7 +360,7 @@ cat > images/P011.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -395,7 +395,7 @@ cat > images/P012.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -430,7 +430,7 @@ cat > images/P013.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -465,7 +465,7 @@ cat > images/P014.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -500,7 +500,7 @@ cat > images/P015.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -535,7 +535,7 @@ cat > images/P016.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -570,7 +570,7 @@ cat > images/P017.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -605,7 +605,7 @@ cat > images/P018.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -640,7 +640,7 @@ cat > images/P019.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -675,7 +675,7 @@ cat > images/P020.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -710,7 +710,7 @@ cat > images/P021.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -745,7 +745,7 @@ cat > images/P022.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -780,7 +780,7 @@ cat > images/P023.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -815,7 +815,7 @@ cat > images/P024.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -850,7 +850,7 @@ cat > images/P025.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -885,7 +885,7 @@ cat > images/P026.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -920,7 +920,7 @@ cat > images/P027.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -955,7 +955,7 @@ cat > images/P028.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -990,7 +990,7 @@ cat > images/P029.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1026,7 +1026,7 @@ cat > images/P030.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1061,7 +1061,7 @@ cat > images/P031.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1096,7 +1096,7 @@ cat > images/P032.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1131,7 +1131,7 @@ cat > images/P033.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1166,7 +1166,7 @@ cat > images/P034.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1201,7 +1201,7 @@ cat > images/P035.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1236,7 +1236,7 @@ cat > images/P036.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1271,7 +1271,7 @@ cat > images/P037.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1306,7 +1306,7 @@ cat > images/P038.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1341,7 +1341,7 @@ cat > images/P039.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1376,7 +1376,7 @@ cat > images/P040.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1411,7 +1411,7 @@ cat > images/P041.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1446,7 +1446,7 @@ cat > images/P042.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1481,7 +1481,7 @@ cat > images/P043.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1516,7 +1516,7 @@ cat > images/P044.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1551,7 +1551,7 @@ cat > images/P045.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1586,7 +1586,7 @@ cat > images/P046.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1621,7 +1621,7 @@ cat > images/P047.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1656,7 +1656,7 @@ cat > images/P048.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1691,7 +1691,7 @@ cat > images/P049.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1726,7 +1726,7 @@ cat > images/P050.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1761,7 +1761,7 @@ cat > images/P051.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1796,7 +1796,7 @@ cat > images/P052.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1831,7 +1831,7 @@ cat > images/P053.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1866,7 +1866,7 @@ cat > images/P054.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1901,7 +1901,7 @@ cat > images/P055.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1936,7 +1936,7 @@ cat > images/P056.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1971,7 +1971,7 @@ cat > images/P057.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2006,7 +2006,7 @@ cat > images/P058.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2041,7 +2041,7 @@ cat > images/P059.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2076,7 +2076,7 @@ cat > images/P060.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2111,7 +2111,7 @@ cat > images/P061.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2146,7 +2146,7 @@ cat > images/P062.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2181,7 +2181,7 @@ cat > images/P063.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2216,7 +2216,7 @@ cat > images/P064.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2251,7 +2251,7 @@ cat > images/P065.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2286,7 +2286,7 @@ cat > images/P066.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2321,7 +2321,7 @@ cat > images/P067.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2356,7 +2356,7 @@ cat > images/P068.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2391,7 +2391,7 @@ cat > images/P069.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2426,7 +2426,7 @@ cat > images/P070.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2461,7 +2461,7 @@ cat > images/P071.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2496,7 +2496,7 @@ cat > images/P072.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2531,7 +2531,7 @@ cat > images/P073.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2566,7 +2566,7 @@ cat > images/P074.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2601,7 +2601,7 @@ cat > images/P075.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2636,7 +2636,7 @@ cat > images/P076.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2671,7 +2671,7 @@ cat > images/P077.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2705,7 +2705,7 @@ cat > images/P078.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2739,7 +2739,7 @@ cat > images/P079.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2773,7 +2773,7 @@ cat > images/P080.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2807,7 +2807,7 @@ cat > images/P081.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2841,7 +2841,7 @@ cat > images/P082.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2875,7 +2875,7 @@ cat > images/P083.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2909,7 +2909,7 @@ cat > images/P084.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2943,7 +2943,7 @@ cat > images/P085.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2977,7 +2977,7 @@ cat > images/P086.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3011,7 +3011,7 @@ cat > images/P087.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3045,7 +3045,7 @@ cat > images/P088.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3079,7 +3079,7 @@ cat > images/P089.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3113,7 +3113,7 @@ cat > images/P090.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3147,7 +3147,7 @@ cat > images/P091.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3181,7 +3181,7 @@ cat > images/P092.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3215,7 +3215,7 @@ cat > images/P093.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3249,7 +3249,7 @@ cat > images/P094.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3283,7 +3283,7 @@ cat > images/P095.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3317,7 +3317,7 @@ cat > images/P096.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3351,7 +3351,7 @@ cat > images/P097.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3385,7 +3385,7 @@ cat > images/P098.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3419,7 +3419,7 @@ cat > images/P099.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3453,7 +3453,7 @@ cat > images/P100.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3487,7 +3487,7 @@ cat > images/P101.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3521,7 +3521,7 @@ cat > images/P102.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3555,7 +3555,7 @@ cat > images/P103.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3589,7 +3589,7 @@ cat > images/P104.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3623,7 +3623,7 @@ cat > images/P105.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3657,7 +3657,7 @@ cat > images/P106.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3691,7 +3691,7 @@ cat > images/P107.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3725,7 +3725,7 @@ cat > images/P108.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3759,7 +3759,7 @@ cat > images/P109.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3793,7 +3793,7 @@ cat > images/P110.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3827,7 +3827,7 @@ cat > images/P111.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3861,7 +3861,7 @@ cat > images/P112.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3895,7 +3895,7 @@ cat > images/P113.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3929,7 +3929,7 @@ cat > images/P114.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3963,7 +3963,7 @@ cat > images/P115.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="index.html"><img src="../home1.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home1.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
