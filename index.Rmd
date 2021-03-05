@@ -315,9 +315,11 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 
 <!-- Insert visit counter -->
 
-<div align="center">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rG-zQaH73i2gVV_HHwylxq-KHIJuMdPHP_gB9nAUWBE&cl=ffffff&w=a"></script>
+
+<!-- <div align="center">
 <a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-</div>
+</div> -->
 
 <hr><br>
 
@@ -327,7 +329,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 ```{r, eval = F, include = F}
 	# Create Rmd html result
 	rm(list=ls())
-	dir = "/Users/nsanyal/Dropbox/My Passport I/Documents/GitHub/swami-vivekananda-quotes-authentic.github.io"
+	dir = "/Users/nsanyal/Dropbox/MyPassport/Documents/GitHub/swami-vivekananda-quotes-authentic.github.io"
 	setwd(dir)
 	library(rmarkdown)
 	render( input="index.Rmd" )
