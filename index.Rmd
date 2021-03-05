@@ -50,7 +50,7 @@ title: |
 </style>
 
 
-<body>
+
 
 <!-- Insert the navigation bar -->
 
@@ -90,7 +90,7 @@ title: |
 <!-- Introduction text -->
 
 <p style="width: 60%;"><i>
-The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, <b>12 randomly chosen quotes</b> will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
+The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Every time you refresh the page, <b>9 randomly chosen quotes</b> will appear. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
 
 <p>&nbsp;<br></p>
 
@@ -238,7 +238,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
  var random
  var spacing="&nbsp;"
  //while all of array elements haven't been cycled thru
- while (i<12){
+ while (i<9){
      //generate random num between 0 and arraylength-1
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
@@ -318,7 +318,6 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 <a title="free world map tracker" href="https://24counter.com/vmap/1614926181/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614926181" border="1" alt="world map hits counter" width=400px /></a><br> <a href="https://24counter.com/map/">Map counter</a>
 
 <hr><br>
-</body>
 
 
 
