@@ -2,11 +2,11 @@ cat > images/P001.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P001.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P001.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="The goal of mankind is knowledge. That is the one ideal placed before us by Eastern philosophy. Pleasure is not the goal of man, but knowledge. Pleasure and happiness come to an end. It is a mistake to suppose that pleasure is the goal. The cause of all the miseries we have in the world is that men foolishly think pleasure to be the ideal to strive for. After a time man finds that it is not happiness, but knowledge, towards which he is going, and that both pleasure and pain are great teachers, and that he learns as much from evil as from good." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P001.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P001.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -37,11 +37,11 @@ cat > images/P002.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P002.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P002.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="If you take the character of any man, it really is but the aggregate of tendencies, the sum total of the bent of his mind; you will find that misery and happiness are equal factors in the formation of that character. Good and evil have an equal share in moulding character, and in some instances misery is a greater teacher than happiness. In studying the great characters the world has produced, I dare say, in the vast majority of cases, it would be found that it was misery that taught more than happiness, it was poverty that taught more than wealth, it was blows that brought out their inner fire more than praise." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P002.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P002.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -72,11 +72,11 @@ cat > images/P003.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P003.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P003.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="Now this knowledge, again, is inherent in man. No knowledge comes from outside; it is all inside. What we say a man "knows", should, in strict psychological language, be what he "discovers" or "unveils"; what a man "learns" is really what he "discovers", by taking the cover off his own soul, which is a mine of infinite knowledge." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P003.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P003.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -107,11 +107,11 @@ cat > images/P004.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P004.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P004.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="We say Newton discovered gravitation. Was it sitting anywhere in a corner waiting for him? It was in his own mind; the time came and he found it out. All knowledge that the world has ever received comes from the mind; the infinite library of the universe is in your own mind. The external world is simply the suggestion, the occasion, which sets you to study your own mind, but the object of your study is always your own mind. The falling of an apple gave the suggestion to Newton, and he studied his own mind. He rearranged all  the previous links of thought in his mind and discovered a new link among them, which we call the law of gravitation. It was not in the apple nor in anything in the centre of the earth." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P004.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P004.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -142,11 +142,11 @@ cat > images/P005.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P005.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P005.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="Every mental and physical blow that is given to the soul, by which, as it were, fire is struck from it, and by which its own power and knowledge are discovered, is Karma, this word being used in its widest sense. Thus we are all doing Karma all the time. I am talking to you: that is Karma. You are listening: that is Karma. We breathe: that is Karma. We walk: Karma. Everything we do, physical or mental, is Karma, and it leaves its marks on us." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P005.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P005.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -177,11 +177,11 @@ cat > images/P006.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P006.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P006.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="If you really want to judge of the character of a man, look not at his great performances. Every fool may become a hero at one time or another. Watch a man do his most common actions; those are indeed the things which will tell you the real character of a great man. Great occasions rouse even the lowest of human beings to some kind of greatness, but he alone is the really great man whose character is great always, the same wherever he be." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P006.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P006.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -212,11 +212,11 @@ cat > images/P007.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P007.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P007.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="All the actions that we see in the world, all the movements in human society, all the works that we have around us, are simply the display of thought, the manifestation of the will of man. Machines or instruments, cities, ships, or men-of-war, all these are simply the manifestation of the will of man; and this will is caused by character, and character is manufactured by Karma. As is Karma, so is the manifestation of the will." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P007.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P007.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -247,11 +247,11 @@ cat > images/P008.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P008.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P008.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="The men of mighty will the world has produced have all been tremendous workers - gigantic souls, with wills powerful enough to overturn worlds, wills they got by persistent work, through ages, and ages. Such a gigantic will as that of a Buddha or a Jesus could not be obtained in one life, for we know who their fathers were... Millions and millions of carpenters like Joseph had gone; millions are still living. Millions and millions of petty kings like Buddha's father had been in the world. If it was only a case of hereditary transmission, how do you account for this petty prince, who was not, perhaps, obeyed by his own servants, producing this son, whom half a world worships? How do you explain the gulf between the carpenter and his son, whom millions of human beings worship as God? It cannot be solved by the theory of heredity. The gigantic will which Buddha and Jesus threw over the world, whence did it come? Whence came this accumulation of power? It must have been there through ages and ages, continually growing bigger and bigger, until it burst on society in a Buddha or a Jesus, even rolling down to the present day." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P008.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P008.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -282,11 +282,11 @@ cat > images/P009.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P009.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P009.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="No one can get anything unless he earns it. This is an eternal law. We may sometimes think it is not so, but in the long run we become convinced of it. A man may struggle all his life for riches; he may cheat thousands, but he finds at last that he did not deserve to become rich, and his life becomes a trouble and a nuisance to him. We may go on accumulating things for our physical enjoyment, but only what we earn is really ours. A fool may buy all the books in the world, and they will be in his library; but he will be able to read only those that he deserves to; and this deserving is produced by Karma. Our Karma determines what we deserve and what we can assimilate." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P009.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P009.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -317,11 +317,11 @@ cat > images/P010.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P010.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P010.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="We are responsible for what we are; and whatever we wish ourselves to be, we have the power to make ourselves. If what we are now has been the result of our own past actions, it certainly follows that whatever we wish to be in future can be produced by our present actions; so we have to know how to act. You will say, “What is the use of learning how to work? Everyone works in some way or other in this world.” But there is such a thing as frittering away our energies. With regard to Karma-Yoga, the Gita says that it is doing work with cleverness and as a science; by knowing how to work, one can obtain the greatest results. You must remember that all work is simply to bring out the power of the mind which is already there, to wake up the soul. The power is inside every man, so is knowing; the different works are like blows to bring them out, to cause these giants to wake up." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P010.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P010.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -352,11 +352,11 @@ cat > images/P011.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P011.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P011.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="Work for work's sake. There are some who are really the salt of the earth in every country and who work for work's sake, who do not care for name, or fame, or even to go to heaven. They work just because good will come of it. There are others who do good to the poor and help mankind from still higher motives, because they believe in doing good and love good. The motive for name and fame seldom brings immediate results, as a rule; they come to us when we are old and have almost done with life. If a man works without any selfish motive in view, does he not gain anything? Yes, he gains the highest. Unselfishness is more paying, only people have not the patience to practice it. It is more paying from the point of view of health also. Love, truth, and unselfishness are not merely moral figures of speech, but they form our highest ideal, because in them lies such a manifestation of power." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P011.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P011.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -387,11 +387,11 @@ cat > images/P012.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P012.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P012.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="self-restraint is a manifestation of greater power than all outgoing action. A carriage with four horses may rush down a hill unrestrained, or the coachman may curb the horses. Which is the greater manifestation of power, to let them go or to hold them? A cannonball flying through the air goes a long distance and falls. Another is cut short in its flight by striking against a wall, and the impact generates intense heat. All outgoing energy following a selfish motive is frittered away; it will not cause power to return to you; but if restrained, it will result in development of power. This self-control will tend to produce a mighty will, a character which makes a Christ or a Buddha." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P012.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P012.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -422,11 +422,11 @@ cat > images/P013.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P013.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P013.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Karma in its Effect on Character" />
 <meta property="og:description" content="The ideal man is he who, in the midst of the greatest silence and solitude, finds the intensest activity, and in the midst of the intensest activity finds the silence and solitude of the desert. He has learnt the secret of restraint, he has controlled himself. He goes through the streets of a big city with all its traffic, and his mind is as calm as if he were in a cave, where not a sound could reach him; and he is intensely working all the time. That is the ideal of Karma-Yoga, and if you have attained to that you have really learnt the secret of work." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P013.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P013.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -457,11 +457,11 @@ cat > images/P014.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P014.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P014.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Raja-Yoga" />
 <meta property="og:description" content="Each soul is potentially divine. The goal is to manifest this Divinity within by controlling nature, external and internal. Do this either by work, or worship, or psychic control, or philosophy - by one, or more, or all of these - and be free. This is the whole of religion. Doctrines, or dogmas, or rituals, or books, or temples, or forms, are but secondary details." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P014.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P014.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -492,11 +492,11 @@ cat > images/P015.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P015.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P015.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="The Christian asks you to believe in his religion, to believe in Christ and to believe in him as the incarnation of God, to believe in a God, in a soul, and in a better state of that soul. If I ask him for reason, he says he believes in them. But if you go to the fountain-head of Christianity, you will find that it is based upon experience. Christ said he saw God; the disciples said they felt God; and so forth. Similarly, in Buddhism, it is Buddha's experience. He experienced certain truths, saw them, came in contact with them, and preached them to the world. So with the Hindus. In their books the writers, who are called Rishis, or sages, declare they experienced certain truths, and these they preach. Thus it is clear that all the religions of the world have been built upon that one universal and adamantine foundation of all our knowledge - direct experience. The teachers all saw God; they all saw their own souls, they saw their future, they saw their eternity, and what they saw they preached." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P015.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P015.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -527,11 +527,11 @@ cat > images/P016.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P016.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P016.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="In acquiring knowledge we make use of generalisations, and generalisation is based upon observation. We first observe facts, then generalise, and then draw conclusions or principles. The knowledge of the mind, of the internal nature of man, of thought, can never be had until we have first the power of observing the facts that are going on within. It is comparatively easy to observe facts in the external world, for many instruments have been invented for the purpose, but in the internal world we have no instrument to help us. Yet we know we must observe in order to have a real science. Without a proper analysis, any science will be hopeless - mere theorising... The science of Raja-Yoga, in the first place, proposes to give us such a means of observing the internal states. The instrument is the mind itself. The power of attention, when properly guided, and directed towards the internal world, will analyse the mind, and illumine facts for us." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P016.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P016.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -562,11 +562,11 @@ cat > images/P017.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P017.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P017.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="It is easy to concentrate the mind on external things, the mind naturally goes outwards; but not so in the case of religion, or psychology, or metaphysics, where the subject and the object, are one. The object is internal, the mind itself is the object, and it is necessary to study the mind itself - mind studying mind. We know that there is the power of the mind called reflection. I am talking to you. At the same time I am standing aside, as it were, a second person, and knowing and hearing what I am talking. You work and think at the same time, while a portion of your mind stands by and sees what you are thinking. The powers of the mind should be concentrated and turned back upon itself, and... this concentrated mind penetrate its own innermost secrets. Thus will we come to the basis of belief, the real genuine religion. We will perceive for ourselves whether we have souls, whether life is of five minutes or of eternity, whether there is a God in the universe or more. It will all be revealed to us. This is what Raja-Yoga proposes to teach." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P017.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P017.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -597,11 +597,11 @@ cat > images/P018.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P018.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P018.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="This study of Raja-Yoga takes a long time and constant practice. A part of this practice is physical, but in the main it is mental. As we proceed we shall find how intimately the mind is connected with the body... If the body is sick, the mind becomes sick also. If the body is healthy, the mind remains healthy and strong. When one is angry, the mind becomes disturbed. Similarly when the mind is disturbed, the body also becomes disturbed. With the majority of mankind the mind is greatly under the control of the body, their mind being very little developed. The vast mass of humanity is very little removed from the animals. Not only so, but in many instances, the power of control in them is little higher than that of the lower animals. We have very little command of our minds. Therefore to bring that command about, to get that control over body and mind, we must take certain physical helps. When the body is sufficiently controlled, we can attempt the manipulation of the mind." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P018.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P018.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -632,11 +632,11 @@ cat > images/P019.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P019.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P019.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="According to the Raja-Yogi, the external world is but the gross form of the internal, or subtle. The finer is always the cause, the grosser the effect. So the external world is the effect, the internal the cause. In the same way external forces are simply the grosser parts, of which the internal forces are the finer. The man who has discovered and learned how to manipulate the internal forces will get the whole of nature under his control. The Yogi proposes to himself no less a task than to master the whole universe, to control the whole of nature. He wants to arrive at the point where what we call "nature's laws" will have no influence over him, where he will be able to get beyond them all. He will be master of the whole of nature, internal and external. The progress and civilisation of the human race simply mean controlling this nature." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P019.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P019.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -667,11 +667,11 @@ cat > images/P020.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P020.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P020.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="The end and aim of all science is to find the unity, the One out of which the manifold is being manufactured, that One existing as many. Raja-Yoga proposes to start from the internal world, to study internal nature, and through that, control the whole - both internal and external. It is a very old attempt. India has been its special stronghold, but it was also attempted by other nations. In Western countries it was regarded as mysticism and people who wanted to practice it were either burned or killed as witches and sorcerers. In India, for various reasons, it fell into the hands of persons who destroyed ninety per cent of the knowledge, and tried to make a great secret of the remainder. In modern times many so-called teachers have arisen in the West worse than those of India, because the latter knew something, while these modern exponents know nothing." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P020.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P020.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -702,11 +702,11 @@ cat > images/P021.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P021.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P021.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="Anything that is secret and mysterious in these systems of Yoga should be at once rejected. The best guide in life is strength. In religion, as in all other matters, discard everything that weakens you, have nothing to do with it. Mystery-mongering weakens the human brain. It has well-nigh destroyed Yoga - one of the grandest of sciences. From the time it was discovered, more than four thousand years ago, Yoga was perfectly delineated, formulated, and preached in India. It is a striking fact that the more modern the commentator the greater the mistakes he makes, while the more ancient the writer the more rational he is. Most of the modern writers talk of all sorts of mystery. Thus Yoga fell into the hands of a few persons who made it a secret, instead of letting the full blaze of daylight and reason fall upon it. They did so that they might have the powers to themselves." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P021.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P021.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -737,11 +737,11 @@ cat > images/P022.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P022.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P022.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="According to the Sankhya philosophy, the genesis of perception is as follows: the affections of external objects are carried by the outer instruments to their respective brain centres or organs, the organs carry the affections to the mind, the mind to the determinative faculty, from this the Purusha (the soul) receives them, when perception results. Next he gives the order back, as it were, to the motor centres to do the needful. With the exception of the Purusha all of these are material, but the mind is much finer matter than the external instruments. That material of which the mind is composed goes also to form the subtle matter called the Tanm&acirctras. These become gross and make the external matter. That is the psychology of the Sankhya. So that between the intellect and the grosser matter outside there is only a difference in degree. The Purusha is the only thing which is immaterial." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P022.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P022.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -772,11 +772,11 @@ cat > images/P023.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P023.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P023.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Introductory, Raja-Yoga" />
 <meta property="og:description" content="The mind is an instrument, as it were, in the hands of the soul, through which the soul catches external objects. The mind is constantly changing and vacillating, and can, when perfected, either attach itself to several organs, to one, or to none. For instance, if I hear the clock with great attention, I will not, perhaps, see anything although my eyes may be open, showing that the mind was not attached to the seeing organ, while it was to the hearing organ. But the perfected mind can be attached to all the organs simultaneously. It has the reflexive power of looking back into its own depths. This reflexive power is what the Yogi wants to attain; by concentrating the powers of the mind, and turning them inward, he seeks to know what is happening inside." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P023.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P023.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -807,11 +807,11 @@ cat > images/P024.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P024.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P024.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
 <meta property="og:description" content="Hatha-Yoga... deals entirely with the physical body, its aim being to make the physical body very strong. We have nothing to do with it here, because its practices are very difficult, and cannot be learned in a day, and, after all, do not lead to much spiritual growth... The result of this branch of Yoga is to make men live long; health is the chief idea, the one goal of the Hatha-Yogi. He is determined not to fall sick, and he never does. He lives long; a hundred years is nothing to him; he is quite young and fresh when he is 150, without one hair turned grey. But that is all. A banyan tree lives sometimes 5000 years, but it is a banyan tree and nothing more. So, if a man lives long, he is only a healthy animal. One or two ordinary lessons of the Hatha-Yogis are very useful." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P024.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P024.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -842,11 +842,11 @@ cat > images/P025.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P025.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P025.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
 <meta property="og:description" content="This human body is the greatest body in the universe, and a human being the greatest being. Man is higher than all animals, than all angels; none is greater than man. Even the Devas (gods) will have to come down again and attain to salvation through a human body. Man alone attains to perfection, not even the Devas. According to the Jews and Mohammedans, God created man after creating the angels and everything else, and after creating man He asked the angels to come and salute him, and all did so except Iblis; so God cursed him and he became Satan. Behind this allegory is the great truth that this human birth is the greatest birth we can have. The lower creation, the animal, is dull, and manufactured mostly out of Tamas. Animals cannot have any high thoughts; nor can the angels, or Devas, attain to direct freedom without human birth." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P025.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P025.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -877,11 +877,11 @@ cat > images/P026.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P026.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P026.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
 <meta property="og:description" content="In human society... too much wealth or too much poverty is a great impediment to the higher development of the soul. It is from the middle classes that the great ones of the world come. Here the forces are very equally adjusted and balanced." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P026.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P026.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -912,11 +912,11 @@ cat > images/P027.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P027.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P027.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
 <meta property="og:description" content="You will find at last that the easiest way to make ourselves healthy is to see that others are healthy, and the easiest way to make ourselves happy is to see that others are happy." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P027.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P027.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -947,11 +947,11 @@ cat > images/P028.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P028.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P028.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The First Steps, Raja-Yoga" />
 <meta property="og:description" content="Think of it [your body] as being as strong as adamant, and that with the help of this body you will cross the ocean of life. Freedom is never to be reached by the weak. Throw away all weakness. Tell your body that it is strong, tell your mind that it is strong, and have unbounded faith and hope in yourself." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P028.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P028.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -982,11 +982,11 @@ cat > images/P029.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P029.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P029.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="ur great defect in life is that we are so much drawn to the ideal, the goal is so much more enchanting, so much more alluring, so much bigger in our mental horizon, that we lose sight of the details altogether. But whenever failure comes, if we analyse it critically, in ninety-nine per cent of cases we shall find that it was because we did not pay attention to the means. Proper attention to the finishing, strengthening, of the means is what we need. With the means all right, the end must come." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P029.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P029.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1018,11 +1018,11 @@ cat > images/P030.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P030.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P030.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="We forget that it is the cause that produces the effect; the effect cannot come by itself; and unless the causes are exact, proper, and powerful, the effect will not be produced. Once the ideal is chosen and the means determined, we may almost let go the ideal, because we are sure it will be there, when the means are perfected. When the cause is there, there is no more difficulty about the effect, the effect is bound to come. If we take care of the cause, the effect will take care of itself. The realization of the ideal is the effect. The means are the cause: attention to the means, therefore, is the great secret of life." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P030.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P030.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1053,11 +1053,11 @@ cat > images/P031.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P031.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P031.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="If we examine our own lives, we find that the greatest cause of sorrow is this: we take up something, and put our whole energy on it - perhaps it is a failure and yet we cannot give it up. We know that it is hurting us, that any further clinging to it is simply bringing misery on us; still, we cannot tear ourselves away from it. The bee came to sip the honey, but its feet stuck to the honey-pot and it could not get away. Again and again, we are finding ourselves in that state." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P031.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P031.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1088,11 +1088,11 @@ cat > images/P032.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P032.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P032.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="That is the one cause of misery: we are attached, we are being caught. Therefore says the Gita: Work constantly; work, but be not attached; be not caught. Reserve unto yourself the power of detaching yourself from everything, however beloved, however much the soul might yearn for it, however great the pangs of misery you feel if you were going to leave it; still, reserve the power of leaving it whenever you want. The weak have no place here, in this life or in any other life. Weakness leads to slavery. Weakness leads to all kinds of misery, physical and mental. Weakness is death... This is the great fact: strength is life, weakness is death. Strength is felicity, life eternal, immortal; weakness is constant strain and misery: weakness is death." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P032.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P032.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1123,11 +1123,11 @@ cat > images/P033.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P033.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P033.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="Attachment is the source of all our pleasures now. We are attached to our friends, to our relatives; we are attached to our intellectual and spiritual works; we are attached to external objects, so that we get pleasure from them. What, again, brings misery but this very attachment? We have to detach ourselves to earn joy. If only we had power to detach ourselves at will, there would not be any misery. That man alone will be able to get the best of nature, who, having the power of attaching himself to a thing with all his energy, has also the power to detach himself when he should do so." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P033.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P033.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1158,11 +1158,11 @@ cat > images/P034.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P034.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P034.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="The perfect man can put his whole soul upon that one point of love, yet he is unattached." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P034.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P034.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1193,11 +1193,11 @@ cat > images/P035.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P035.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P035.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="The beggar is never happy. The beggar only gets a dole with pity and scorn behind it, at least with the thought behind that the beggar is a low object. He never really enjoys what he gets. We are all beggars. Whatever we do, we want a return. We are all traders. We are traders in life, we are traders in virtue, we are traders in religion. And alas! we are also traders in love. If you come to trade, if it is a question of give-and-take, if it is a question of buy-and-sell, abide by the laws of buying and selling. There is a bad time and there is a good time... always you expect the blow to come." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P035.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P035.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1228,11 +1228,11 @@ cat > images/P036.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P036.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P036.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="We get caught. How? Not by what we give, but by what we expect. We get misery in return for our love; not from the fact that we love, but from the fact that we want love in return. There is no misery where there is no want. Desire, want, is the father of all misery. Desires are bound by the laws of success and failure. Desires must bring misery." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P036.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P036.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1263,11 +1263,11 @@ cat > images/P037.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P037.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P037.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="Ask nothing; want nothing in return. Give what you have to give; it will come back to you - but do not think of that now, it will come back multiplied a thousandfold - but the attention must not be on that. Yet have the power to give: give, and there it ends. Learn that the whole of life is giving, that nature will force you to give. So, give willingly." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P037.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P037.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1298,11 +1298,11 @@ cat > images/P038.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P038.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P038.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="We get only that for which we are fitted. Let us give up our pride and understand this, that never is misery undeserved. There never has been a blow undeserved: there never has been an evil for which I did not pave the way with my own hands. We ought to know that. Analyse yourselves and you will find that every blow you have received, came to you because you prepared yourselves for it. You did half, and the external world did the other half: that is how the blow came. That will sober us down." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P038.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P038.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1333,11 +1333,11 @@ cat > images/P039.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P039.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P039.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="We are all the time, from our childhood, trying to lay the blame upon something outside ourselves. We are always standing up to set right other people, and not ourselves. If we are miserable, we say, "Oh, the world is a devil's world." We curse others and say, "What infatuated fools!" But why should we be in such a world, if we really are so good? If this is a devil's world, we must be devils also; why else should we be here?" />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P039.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P039.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1368,11 +1368,11 @@ cat > images/P040.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P040.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P040.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Work and Its Secret" />
 <meta property="og:description" content="We only get what we deserve. It is a lie when we say, the world is bad and we are good. It can never be so. It is a terrible lie we tell ourselves. This is the first lesson to learn: be determined not to curse anything outside, not to lay the blame upon any one outside, but be a man, stand up, lay the blame on yourself. You will find, that is always true. Get hold of yourself." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P040.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P040.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1403,11 +1403,11 @@ cat > images/P041.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P041.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P041.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="All over the world there has been the belief in the supernatural throughout the ages. All of us have heard of extraordinary happenings, and many of us have had some personal experience of them... Well, I saw many things like that. Going about India you find hundreds of similar things in different places. These are in every country. Even in this country [USA] you will find some such wonderful things. Of course there is a great deal of fraud, no doubt; but then, whenever you see fraud, you have also to say that fraud is an imitation. There must be some truth somewhere, that is being imitated; you cannot imitate nothing. Imitation must be of something substantially true." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P041.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P041.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1438,11 +1438,11 @@ cat > images/P042.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P042.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P042.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="In very remote times in India, thousands of years ago, these facts [extraordinary happenings] used to happen even more than they do today. It seems to me that when a country becomes very thickly populated, psychical power deteriorates. Given a vast country thinly inhabited, there will, perhaps, be more of psychical power there. These facts, the Hindus, being analytically minded, took up and investigated. And they came to certain remarkable conclusions; that is, they made a science of it. They found out that all these, though extraordinary, are also natural; there is nothing supernatural. They are under laws just the same as any other physical phenomenon... They can be systematically studied, practiced, and acquired. This science they call the science of R&acircja-Yoga." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P042.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P042.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1473,11 +1473,11 @@ cat > images/P043.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P043.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P043.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="The world is one of influence. Part of our energy is used up in the preservation of our own bodies. Beyond that, every particle of our energy is day and night being used in influencing others. Our bodies, our virtues, our intellect, and our spirituality, all these are continuously influencing others; and so, conversely, we are being influenced by them... A man comes; you know he is very learned, his language is beautiful, and he speaks to you by the hour; but he does not make any impression. Another man comes, and he speaks a few words, not well arranged, ungrammatical perhaps; all the same, he makes an immense impression. Many of you have seen that. So it is evident that words alone cannot always produce an impression. Words, even thoughts contribute only one-third of the influence in making an impression, the man, two-thirds. What you call the personal magnetism of the man - that is what goes out and impresses you." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P043.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P043.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1508,11 +1508,11 @@ cat > images/P044.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P044.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P044.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="Coming to great leaders of mankind, we always find that it was the personality of the man that counted... take all the great authors of the past, the great thinkers. Really speaking, how many thoughts have they thought? Take all the writings that have been left to us by the past leaders of mankind.. The real thoughts, new and genuine, that have been thought in this world up to this time, amount to only a handful. Read in their books the thoughts they have left to us. The authors do not appear to be giants to us, and yet we know that they were great giants in their days. What made them so? Not simply the thoughts they thought, neither the books they wrote, nor the speeches they made, it was something else that is now gone, that is their personality." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P044.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P044.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1543,11 +1543,11 @@ cat > images/P045.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P045.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P045.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="The personality of the man is two-thirds, and his intellect, his words, are but one-third. It is the real man, the personality of the man, that runs through us. Our actions are but effects. Actions must come when the man is there; the effect is bound to follow the cause. The ideal of all education, all training, should be this man-making. But, instead of that, we are always trying to polish up the outside. What use in polishing up the outside when there is no inside? The end and aim of all training is to make the man grow. The man who influences, who throws his magic, as it were, upon his fellow-beings, is a dynamo of power, and when that man is ready, he can do anything and everything he likes; that personality put upon anything will make it work." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P045.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P045.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1578,11 +1578,11 @@ cat > images/P046.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P046.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P046.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="Compare the great teachers of religion with the great philosophers. The philosophers scarcely influenced anybody's inner man, and yet they wrote most marvellous books. The religious teachers, on the other hand, moved countries in their lifetime. The difference was made by personality. In the philosopher it is a faint personality that influences; in the great prophets it is tremendous. In the former we touch the intellect, in the latter we touch life." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P046.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P046.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1613,11 +1613,11 @@ cat > images/P047.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P047.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P047.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="The science of Yoga claims that it has discovered the laws which develop this personality, and by proper attention to those laws and methods, each one can grow and strengthen his personality. This is one of the great practical things, and this is the secret of all education. This has a universal application. In the life of the householder, in the life of the poor, the rich, the man of business, the spiritual man, in every one's life, it is a great thing, the strengthening of this personality." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P047.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P047.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1648,11 +1648,11 @@ cat > images/P048.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P048.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P048.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="We also know that the greatest power is lodged in the fine, not in the coarse. We see a man take up a huge weight, we see his muscles swell, and all over his body we see signs of exertion, and we think the muscles are powerful things. But it is the thin thread-like things, the nerves, which bring power to the muscles; the moment one of these threads is cut off from reaching the muscles, they are not able to work at all. These tiny nerves bring the power from something still finer, and that again in its turn brings it from something finer still - thought, and so on. So, it is the fine that is really the seat of power... when fine movements take place, we cannot see them. When a gross thing moves, we catch it, and thus we naturally identify movement with things which are gross. But all the power is really in the fine... if by any science, any investigation, we are helped to get hold of these finer forces which are the cause of the expression, the expression itself will be under control." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P048.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P048.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1683,11 +1683,11 @@ cat > images/P049.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P049.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P049.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Powers of the Mind" />
 <meta property="og:description" content="If there is a method by which we can analyse, investigate, understand, and finally grapple with those finer powers [of mind], the finer causes, then alone is it possible to have control over ourselves, and the man who has control over his own mind assuredly will have control over every other mind. That is why purity and morality have been always the object of religion; a pure, moral man has control of himself. And all minds are the same, different parts of one Mind. He who knows one lump of clay has known all the clay in the universe. He who knows and controls his own mind knows the secret of every mind and has power over every mind." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P049.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P049.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1718,11 +1718,11 @@ cat > images/P050.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P050.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P050.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="Strength, power, and courage are things which are very peculiar. We generally say, "A courageous man, a brave man, a daring man", but we must bear in mind that that courage or bravery or any other trait does not always characterise the man. The same man who would rush to the mouth of a cannon shrinks from the knife of the surgeon; and another man who never dares to face a gun will calmly bear a severe surgical operation, if need be. Now, in judging others you must always define your terms of courage or greatness. The man whom I am criticising as not good may be wonderfully so in some points in which I am not." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P050.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P050.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1753,11 +1753,11 @@ cat > images/P051.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P051.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P051.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="The whole universe is one of perfect balance. I do not know, but some day we may wake up and find that the mere worm has something which balances our manhood. The most wicked person may have some good qualities that I entirely lack. I see that every day of my life. Look at the savage! I wish I had such a splendid physique. He eats, he drinks, to his heart's content, without knowing perhaps what sickness is, while I am suffering every minute. How many times would I have been glad to have changed my brain for his body! The whole universe is only a wave and a hollow; there can be no wave without a hollow. Balance everywhere. You have one thing great, your neighbour has another thing great. When you are judging man and woman, judge them by the standard of their respective greatness. One cannot be in other's shoes." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P051.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P051.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1788,11 +1788,11 @@ cat > images/P052.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P052.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P052.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="The subject of the practical application of psychology has been taken up in India from very early times. About fourteen hundred years before Christ, there flourished in India a great philosopher, Patanjali by name. He collected all the facts, evidences, and researches in psychology and took advantage of all the experiences accumulated in the past. Remember, this world is very old; it was not created only two or three thousand years ago. It is taught here in the West that society began eighteen hundred years ago, with the New Testament. Before that there was no society. That may be true with regard to the West, but it is not true as regards the whole world... in London, a very intellectual and intelligent friend of mine... one day after using all his weapons against me... suddenly exclaimed, "But why did not your Rishis come to England to teach us?" I replied, "Because there was no England to come to. Would they preach to the forests?" />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P052.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P052.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1823,11 +1823,11 @@ cat > images/P053.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P053.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P053.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="It is not yet settled whether civilisation has always come from the lower to the higher. The same arguments and proofs that have been brought forward to prove this proposition can also be used to demonstrate that the savage is only a degraded civilised man. The people of China, for instance, can never believe that civilisation sprang from a savage state, because the contrary is within their experience... It is very easy to believe that the Hindus, who have been declining for seven hundred years, were highly civilised in the past. We cannot prove that it is not so." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P053.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P053.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1858,11 +1858,11 @@ cat > images/P054.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P054.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P054.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="There is not one single instance of any civilisation being spontaneous. There was not a race in the world which became civilised unless another civilised race came and mingled with that race. The origin of civilisation must have belonged, so to say, to one or two races who went abroad, spread their ideas, and intermingled with other races and thus civilisation spread." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P054.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P054.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1893,11 +1893,11 @@ cat > images/P055.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P055.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P055.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="I must ask you to bear in mind that, as there is religious superstition, so also there is a superstition in the matter of science. There are priests who take up religious work as their speciality; so also there are priests of physical law, scientists. As soon as a great scientist's name, like Darwin or Huxley, is cited, we follow blindly. It is the fashion of the day. Ninety-nine per cent of what we call scientific knowledge is mere theories. And many of them are no better than the old superstitions of ghosts with many heads and hands, but with this difference that the latter differentiated man a little from stocks and stones. True science asks us to be cautious. Just as we should be careful with the priests, so we should be with the scientists. Begin with disbelief. Analyse, test, prove everything, and then take it. Some of the most current beliefs of modern science have not been proved. Even in such a science as mathematics, the vast majority of its theories are only working hypotheses. With the advent of greater knowledge they will be thrown away." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P055.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P055.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1928,11 +1928,11 @@ cat > images/P056.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P056.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P056.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="The whole universe, therefore, is a unit, from whatever standpoint you view it. Just now [in this lecture], to us, this universe is a unit of Prana and &acirck&acircsha, force and matter. And mind you, like all other basic principles, this is also self-contradictory. For what is force? - that which moves matter. And what is matter? - that which is moved by force. It is a seesaw! Some of the fundamentals of our reasoning are most curious, in spite of our boast of science and knowledge... This state of things has been called Maya. It has neither existence nor non-existence. You cannot call it existence, because that only exists which is beyond time and space, which is self-existence. Yet this world satisfies to a certain degree our idea of existence. Therefore it has an apparent existence." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P056.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P056.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1963,11 +1963,11 @@ cat > images/P057.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P057.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P057.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="There is the real existence in and through everything; and that reality, as it were, is caught in the meshes of time, space, and causation. There is the real man, the infinite, the beginningless, the endless, the ever-blessed, the ever-free. He has been caught in the meshes of time, space, and causation. So has everything in this world. The reality of everything is the same infinite. This is not idealism; it is not that the world does not exist. It has a relative existence, and fulfils all its requirements. But it has no independent existence. It exists because of the Absolute Reality beyond time, space, and causation." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P057.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P057.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -1998,11 +1998,11 @@ cat > images/P058.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P058.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P058.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="Man is an infinite circle whose circumference is nowhere, but the centre is located in one spot; and God is an infinite circle whose circumference is nowhere, but whose centre is everywhere. He works through all hands, sees through all eyes, walks on all feet, breathes through all bodies, lives in all life, speaks through every mouth, and thinks through every brain. Man can become like God and acquire control over the whole universe if he multiplies infinitely his centre of self-consciousness. Consciousness, therefore, is the chief thing to understand." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P058.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P058.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2033,11 +2033,11 @@ cat > images/P059.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P059.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P059.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="If you want to be a Yogi, you must be free, and place yourself in circumstances where you are alone and free from all anxiety. He who desires a comfortable and nice life and at the same time wants to realise the Self is like the fool who, wanting to cross the river, caught hold of a crocodile, mistaking it for a log of wood (Vivekachud&acircmani, 84.)."Seek ye first the kingdom of God, and everything shall be added unto you." This is the one great duty, this is renunciation. Live for an ideal, and leave no place in the mind for anything else." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P059.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P059.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2068,11 +2068,11 @@ cat > images/P060.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P060.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P060.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="The greatest help to spiritual life is meditation (Dhy&acircna). In meditation we divest ourselves of all material conditions and feel our divine nature. We do not depend upon any external help in meditation." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P060.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P060.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2103,11 +2103,11 @@ cat > images/P061.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P061.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P061.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Hints on Practical Spirituality" />
 <meta property="og:description" content="The less the thought of the body, the better. For it is the body that drags us down. It is attachment, identification, which makes us miserable. That is the secret: To think that I am the spirit and not the body, and that the whole of this universe with all its relations, with all its good and all its evil, is but as a series of paintings - scenes on a canvas - of which I am the witness." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P061.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P061.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2138,11 +2138,11 @@ cat > images/P062.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P062.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P062.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
 <meta property="og:description" content="All knowledge that we have, either of the external or internal world, is obtained through only one method - by the concentration of the mind. No knowledge can be had of any science unless we can concentrate our minds upon the subject. The astronomer concentrates his mind through the telescope... and so on. If you want to study your own mind, it will be the same process. You will have to concentrate your mind and turn it back upon itself. The difference in this world between mind and mind is simply the fact of concentration. One, more concentrated than the other, gets more knowledge." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P062.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P062.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2173,11 +2173,11 @@ cat > images/P063.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P063.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P063.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
 <meta property="og:description" content="Concentration, of course, comes from various sources. Through the senses you can get concentration. Some get it when they hear beautiful music, others when they see beautiful scenery. ... Some get concentrated by lying upon beds of spikes, sharp iron spikes, others by sitting upon sharp pebbles. These are extraordinary cases [using] most unscientific procedure. Scientific procedure is gradually training the mind... The value of ethics to the Yogi lies in that it makes the mind pure. The purer the mind, the easier it is to control it. The mind takes every thought that rises and works it out. The grosser the mind, the more difficult [it is] to control [it]" />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P063.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P063.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2208,11 +2208,11 @@ cat > images/P064.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P064.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P064.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
 <meta property="og:description" content="My old master used to say, "When the lotus of the heart has bloomed, the bees will come by themselves." Men like that are there yet. They need not talk. ... When the man is perfect from his heart, without a thought of hatred, all animals will give up their hatred [before him]. So with purity. These are necessary for our dealings with our fellow beings. We must love all. ... We have no business to look at the faults of others: it does no good. We must not even think of them. Our business is with the good. We are not here to deal with faults. Our business is to be good." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P064.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P064.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2243,11 +2243,11 @@ cat > images/P065.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P065.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P065.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
 <meta property="og:description" content="Here comes Miss So-and-so. She says, "I am going to be a Yogi." She tells the news twenty times, meditates fifty days, then she says, "There is nothing in this religion. I have tried it. There is nothing in it." The very basis [of spiritual life] is not there. The foundation [must be] this perfect morality. That is the great difficulty." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P065.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P065.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2278,11 +2278,11 @@ cat > images/P066.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P066.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P066.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
 <meta property="og:description" content="External purity is very easy and all the world rushes towards [it]. If a certain kind of dress is the kind of morality [to be observed], any fool can do that. When it is grappling with the mind itself, it is hard work. The people who do external, superficial things are so self-righteous!... We are always losing sight of the real meaning of things. The little eating and dress! Every fool can see that. Who sees that which is beyond? It is culture of the heart that we want." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P066.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P066.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2313,11 +2313,11 @@ cat > images/P067.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P067.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P067.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Concentration" />
 <meta property="og:description" content="Bathing, and dress, and food regulation - all these have their proper value when they are complementary to the spiritual. .... That first, and these all help. But without it, no amount of eating grass... is any good at all. They are helps if properly understood. But improperly understood, they are derogatory... This is the reason why I am explaining these things: First, because in all religions everything degenerates upon being practiced by [the ignorant]. The camphor in the bottle evaporated, and they are fighting over the bottle." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P067.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P067.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2348,11 +2348,11 @@ cat > images/P068.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P068.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P068.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="We all know about morality, and we all know about duty, but at the same time we find that in different countries the significance of morality varies greatly. What is regarded as moral in one country may in another be considered perfectly immoral...So it is with duty...In one country, if a man does not do certain things, people will say he has acted wrongly; while if he does those very things in another country, people will say that he did not act rightly - and yet we know that there must be some universal idea of duty... Two ways are left open to us - the way of the ignorant, who think that there is only one way to truth and that all the rest are wrong, and the way of the wise, who admit that, according to our mental constitution or the different planes of existence in which we are, duty and morality may vary. The important thing is to know that there are gradations of duty and of morality - that the duty of one state of life, in one set of circumstances, will not and cannot be that of another." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P068.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P068.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2383,11 +2383,11 @@ cat > images/P069.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P069.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P069.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="This is a great lesson for us all to learn, that in all matters the two extremes are alike. The extreme positive and the extreme negative are always similar. When the vibrations of light are too slow, we do not see them, nor do we see them when they are too rapid. So with sound; when very low in pitch, we do not hear it; when very high, we do not hear it either. Of like nature is the difference between resistance and non-resistance. One man does not resist because he is weak, lazy, and cannot, not because he will not; the other man knows that he can strike an irresistible blow if he likes; yet he not only does not strike, but blesses his enemies. The one who from weakness resists not commits a sin, and as such cannot receive any benefit from the non-resistance; while the other would commit a sin by offering resistance." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P069.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P069.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2418,11 +2418,11 @@ cat > images/P070.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P070.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P070.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="Buddha gave up his throne and renounced his position, that was true renunciation; but there cannot be any question of renunciation in the case of a beggar who has nothing to renounce. So we must always be careful about what we really mean when we speak of this non-resistance and ideal love. We must first take care to understand whether we have the power of resistance or not. Then, having the power, if we renounce it and do not resist, we are doing a grand act of love; but if we cannot resist, and yet, at the same time, try to deceive ourselves into the belief that we are actuated by motives of the highest love, we are doing the exact opposite." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P070.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P070.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2453,11 +2453,11 @@ cat > images/P071.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P071.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P071.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="The Karma-Yogi is the man who understands that the highest ideal is non-resistance, and who also knows that this non-resistance is the highest manifestation of power in actual possession, and also what is called the resisting of evil is but a step on the way towards the manifestation of this highest power, namely, non-resistance. Before reaching this highest ideal, man's duty is to resist evil; let him work, let him fight, let him strike straight from the shoulder. Then only, when he has gained the power to resist, will non-resistance be a virtue." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P071.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P071.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2488,11 +2488,11 @@ cat > images/P072.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P072.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P072.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="If you desire wealth, and know at the same time that the whole world regards him who aims at wealth as a very wicked man, you, perhaps, will not dare to plunge into the struggle for wealth, yet your mind will be running day and night after money. This is hypocrisy and will serve no purpose. Plunge into the world, and then, after a time, when you have suffered and enjoyed all that is in it, will renunciation come; then will calmness come. So fulfil your desire for power and everything else, and after you have fulfilled the desire, will come the time when you will know that they are all very little things; but until you have fulfilled this desire, until you have passed through that activity, it is impossible for you to come to the state of calmness, serenity, and self-surrender. These ideas of serenity and renunciation have been preached for thousands of years; everybody has heard of them from childhood, and yet we see very few in the world who have really reached that stage. I do not know if I have seen twenty persons in my life who are really calm and non-resisting, and I have travelled over half the world." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P072.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P072.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2523,11 +2523,11 @@ cat > images/P073.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P073.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P073.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="Every man should take up his own ideal and endeavour to accomplish it. That is a surer way of progress than taking up other men's ideals, which he can never hope to accomplish. For instance, we take a child and at once give him the task of walking twenty miles. Either the little one dies, or one in a thousand crawls the twenty miles, to reach the end exhausted and half-dead. That is like what we generally try to do with the world. All the men and women, in any society, are not of the same mind, capacity, or of the same power to do things; they must have different ideals, and we have no right to sneer at any ideal. Let every one do the best he can for realising his own ideal. Nor is it right that I should be judged by your standard or you by mine...To judge the apple tree you must take the apple standard, and for the oak [tree], its own standard." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P073.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P073.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2558,11 +2558,11 @@ cat > images/P074.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P074.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P074.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="Unity in variety is the plan of creation. However men and women may vary individually, there is unity in the background. The different individual characters and classes of men and women are natural variations in creation. Hence, we ought not to judge them by the same standard or put the same ideal before them. Such a course creates only an unnatural struggle, and the result is that man begins to hate himself and is hindered from becoming religious and good. Our duty is to encourage every one in his struggle to live up to his own highest ideal, and strive at the same time to make the ideal as near as possible to the truth." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P074.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P074.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2593,11 +2593,11 @@ cat > images/P075.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P075.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="It is the most difficult thing in this world to work and not care for the result, to help a man and never think that he ought to be grateful, to do some good work and at the same time never look to see whether it brings you name or fame, or nothing at all. Even the most arrant coward becomes brave when the world praises him. A fool can do heroic deeds when the approbation of society is upon him, but for a man to constantly do good without caring for the approbation of his fellow men is indeed the highest sacrifice man can perform." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P075.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P075.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2628,11 +2628,11 @@ cat > images/P076.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P076.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P076.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Each Is Great in His Own Place, advanced Karma-Yoga" />
 <meta property="og:description" content="If a man retires from the world to worship God, he must not think that those who live in the world and work for the good of the world are not worshipping God: neither must those who live in the world, for wife and children, think that those who give up the world are low vagabonds. Each is great in his own place." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P076.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P076.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2663,11 +2663,11 @@ cat > images/P077.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P077.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P077.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Great is the tenacity with which man clings to the senses. Yet, however substantial he may think the external world in which he lives and moves, there comes a time in the lives of individuals and of races when, involuntarily, they ask, "Is this real?" To the person who never finds a moment to question the credentials of his senses, whose every moment is occupied with some sort of sense-enjoyment - even to him death comes, and he also is compelled to ask, "Is this real?" Religion begins with this question and ends with its answer." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P077.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P077.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2697,11 +2697,11 @@ cat > images/P078.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P078.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P078.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="One of the most poetical of the Upanishads, the Katha Upanishad, begins with the inquiry: "When a man dies, there is a dispute. One party declares that he has gone forever, the other insists that he is still living. Which is true?" Various answers have been given. The whole sphere of metaphysics, philosophy, and religion is really filled with various answers to this question. At the same time, attempts have been made to suppress it, to put a stop to the unrest of mind which asks, "What is beyond? What is real?" But so long as death remains, all these attempts at suppression will always prove to be unsuccessful." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P078.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P078.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2731,11 +2731,11 @@ cat > images/P079.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P079.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P079.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="We may talk about seeing nothing beyond and keeping all our hopes and aspirations confined to the present moment, and struggle hard not to think of anything beyond the world of senses; and, perhaps, everything outside helps to keep us limited within its narrow bounds. The whole world may combine to prevent us from broadening out beyond the present. Yet, so long as there is death, the question must come again and again, "Is death the end of all these things to which we are clinging, as if they were the most real of all realities, the most substantial of all substances?" The world vanishes in a moment and is gone. Standing on the brink of a precipice beyond which is the infinite yawning chasm, every mind, however hardened, is bound to recoil and ask, "Is this real?" The hopes of a lifetime, built up little by little with all the energies of a great mind, vanish in a second. Are they real? This question must be answered." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P079.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P079.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2765,11 +2765,11 @@ cat > images/P080.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P080.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P080.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="We run after everything to make ourselves happy; we pursue our mad career in the external world of senses. If you ask the young man with whom life is successful, he will declare that it is real; and he really thinks so. Perhaps, when the same man grows old and finds fortune ever eluding him, he will then declare that it is fate. He finds at last that his desires cannot be fulfilled. Wherever he goes, there is an adamantine wall beyond which he cannot pass. Every sense-activity results in a reaction. Everything is evanescent. Enjoyment, misery, luxury, wealth, power, and poverty, even life itself, are all evanescent. Two positions remain to mankind. One is to believe with the nihilists that all is nothing, that we know nothing, that we can never know anything either about the future, the past, or even the present. For we must remember that he who denies the past and the future and wants to stick to the present is simply a madman. One may as well deny the father and mother and assert the child. It would be equally logical. To deny the past and future, the present must inevitably be denied also. This is one position, that of the Then there is the other position - to seek for an explanation, to seek for the real, to discover in the midst of this eternally changing and evanescent world whatever is real." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P080.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P080.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2799,11 +2799,11 @@ cat > images/P081.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P081.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P081.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="It is a significant fact that all religions, without one exception, hold that man is a degeneration of what he was, whether they clothe this in mythological words, or in the clear language of philosophy, or in the beautiful expressions of poetry. This is the one fact that comes out of every scripture and of every mythology that the man that is, is a degeneration of what he was. This is the kernel of truth within the story of Adam's fall in the Jewish scripture. This is again and again repeated in the scriptures of the Hindus; the dream of a period which they call the Age of Truth, when no man died unless he wished to die, when he could keep his body as long as he liked, and his mind was pure and strong. There was no evil and no misery; and the present age is a corruption of that state of perfection. Side by side with this, we find the story of the deluge everywhere. That story itself is a proof that this present age is held to be a corruption of a former age by every religion. It went on becoming more and more corrupt until the deluge swept away a large portion of mankind, and again the ascending series began. It is going up slowly again to reach once more that early state of purity. You are all aware of the story of the deluge in the Old Testament. The same story was current among the ancient Babylonians, the Egyptians, the Chinese, and the Hindus." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P081.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P081.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2833,11 +2833,11 @@ cat > images/P082.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P082.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P082.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Human language is the attempt to express the truth that is within. I am fully persuaded that a baby whose language consists of unintelligible sounds is attempting to express the highest philosophy, only the baby has not the organs to express it nor the means. The difference between the language of the highest philosophers and the utterances of babies is one of degree and not of kind. What you call the most correct, systematic, mathematical language of the present time, and the hazy, mystical, mythological languages of the ancients, differ only in degree. All of them have a grand idea behind, which is, as it were, struggling to express itself; and often behind these ancient mythologies are nuggets of truth; and often, I am sorry to say, behind the fine, polished phrases of the moderns is arrant trash." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P082.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P082.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2867,11 +2867,11 @@ cat > images/P083.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P083.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P083.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="We need not throw a thing overboard because it is clothed in mythology, because it does not fit in with the notions of Mr. So-and-so or Mrs. So-and-so of modern times. If people should laugh at religion because most religions declare that men must believe in mythologies taught by such and such a prophet, they ought to laugh more at these moderns. In modern times, if a man quotes a Moses or a Buddha or a Christ, he is laughed at; but let him give the name of a Huxley, a Tyndall, or a Darwin, and it is swallowed without salt. "Huxley has said it", that is enough for many. We are free from superstitions indeed! That was a religious superstition, and this a scientific superstition; only, in and through that superstition came life-giving ideas of spirituality; in and through this modern superstition come lust and greed." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P083.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P083.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2901,11 +2901,11 @@ cat > images/P084.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P084.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P084.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="To return to mythology. Behind all these stories we find one idea standing supreme - that man is a degeneration of what he was. Coming to the present times, modern research seems to repudiate this position absolutely. Evolutionists seem to contradict entirely this assertion. According to them, man is the evolution of the mollusc; and, therefore, what mythology states cannot be true. There is in India, however, a mythology which is able to reconcile both these positions. The Indian mythology has a theory of cycles, that all progression is in the form of waves. Every wave is attended by a fall, and that by a rise the next moment, that by a fall in the next, and again another rise. The motion is in cycles. Certainly it is true, even on the grounds of modern research, that man cannot be simply an evolution. Every evolution presupposes an involution. The modern scientific man will tell you that you can only get the amount of energy out of a machine which you have previously put into it. Something cannot be produced out of nothing. If a man is an evolution of the mollusc, then the perfect man - the Buddha-man, the Christ-man - was involved in the mollusc. If it is not so, whence come these gigantic personalities? Something cannot come out of nothing. Thus we are in the position of reconciling the scriptures with modern light. That energy which manifests itself slowly through various stages until it becomes the perfect man, cannot come out of nothing. It existed somewhere; and if the mollusc or the protoplasm is the first point to which you can trace it, that protoplasm, somehow or other, must have contained the energy." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P084.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P084.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2935,11 +2935,11 @@ cat > images/P085.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P085.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P085.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="The religions of the world of course hold that the force called thought manifests the body, and not the reverse. There are schools of modern thought which hold that what we call thought is simply the outcome of the adjustment of the parts of the machine which we call body. Taking the second position that the soul or the mass of thought, or however you may call it, is the outcome of this machine, the outcome of the chemical and physical combinations of matter making up the body and brain, leaves the question unanswered. What makes the body? What force combines the molecules into the body form? What force is there which takes up material from the mass of matter around and forms my body one way, another body another way, and so on? What makes these infinite distinctions? To say that the force called soul is the outcome of the combinations of the molecules of the body is putting the cart before the horse. How did the combinations come; where was the force to make them? If you say that some other force was the cause of these combinations, and soul was the outcome of that matter, and that soul - which combined a certain mass of matter - was itself the result of the combinations, it is no answer. That theory ought to be taken which explains most of the facts, if not all, and that without contradicting other existing theories. It is more logical to say that the force which takes up the matter and forms the body is the same which manifests through that body. To say, therefore, that the thought forces manifested by the body are the outcome of the arrangement of molecules and have no independent existence has no meaning." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P085.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P085.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -2969,11 +2969,11 @@ cat > images/P086.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P086.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P086.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Time begins with mind, space also is in the mind. Causation cannot stand without time. Without the idea of succession there cannot be any idea of causation. Time, space and causation, therefore, are in the mind, and as this Atman is beyond the mind and formless, it must be beyond time, beyond space, and beyond causation. Now, if it is beyond time, space, and causation, it must be infinite. Then comes the highest speculation in our philosophy. The infinite cannot be two. If the soul be infinite, there can be only one Soul, and all ideas of various souls - you having one soul, and I having another, and so forth - are not real. The Real Man, therefore, is one and infinite, the omnipresent Spirit. And the apparent man is only a limitation of that Real Man." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P086.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P086.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3003,11 +3003,11 @@ cat > images/P087.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P087.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P087.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="The Real Man, the Spirit, being beyond cause and effect, not bound by time and space, must, therefore, be free. He was never bound, and could not be bound. The apparent man, the reflection, is limited by time, space, and causation, and is, therefore, bound. Or in the language of some of our philosophers, he appears to be bound, but really is not. This is the reality in our souls, this omnipresence, this spiritual nature, this infinity. Every soul is infinite, therefore there is no question of birth and death...In infinite space there is no up or down; that is only in the relative. Where is the going or coming for the infinite? Whence should it come and whither should it go?" />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P087.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P087.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3037,11 +3037,11 @@ cat > images/P088.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P088.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P088.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="When people cease to think of the past or future, when they give up the idea of body, because the body comes and goes and is limited, then they have risen to a higher ideal. The body is not the Real Man, neither is the mind, for the mind waxes and wanes. It is the Spirit beyond, which alone can live forever. The body and mind are continually changing, and are, in fact, only names of series of changeful phenomena, like rivers whose waters are in a constant state of flux, yet presenting the appearance of unbroken streams. Every particle in this body is continually changing; no one has the same body for many minutes together, and yet we think of it as the same body. So with the mind; one moment it is happy, another moment unhappy; one moment strong, another weak; an ever-changing whirlpool. That cannot be the Spirit which is infinite. Change can only be in the limited. To say that the infinite changes in any way is absurd; it cannot be." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P088.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P088.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3071,11 +3071,11 @@ cat > images/P089.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P089.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P089.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="People are frightened when they are told that they are Universal Being, everywhere present...They will again and again ask you if they are not going to keep their individuality. What is individuality? I should like to see it. A baby has no moustache; when he grows to be a man, perhaps he has a moustache and beard. His individuality would be lost, if it were in the body. If I lose one eye, or if I lose one of my hands, my individuality would be lost if it were in the body. Then, a drunkard should not give up drinking because he would lose his individuality. A thief should not be a good man because he would thereby lose his individuality. No man ought to change his habits for fear of this. There is no individuality except in the Infinite. That is the only condition which does not change. Everything else is in a constant state of flux." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P089.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P089.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3105,11 +3105,11 @@ cat > images/P090.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P090.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P090.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="We are not individuals yet. We are struggling towards individuality, and that is the Infinite, that is the real nature of man. He alone lives whose life is in the whole universe, and the more we concentrate our lives on limited things, the faster we go towards death. Those moments alone we live when our lives are in the universe, in others; and living this little life is death, simply death, and that is why the fear of death comes. The fear of death can only be conquered when man realises that so long as there is one life in this universe, he is living. When he can say, "I am in everything, in everybody, I am in all lives, I am the universe," then alone comes the state of fearlessness. To talk of immortality in constantly changing things is absurd." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P090.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P090.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3139,11 +3139,11 @@ cat > images/P091.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P091.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P091.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Says an old Sanskrit philosopher: It is only the Spirit that is the individual, because it is infinite. No infinity can be divided; infinity cannot be broken into pieces. It is the same one, undivided unit forever, and this is the individual man, the Real Man. The apparent man is merely a struggle to express, to manifest this individuality which is beyond; and evolution is not in the Spirit. These changes which are going on - the wicked becoming good, the animal becoming man, take them in whatever way you like - are not in the Spirit. They are evolution of nature and manifestation of Spirit." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P091.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P091.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3173,11 +3173,11 @@ cat > images/P092.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P092.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P092.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Suppose there is a screen hiding you from me, in which there is a small hole through which I can see some of the faces before me, just a few faces. Now suppose the hole begins to grow larger and larger, and as it does so, more and more of the scene before me reveals itself and when at last the whole screen has disappeared, I stand face to face with you all. You did not change at all in this case; it was the hole that was evolving, and you were gradually manifesting yourselves. So it is with the Spirit. No perfection is going to be attained. You are already free and perfect. What are these ideas of religion and God and searching for the hereafter? Why does man look for a God? Why does man, in every nation, in every state of society, want a perfect ideal somewhere, either in man, in God, or elsewhere? Because that idea is within you. It was your own heart beating and you did not know; you were mistaking it for something external. It is the God within your own self that is propelling you to seek for Him, to realise Him." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P092.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P092.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3207,11 +3207,11 @@ cat > images/P093.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P093.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P093.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="After long searches here and there, in temples and in churches, in earths and in heavens, at last you come back, completing the circle from where you started, to your own soul and find that He for whom you have been seeking all over the world, for whom you have been weeping and praying in churches and temples, on whom you were looking as the mystery of all mysteries shrouded in the clouds, is nearest of the near, is your own Self, the reality of your life, body, and soul. That is your own nature. Assert it, manifest it. Not to become pure, you are pure already. You are not to be perfect, you are that already. Nature is like that screen which is hiding the reality beyond. Every good thought that you think or act upon is simply tearing the veil, as it were; and the purity, the Infinity, the God behind, manifests Itself more and more." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P093.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P093.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3241,11 +3241,11 @@ cat > images/P094.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P094.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P094.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="This is the whole history of man. Finer and finer becomes the veil [nature], more and more of the light behind shines forth, for it is its nature to shine. It [the Spirit] cannot be known; in vain we try to know it. Were it knowable, it would not be what it is, for it is the eternal subject. Knowledge is a limitation, knowledge is objectifying. He is the eternal subject of everything, the eternal witness in this universe, your own Self. Knowledge is, as it were, a lower step, a degeneration. We are that eternal subject already; how can we know it? It is the real nature of every man, and he is struggling to express it in various ways." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P094.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P094.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3275,11 +3275,11 @@ cat > images/P095.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P095.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P095.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="This idea of "me and mine" - Ahamk&acircra and Mamat&acirc - is the result of past Superstition, and the more this present self passes away, the more the real Self becomes manifest. This is true self-abnegation, the centre, the basis, the gist of all moral teaching; and whether man knows it or not the whole world is slowly going towards it, practicing it more or less. Only, the vast majority of mankind are doing it unconsciously. Let them do it consciously. Let then make the sacrifice, knowing that this "me and mine" is not the real Self, but only a limitation. But one glimpse of that infinite reality which is behind - but one spark of that infinite fire that is the All - represents the present man; the Infinite is his true nature." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P095.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P095.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3309,11 +3309,11 @@ cat > images/P096.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P096.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P096.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="What right has a person to ask that truth should be judged by the standard of utility or money? Suppose there is no utility, will it be less true? Utility is not the test of truth." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P096.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P096.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3343,11 +3343,11 @@ cat > images/P097.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P097.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P097.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Without the knowledge of the Spirit, all material knowledge is only adding fuel to fire, only giving into the hands of selfish man one more instrument to take what belongs to others, to live upon the life of others, instead of giving up his life for them." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P097.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P097.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3377,11 +3377,11 @@ cat > images/P098.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P098.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P098.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="Truth does not pay homage to any society, ancient or modern. Society has to pay homage to Truth or die. Societies should be moulded upon truth, and truth has not to adjust itself to society. If such a noble truth as unselfishness cannot be practiced in society, it is better for man to give up society and go into the forest. That is the daring man." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P098.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P098.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3411,11 +3411,11 @@ cat > images/P099.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P099.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P099.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="There are two sorts of courage. One is the courage of facing the cannon. And the other is the courage of spiritual conviction. An Emperor who invaded India was told by his teacher to go and see some of the sages there. After a long search for one, he found a very old man sitting on a block of stone. The Emperor talked with him a little and became very much impressed by his wisdom. He asked the sage to go to his country with him. "No," said the sage, "I am quite satisfied with my forest here." Said the Emperor, "I will give you money, position, wealth. I am the Emperor of the world." "No," replied the man, "I don't care for those things." The Emperor replied, "If you do not go, I will kill you." The man smiled serenely and said, "That is the most foolish thing you ever said, Emperor. You cannot kill me. Me the sun cannot dry, fire cannot burn, sword cannot kill, for I am the birthless, the deathless, the ever-living omnipotent, omnipresent Spirit." This is spiritual boldness, while the other is the courage of a lion or a tiger." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P099.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P099.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3445,11 +3445,11 @@ cat > images/P100.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P100.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P100.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="There is a great tendency in modern times to talk too much of work and decry thought. Doing is very good, but that comes from thinking. Little manifestations of energy through the muscles are called work. But where there is no thought, there will be no work. Fill the brain, therefore, with high thoughts, highest ideals, place them day and night before you, and out of that will come great work." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P100.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P100.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3479,11 +3479,11 @@ cat > images/P101.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P101.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P101.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="There was a stump of a tree, and in the dark, a thief came that way and said, "That is a policeman." A young man waiting for his beloved saw it and thought that it was his sweetheart. A child who had been told ghost stories took it for a ghost and began to shriek. But all the time it was the stump of a tree. We see the world as we are." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P101.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P101.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3513,11 +3513,11 @@ cat > images/P102.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P102.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P102.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Real Nature of Man, Jnana-Yoga" />
 <meta property="og:description" content="That which we have inside, we see outside. The baby has no thief inside and sees no thief outside. So with all knowledge. Do not talk of the wickedness of the world and all its sins. Weep that you are bound to see wickedness yet. Weep that you are bound to see sin everywhere, and if you want to help the world, do not condemn it. Do not weaken it more. For what is sin and what is misery, and what are all these, but the results of weakness? The world is made weaker and weaker every day by such teachings. Men are taught from childhood that they are weak and sinners. Teach them that they are all glorious children of immortality, even those who are the weakest in manifestation. Let positive, strong, helpful thought enter into their brains from very childhood. Lay yourselves open to these thoughts, and not to weakening and paralysing ones." />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P102.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P102.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3547,11 +3547,11 @@ cat > images/P103.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P103.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P103.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on?" />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P103.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P103.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3581,11 +3581,11 @@ cat > images/P104.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P104.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P104.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P104.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P104.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3615,11 +3615,11 @@ cat > images/P105.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P105.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P105.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P105.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P105.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3649,11 +3649,11 @@ cat > images/P106.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P106.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P106.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P106.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P106.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3683,11 +3683,11 @@ cat > images/P107.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P107.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P107.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P107.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P107.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3717,11 +3717,11 @@ cat > images/P108.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P108.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P108.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P108.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P108.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3751,11 +3751,11 @@ cat > images/P109.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P109.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P109.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P109.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P109.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3785,11 +3785,11 @@ cat > images/P110.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P110.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P110.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P110.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P110.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3819,11 +3819,11 @@ cat > images/P111.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P111.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P111.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P111.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P111.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3853,11 +3853,11 @@ cat > images/P112.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P112.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P112.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P112.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P112.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3887,11 +3887,11 @@ cat > images/P113.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P113.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P113.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P113.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P113.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3921,11 +3921,11 @@ cat > images/P114.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P114.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P114.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P114.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P114.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
@@ -3955,11 +3955,11 @@ cat > images/P115.html <<'EOF'
 <html>
 <head>
 <link rel="stylesheet" href="../StyleSub.css">
-<meta property="og:url"  content="https://swami-vivekananda-quotes-authentic.github.io/P115.jpeg" />
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P115.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="The Necessity of Religion" />
 <meta property="og:description" content="To me it seems very natural that the first glimpse of religion should come through dreams. The first idea of immortality man may well get through dreams. Is that not a most wonderful state? And we know that children and untutored minds find very little difference between dreaming and their awakened state. What can be more natural than that they find, as natural logic, that even during the sleep state when the body is apparently dead, the mind goes on with all its intricate workings? What wonder that men will at once come to the conclusion that when this body is dissolved forever, the same working will go on? " />
-<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/P115.jpeg" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P115.jpeg" />
 </head>
 <body width = 500px>
 <div class="navbar">
