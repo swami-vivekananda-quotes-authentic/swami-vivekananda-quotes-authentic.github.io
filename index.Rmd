@@ -315,7 +315,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 
 <!-- Insert visit counter -->
 
-<a title="free world map tracker" href="https://24counter.com/vmap/1614926181/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614926181" border="1" alt="world map hits counter" width=400px /></a><br> <a href="https://24counter.com/map/">Map counter</a>
+<a title="free world map tracker" href="https://24counter.com/vmap/1614926181/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614926181" border="1" alt="world map hits counter" width=300px /></a><br> <a href="https://24counter.com/map/">Map counter</a>
 
 <hr><br>
 
