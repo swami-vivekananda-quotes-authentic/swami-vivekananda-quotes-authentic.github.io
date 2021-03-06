@@ -315,10 +315,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 
 <!-- Insert visit counter -->
 
-<!-- <a title="free world map tracker" href="https://24counter.com/vmap/1614926181/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614926181" border="1" alt="world map hits counter" width=300px /></a><br> <a href="https://24counter.com/map/"></a> -->
-
-<a href="https://24counter.com/vmap/1614926181/" title="blog counter">
-<img src="https://24counter.com/map/view.php?type=180&id=1614926181" border="1" title="free web counter" alt="world map hits counter" width=300px></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rG-zQaH73i2gVV_HHwylxq-KHIJuMdPHP_gB9nAUWBE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
     
 <hr><br>
 
