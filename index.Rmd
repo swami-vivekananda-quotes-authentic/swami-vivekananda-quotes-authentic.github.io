@@ -23,6 +23,15 @@ title: |
 
 
 
+<!-- JavaScript SDK for enabling Facebook Comments Plugin -->
+
+<div id="fb-root"></div>    
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
+</script>
+
+
+
+
 <!-- JavaScript SDK for enabling Facebook Analytics -->
 
 <script>
@@ -46,15 +55,6 @@ title: |
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-
-
-
-<!-- JavaScript SDK for enabling Facebook Comments Plugin -->
-
-<div id="fb-root"></div>    
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
-</script>
-
 
 
 
