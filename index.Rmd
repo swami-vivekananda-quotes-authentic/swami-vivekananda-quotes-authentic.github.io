@@ -130,7 +130,7 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 
 <div1>
 <script async src="https://cse.google.com/cse.js?cx=7ff85561f8bdcf675"></script>
-<div class="gcse-search" id="cse" style="width: 50%; margin: 0 auto"></div>
+<div class="gcse-search" style="width: 50%; margin: 0 auto"></div>
 </div1>
 
 <p>&nbsp;</p>
