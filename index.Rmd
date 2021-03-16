@@ -328,9 +328,12 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 <!-- Javascript to pop-up image onclick in modal [https://www.w3schools.com/howto/howto_css_modal_images.asp] --> 
 
 <div id="myModal" class="modal">
-  <span class="close">&times;</span>  		<!-- The Close Button -->
-  <img class="modal-content" id="img01">  	<!-- Modal Content (The Image) -->
-  <div id="caption"></div>  				<!-- Modal Caption (Image Text) -->
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+  <!-- Modal Content (The Image) -->  		
+  <img class="modal-content" id="img01">  
+  <!-- Modal Caption (Image Text) -->	
+  <div id="caption"></div>  				
 </div>
 
 <script>
