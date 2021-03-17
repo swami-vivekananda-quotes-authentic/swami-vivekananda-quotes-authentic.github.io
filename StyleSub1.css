@@ -15,10 +15,12 @@
   align-items: center;
   perspective: 100px;
   perspective-origin: 50% 50%;
-  animation: animate-bg 160s linear infinite;
+  animation: animate-bg 120s linear infinite;
+  animation-direction: alternate;
 }
 
 @keyframes animate-bg {
-   from { background-position:-400px 0px; }
-   to { background-position:1000px -1800px;  }
+   from { background-position:10% 0; }
+   to { background-position:40%px 70%px;  }
 }
+
