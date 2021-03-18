@@ -62,11 +62,11 @@ body {
 /* Style myImg ID */
 
 #myImg {
-  /*border-radius: 10px;*/
+  border-radius: 10px;
   cursor: pointer;
   transition: 0.3s;
   width: 90vw;
-  padding: 5vh;
+  padding: 10px;
 }
 
 #myImg:hover {opacity: 0.8;}
