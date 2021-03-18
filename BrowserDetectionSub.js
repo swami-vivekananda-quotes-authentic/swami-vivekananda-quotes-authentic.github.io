@@ -26,56 +26,56 @@ var isMobile =
 {
   Android: function() 
   {
-      return navigator.userAgent.match(/Android/i);
+    return navigator.userAgent.match(/Android/i);
   },
   BlackBerry: function() 
   {
-      return navigator.userAgent.match(/BlackBerry/i);
+    return navigator.userAgent.match(/BlackBerry/i);
   },
   iOS: function() 
   {
-      return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    return navigator.userAgent.match(/iPhone|iPad|iPod/i);
   },
   Opera: function() 
   {
-      return navigator.userAgent.match(/Opera Mini/i);
+    return navigator.userAgent.match(/Opera Mini/i);
   },
   Windows: function() 
   {
-      return navigator.userAgent.match(/IEMobile/i);
+    return navigator.userAgent.match(/IEMobile/i);
   },
   any: function() 
   {
-      return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
   }
 };
 
 function myFunction() 
 { 
-  if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
+  if(isMobile == true) 
   {
-      addCss("../StyleSubSafari.css");
+    addCss("../StyleSubMobileTablet.css");
+  }
+  else if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
+  {
+    addCss("../StyleSubSafari.css");
   }
   else if(navigator.userAgent.indexOf("Chrome") != -1 )
   {
-      addCss("../StyleSubSafari.css");
+    addCss("../StyleSubSafari.css");
   }
   else if(navigator.userAgent.indexOf("Safari") != -1)
   {
-      addCss("../StyleSubSafari.css");
+    addCss("../StyleSubSafari.css");
   }
   else if(navigator.userAgent.indexOf("Firefox") != -1 ) 
   {
-       addCss("../StyleSubSafari.css");
+    addCss("../StyleSubSafari.css");
   }
   else if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) //IF IE > 10
   {
     addCss("../StyleSubSafari.css"); 
   }
-  else if(isMobile) 
-  {
-    addCss("../StyleSubMobileTablet.css");
-  }  
   else 
   {
     addCss("../StyleSubMobileTablet.css");
