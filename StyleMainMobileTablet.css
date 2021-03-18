@@ -205,7 +205,7 @@ h1.title {
 
 .close {
   position: absolute;
-  top: 2%;
+  top: 2px;
   left: 50%;
   color: #f1f1f1;
   font-size: 40px;
