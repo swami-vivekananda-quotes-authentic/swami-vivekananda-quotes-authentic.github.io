@@ -66,12 +66,24 @@ body {
   cursor: pointer;
   transition: 0.3s;
   width: 90vw;
-  padding: 1vh;
+  padding: 1px;
 }
 
 #myImg:hover {opacity: 0.8;}
 
 
+
+
+
+
+/* Style paragraph */
+
+p {
+  text-align: justify; 
+  width: 90vw;
+  font-size: 10;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 
 
