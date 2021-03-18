@@ -252,7 +252,7 @@ body {
   align-items: center;
   perspective: 100px;
   perspective-origin: 50% 50%;
-  animation: animate-bg 120s linear infinite;
+  animation: animate-bg 100s linear infinite;
   animation-direction: alternate;
 } 
 
