@@ -89,7 +89,7 @@ h1.title {
   width: 90%;
   max-width: 355px;
   float:left;
-  height: 525px
+  height: 500px
 }
 
 .container img {
@@ -124,6 +124,7 @@ h1.title {
   bottom: 20%;
   left: 16%;
   width: 95%;
+  height: 4.5%;
   transform: translate(-15%, 475%);      /*this line is different from safari browser*/
   /*-ms-transform: translate(50%, 50%);*/
   background-color: white;
