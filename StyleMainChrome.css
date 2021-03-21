@@ -124,7 +124,7 @@ h1.title {
   bottom: 20%;
   left: 16%;
   width: 95%;
-  height: 4.5%;
+  height: 4.5%;       /*without this line, the button 2 texts with linebreak will mess up*/
   transform: translate(-15%, 475%);      /*this line is different from safari browser*/
   /*-ms-transform: translate(50%, 50%);*/
   background-color: white;
