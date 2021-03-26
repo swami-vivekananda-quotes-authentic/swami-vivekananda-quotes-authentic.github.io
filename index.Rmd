@@ -129,11 +129,24 @@ The purpose of doing this page is to encourage everyone to share Vivekananda quo
 <!-- Insert search box -->
 
 <div1>
-<script async src="https://cse.google.com/cse.js?cx=7ff85561f8bdcf675"></script>
+<script>  
+  (function() {
+  var cx = '7ff85561f8bdcf675';
+  var gcse = document.createElement('script');
+  gcse.type = 'text/javascript';
+  gcse.async = true;
+  gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(gcse, s);
+  })();
+  window.onload = function(){
+  document.getElementById('gsc-i-id1').placeholder = 'Search with keywords, e.g., Yoga, Vedanta, duty, ideal...';
+  };
+</script>
 <div class="gcse-search" style="width: 50%; margin: 0 auto"></div>
 </div1>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p><br>
 
 
 
