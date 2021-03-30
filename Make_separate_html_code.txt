@@ -5555,7 +5555,7 @@ cat > images/P145.html <<'EOF'
 <meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P145.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Practical Vedanta, Part I" />
-<meta property="og:description" content=""This &acirctman is first to be heard of." Hear day and night that you are that Soul. Repeat it to yourselves day and night till it enters into your very veins, till it tingles in every drop of blood, till it is in your flesh and bone. Let the whole body be full of that one ideal, "I am the birthless, the deathless, the blissful, the omniscient, the omnipotent, ever-glorious Soul." Think on it day and night; think on it till it becomes part and parcel of your life. Meditate upon it, and out of that will come work. "Out of the fullness of the heart the mouth speaketh," and out of the fullness of the heart the hand worketh also." />
+<meta property="og:description" content=""This &Acirctman is first to be heard of." Hear day and night that you are that Soul. Repeat it to yourselves day and night till it enters into your very veins, till it tingles in every drop of blood, till it is in your flesh and bone. Let the whole body be full of that one ideal, "I am the birthless, the deathless, the blissful, the omniscient, the omnipotent, ever-glorious Soul." Think on it day and night; think on it till it becomes part and parcel of your life. Meditate upon it, and out of that will come work. "Out of the fullness of the heart the mouth speaketh," and out of the fullness of the heart the hand worketh also." />
 <meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P145.jpeg" />
 </head>
 <body>
