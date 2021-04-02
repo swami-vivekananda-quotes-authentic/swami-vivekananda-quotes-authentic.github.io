@@ -68,9 +68,12 @@ title: |
  };
  p {line-height: 4em;}
  h1.title {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 37px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+  font-size: 38px;
   color: #1E1F21;
+  font-weight: 600; 
+  line-height: 62px; 
+  margin: 0 0 8px;
   text-align: center;
  }
 </style>
@@ -85,6 +88,44 @@ title: |
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
+
+
+
+
+
+<!-- Insert background video -->
+<!-- <video autoplay muted loop id="myVideo">
+  <source src="bluesky.mp4" type="video/mp4">
+</video> -->
+
+<!-- Optional: some overlay text to describe the video -->
+<!-- <div class="content"> -->
+  <!-- Use a button to pause/play the video with JavaScript -->
+<!--   <button id="myBtn" onclick="myFunction()">Pause</button>
+</div>
+ -->
+<!-- <script>
+  // Get the video
+  var video = document.getElementById("myVideo").playbackRate = .1;
+
+  // Get the button
+  var btn = document.getElementById("myBtn");
+
+  // Pause and play the video, and change the button text
+  function myFunction() {
+    if (video.paused) {
+      video.play().playbackRate = .5;
+      btn.innerHTML = "Pause";
+    } else {
+      video.pause();
+      btn.innerHTML = "Play";
+    }
+  }
+</script> -->
+
+
+
+
 
 
 

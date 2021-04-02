@@ -51,9 +51,45 @@ body {
 
 
 
-/* Style headings */
+/* Style the background video */
 
-h1.title { 
+/*#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  z-index:-1;
+}
+
+.content {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0);
+  color: #f1f1f1;
+  width: 5%;
+  padding: 20px;
+}
+
+#myBtn {
+  width: 60px;
+  font-size: 12px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}*/
+
+
+
+
+
+
+/* Style headings (included in index.html code) */
+
+/*h1.title { 
   color: #545454; 
   font-family: 'Berkshire Swash', Helvetica, sans-serif; 
   font-size: 40px; 
@@ -61,8 +97,8 @@ h1.title {
   line-height: 62px; 
   margin: 0 0 8px; 
   text-align: left; 
-  /*text-transform: uppercase;*/
-} 
+  text-transform: uppercase;
+} */ 
 
 
 
