@@ -6842,6 +6842,318 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
+cat > images/P179.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P179.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="Our duty to others means helping others; doing good to the world. Why should we do good to the world? Apparently to help the world, but really to help ourselves. We should always try to help the world, that should be the highest motive in us; but if we consider well, we find that the world does not require our help at all. This world was not made that you or I should come and help it. I once read a sermon in which it was said, "All this beautiful world is very good, because it gives us time and opportunity to help others." Apparently, this is a very beautiful sentiment, but is it not a blasphemy to say that the world needs our help? We cannot deny that there is much misery in it; to go out and help others is, therefore, the best thing we can do, although in the long run, we shall find that helping others is only helping ourselves...The only help is that we get moral exercise." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P179.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P179.jpeg" style="float:none;">
+<p>
+"Our duty to others means helping others; doing good to the world. Why should we do good to the world? Apparently to help the world, but really to help ourselves. We should always try to help the world, that should be the highest motive in us; but if we consider well, we find that the world does not require our help at all. This world was not made that you or I should come and help it. I once read a sermon in which it was said, "All this beautiful world is very good, because it gives us time and opportunity to help others." Apparently, this is a very beautiful sentiment, but is it not a blasphemy to say that the world needs our help? We cannot deny that there is much misery in it; to go out and help others is, therefore, the best thing we can do, although in the long run, we shall find that helping others is only helping ourselves...The only help is that we get moral exercise."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P180.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P180.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="This world is neither good nor evil; each man manufactures a world for himself. If a blind man begins to think of the world, it is either as soft or hard, or as cold or hot. We are a mass of happiness or misery; we have seen that hundreds of times in our lives. As a rule, the young are optimistic and the old pessimistic. The young have life before them; the old complain their day is gone; hundreds of desires, which they cannot fulfil struggle in their hearts. Both are foolish nevertheless. Life is good or evil according to the state of mind in which we look at it, it is neither by itself. Fire, by itself, is neither good nor evil. When it keeps us warm we say, "How beautiful is fire!" When it burns our fingers, we blame it. Still, in itself it is neither good nor bad. According as we use it, it produces in us the feeling of good or bad; so also is this world. It is perfect. By perfection is meant that it is perfectly fitted to meet its ends. We may all be perfectly sure that it will go on beautifully well without us, and we need not bother our heads wishing to help it." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P180.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P180.jpeg" style="float:none;">
+<p>
+"This world is neither good nor evil; each man manufactures a world for himself. If a blind man begins to think of the world, it is either as soft or hard, or as cold or hot. We are a mass of happiness or misery; we have seen that hundreds of times in our lives. As a rule, the young are optimistic and the old pessimistic. The young have life before them; the old complain their day is gone; hundreds of desires, which they cannot fulfil struggle in their hearts. Both are foolish nevertheless. Life is good or evil according to the state of mind in which we look at it, it is neither by itself. Fire, by itself, is neither good nor evil. When it keeps us warm we say, "How beautiful is fire!" When it burns our fingers, we blame it. Still, in itself it is neither good nor bad. According as we use it, it produces in us the feeling of good or bad; so also is this world. It is perfect. By perfection is meant that it is perfectly fitted to meet its ends. We may all be perfectly sure that it will go on beautifully well without us, and we need not bother our heads wishing to help it."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P181.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P181.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="The desire to do good is the highest motive power we have, if we know all the time that it is a privilege to help others. Do not stand on a high pedestal and take five cents in your hand and say, "Here, my poor man," but be grateful that the poor man is there, so that by making a gift to him you are able to help yourself. It is not the receiver that is blessed, but it is the giver. Be thankful that you are allowed to exercise your power of benevolence and mercy in the world, and thus become pure and perfect. All good acts tend to make us pure and perfect." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P181.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P181.jpeg" style="float:none;">
+<p>
+"The desire to do good is the highest motive power we have, if we know all the time that it is a privilege to help others. Do not stand on a high pedestal and take five cents in your hand and say, "Here, my poor man," but be grateful that the poor man is there, so that by making a gift to him you are able to help yourself. It is not the receiver that is blessed, but it is the giver. Be thankful that you are allowed to exercise your power of benevolence and mercy in the world, and thus become pure and perfect. All good acts tend to make us pure and perfect."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P182.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P182.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="What can we do at best? Build a hospital, make roads, or erect charity asylums. We may organize a charity and collect two or three millions of dollars, build a hospital with one million, with the second give balls and drink champagne, and of the third let the officers steal half, and leave the rest finally to reach the poor; but what are all these? One mighty wind in five minutes can break all your buildings up. What shall we do then? One volcanic eruption may sweep away all our roads and hospitals and cities and buildings. Let us give up all this foolish talk of doing good to the world. It is not waiting for your or my help; yet we must work and constantly do good, because it is a blessing to ourselves. That is the only way we can become perfect." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P182.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P182.jpeg" style="float:none;">
+<p>
+"What can we do at best? Build a hospital, make roads, or erect charity asylums. We may organize a charity and collect two or three millions of dollars, build a hospital with one million, with the second give balls and drink champagne, and of the third let the officers steal half, and leave the rest finally to reach the poor; but what are all these? One mighty wind in five minutes can break all your buildings up. What shall we do then? One volcanic eruption may sweep away all our roads and hospitals and cities and buildings. Let us give up all this foolish talk of doing good to the world. It is not waiting for your or my help; yet we must work and constantly do good, because it is a blessing to ourselves. That is the only way we can become perfect."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P183.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P183.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="No beggar whom we have helped has ever owed a single cent to us; we owe everything to him, because he has allowed us to exercise our charity on him. It is entirely wrong to think that we have done, or can do, good to the world, or to think that we have helped such and such people. It is a foolish thought, and all foolish thoughts bring misery. We think that we have helped some man and expect him to thank us, and because he does not, unhappiness comes to us. Why should we expect anything in return for what we do? Be grateful to the man you help, think of him as God. Is it not a great privilege to be allowed to worship God by helping our fellow men? If we were really unattached, we should escape all this pain of vain expectation, and could cheerfully do good work in the world. Never will unhappiness or misery come through work done without attachment. The world will go on with its happiness and misery through eternity." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P183.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P183.jpeg" style="float:none;">
+<p>
+"No beggar whom we have helped has ever owed a single cent to us; we owe everything to him, because he has allowed us to exercise our charity on him. It is entirely wrong to think that we have done, or can do, good to the world, or to think that we have helped such and such people. It is a foolish thought, and all foolish thoughts bring misery. We think that we have helped some man and expect him to thank us, and because he does not, unhappiness comes to us. Why should we expect anything in return for what we do? Be grateful to the man you help, think of him as God. Is it not a great privilege to be allowed to worship God by helping our fellow men? If we were really unattached, we should escape all this pain of vain expectation, and could cheerfully do good work in the world. Never will unhappiness or misery come through work done without attachment. The world will go on with its happiness and misery through eternity."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P184.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P184.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="This world is like a dog's curly tail, and people have been striving to straighten it out for hundreds of years; but when they let it go, it has curled up again. How could it be otherwise? One must first know how to work without attachment, then one will not be a fanatic. When we know that this world is like a dog's curly tail and will never get straightened, we shall not become fanatics. If there were no fanaticism in the world, it would make much more progress than it does now. It is a mistake to think that fanaticism can make for the progress of mankind. On the contrary, it is a retarding element creating hatred and anger, and causing people to fight each other, and making them unsympathetic. We think that whatever we do or possess is the best in the world, and what we do not do or possess is of no value. So, always remember the instance of the curly tail of the dog whenever you have a tendency to become a fanatic. You need not worry or make yourself sleepless about the world; it will go on without you." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P184.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P184.jpeg" style="float:none;">
+<p>
+"This world is like a dog's curly tail, and people have been striving to straighten it out for hundreds of years; but when they let it go, it has curled up again. How could it be otherwise? One must first know how to work without attachment, then one will not be a fanatic. When we know that this world is like a dog's curly tail and will never get straightened, we shall not become fanatics. If there were no fanaticism in the world, it would make much more progress than it does now. It is a mistake to think that fanaticism can make for the progress of mankind. On the contrary, it is a retarding element creating hatred and anger, and causing people to fight each other, and making them unsympathetic. We think that whatever we do or possess is the best in the world, and what we do not do or possess is of no value. So, always remember the instance of the curly tail of the dog whenever you have a tendency to become a fanatic. You need not worry or make yourself sleepless about the world; it will go on without you."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P185.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P185.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="When you have avoided fanaticism, then alone will you work well. It is the level-headed man, the calm man, of good judgment and cool nerves, of great sympathy and love, who does good work and so does good to himself. The fanatic is foolish and has no sympathy; he can never straighten the world, nor himself become pure and perfect." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P185.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P185.jpeg" style="float:none;">
+<p>
+"When you have avoided fanaticism, then alone will you work well. It is the level-headed man, the calm man, of good judgment and cool nerves, of great sympathy and love, who does good work and so does good to himself. The fanatic is foolish and has no sympathy; he can never straighten the world, nor himself become pure and perfect."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P186.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P186.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Help Ourselves, Not the World" />
+<meta property="og:description" content="First, we have to bear in mind that we are all debtors to the world and the world does not owe us anything. It is a great privilege for all of us to be allowed to do anything for the world. In helping the world we really help ourselves. The second point is that there is a God in this universe. It is not true that this universe is drifting and stands in need of help from you and me. God is ever present therein, He is undying and eternally active and infinitely watchful. When the whole universe sleeps, He sleeps not; He is working incessantly; all the changes and manifestations of the world are His. Thirdly, we ought not to hate anyone. This world will always continue to be a mixture of good and evil. Our duty is to sympathise with the weak and to love even the wrongdoer. The world is a grand moral gymnasium wherein we have all to take exercise so as to become stronger and stronger spiritually. Fourthly, we ought not to be fanatics of any kind, because fanaticism is opposed to love...the calmer we are and the less disturbed our nerves, the more shall we love and the better will our work be." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P186.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P186.jpeg" style="float:none;">
+<p>
+"First, we have to bear in mind that we are all debtors to the world and the world does not owe us anything. It is a great privilege for all of us to be allowed to do anything for the world. In helping the world we really help ourselves. The second point is that there is a God in this universe. It is not true that this universe is drifting and stands in need of help from you and me. God is ever present therein, He is undying and eternally active and infinitely watchful. When the whole universe sleeps, He sleeps not; He is working incessantly; all the changes and manifestations of the world are His. Thirdly, we ought not to hate anyone. This world will always continue to be a mixture of good and evil. Our duty is to sympathise with the weak and to love even the wrongdoer. The world is a grand moral gymnasium wherein we have all to take exercise so as to become stronger and stronger spiritually. Fourthly, we ought not to be fanatics of any kind, because fanaticism is opposed to love...the calmer we are and the less disturbed our nerves, the more shall we love and the better will our work be."<br><br>
+- Swami Vivekananda, "We Help Ourselves, Not the World" (Beginning karma yoga class, Jan 3, 1895, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
 
 
 
