@@ -7153,7 +7153,1222 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 </html>
 EOF
 
+cat > images/P187.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P187.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Perhaps all of you have observed it as a fact that when persons do evil actions, they become more and more evil, and when they begin to do good, they become stronger and stronger and learn to do good at all times. This intensification of the influence of action cannot be explained on any other ground than that we can act and react upon each other. To take an illustration from physical science, when I am doing a certain action, my mind may be said to be in a certain state of vibration; all minds which are in similar circumstances will have the tendency to be affected by my mind. If there are different musical instruments tuned alike in one room, all of you may have noticed that when one is struck, the others have the tendency to vibrate so as to give the same note. So, all minds that have the same tension, so to say, will be equally affected by the same thought. Of course, this influence of thought on mind will vary according to distance and other causes, but the mind is always open to affection." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P187.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P187.jpeg" style="float:none;">
+<p>
+"Perhaps all of you have observed it as a fact that when persons do evil actions, they become more and more evil, and when they begin to do good, they become stronger and stronger and learn to do good at all times. This intensification of the influence of action cannot be explained on any other ground than that we can act and react upon each other. To take an illustration from physical science, when I am doing a certain action, my mind may be said to be in a certain state of vibration; all minds which are in similar circumstances will have the tendency to be affected by my mind. If there are different musical instruments tuned alike in one room, all of you may have noticed that when one is struck, the others have the tendency to vibrate so as to give the same note. So, all minds that have the same tension, so to say, will be equally affected by the same thought. Of course, this influence of thought on mind will vary according to distance and other causes, but the mind is always open to affection."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
 
+cat > images/P188.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P188.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Suppose I am doing an evil act, my mind is in a certain state of vibration, and all minds in the universe, which are in a similar state, have the possibility of being affected by the vibration of my mind. So, when I am doing a good action, my mind is in another state of vibration; and all minds similarly strung have the possibility of being affected by my mind; and this power of mind upon mind is more or less according as the force of the tension is greater or less. Following this simile further, it is quite possible that, just as light waves may travel for millions of years before they reach any object, so thought waves may also travel hundreds of years before they meet an object with which they vibrate in unison. It is quite possible, therefore, that this atmosphere of ours is full of such thought pulsations, both good and evil. Every thought projected from every brain goes on pulsating, as it were, until it meets a fit object that will receive it. Any mind which is open to receive some of these impulses will take them immediately." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P188.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P188.jpeg" style="float:none;">
+<p>
+"Suppose I am doing an evil act, my mind is in a certain state of vibration, and all minds in the universe, which are in a similar state, have the possibility of being affected by the vibration of my mind. So, when I am doing a good action, my mind is in another state of vibration; and all minds similarly strung have the possibility of being affected by my mind; and this power of mind upon mind is more or less according as the force of the tension is greater or less. Following this simile further, it is quite possible that, just as light waves may travel for millions of years before they reach any object, so thought waves may also travel hundreds of years before they meet an object with which they vibrate in unison. It is quite possible, therefore, that this atmosphere of ours is full of such thought pulsations, both good and evil. Every thought projected from every brain goes on pulsating, as it were, until it meets a fit object that will receive it. Any mind which is open to receive some of these impulses will take them immediately."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P189.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P189.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Now comes a very fine and serious question about Karma-Yoga — namely, that these actions of ours, both good and evil, are intimately connected with each other. We cannot put a line of demarcation and say, this action is entirely good and this entirely evil. There is no action which does not bear good and evil fruits at the same time. To take the nearest example: I am talking to you, and some of you, perhaps, think I am doing good; and at the same time, I am, perhaps, killing thousands of microbes in the atmosphere; I am thus doing evil to something else...if we analyze our evil actions also, we may find that some good possibly results from them somewhere. He who in good action sees that there is something evil in it, and in the midst of evil sees that there is something good in it somewhere, has known the secret of work. But what follows from it? That, howsoever we may try, there cannot be any action which is perfectly pure, or any which is perfectly impure, taking purity and impurity in the sense of injury and non-injury...That being the case, it naturally follows that perfection can never be attained by work. We may work through all eternity, but there will be no way out of this intricate maze...there will be no end to this inevitable association of good and evil in the results of work." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P189.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P189.jpeg" style="float:none;">
+<p>
+"Now comes a very fine and serious question about Karma-Yoga — namely, that these actions of ours, both good and evil, are intimately connected with each other. We cannot put a line of demarcation and say, this action is entirely good and this entirely evil. There is no action which does not bear good and evil fruits at the same time. To take the nearest example: I am talking to you, and some of you, perhaps, think I am doing good; and at the same time, I am, perhaps, killing thousands of microbes in the atmosphere; I am thus doing evil to something else...if we analyze our evil actions also, we may find that some good possibly results from them somewhere. He who in good action sees that there is something evil in it, and in the midst of evil sees that there is something good in it somewhere, has known the secret of work. But what follows from it? That, howsoever we may try, there cannot be any action which is perfectly pure, or any which is perfectly impure, taking purity and impurity in the sense of injury and non-injury...That being the case, it naturally follows that perfection can never be attained by work. We may work through all eternity, but there will be no way out of this intricate maze...there will be no end to this inevitable association of good and evil in the results of work."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P190.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P190.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="We find the vast majority of people in every country believing that there will be a time when this world will become perfect, when there will be no disease, nor death, nor unhappiness, nor wickedness. That is a very good idea, a very good motive power to inspire and uplift the ignorant; but if we think for a moment, we shall find on the very face of it that it cannot be so. How can it be, seeing that good and evil are the obverse and reverse of the same coin? How can you have good without evil at the same time? What is meant by perfection? A perfect life is a contradiction in terms." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P190.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P190.jpeg" style="float:none;">
+<p>
+"We find the vast majority of people in every country believing that there will be a time when this world will become perfect, when there will be no disease, nor death, nor unhappiness, nor wickedness. That is a very good idea, a very good motive power to inspire and uplift the ignorant; but if we think for a moment, we shall find on the very face of it that it cannot be so. How can it be, seeing that good and evil are the obverse and reverse of the same coin? How can you have good without evil at the same time? What is meant by perfection? A perfect life is a contradiction in terms."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P191.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P191.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="You will find various classes of men in this world. First, there are the God-men, whose self-abnegation is complete, and who do only good to others even at the sacrifice of their own lives. These are the highest of men. If there are a hundred of such in any country, that country need never despair. But they are unfortunately too few. Then there are the good men who do good to others so long as it does not injure themselves. And there is a third class who, to do good to themselves, injure others. It is said by a Sanskrit poet that there is a fourth unnamable class of people who injure others merely for injury's sake. Just as there are at one pole of existence the highest good men, who do good for the sake of doing good, so, at the other pole, there are others who injure others just for the sake of the injury. They do not gain anything thereby, but it is their nature to do evil." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P191.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P191.jpeg" style="float:none;">
+<p>
+"You will find various classes of men in this world. First, there are the God-men, whose self-abnegation is complete, and who do only good to others even at the sacrifice of their own lives. These are the highest of men. If there are a hundred of such in any country, that country need never despair. But they are unfortunately too few. Then there are the good men who do good to others so long as it does not injure themselves. And there is a third class who, to do good to themselves, injure others. It is said by a Sanskrit poet that there is a fourth unnamable class of people who injure others merely for injury's sake. Just as there are at one pole of existence the highest good men, who do good for the sake of doing good, so, at the other pole, there are others who injure others just for the sake of the injury. They do not gain anything thereby, but it is their nature to do evil."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P192.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P192.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Here are two Sanskrit words. The one is Pravritti, which means revolving towards, and the other is Nivritti, which means revolving away. The "revolving towards" is what we call the world, the "I and mine”; it includes all those things which are always enriching that "me" by wealth and money and power, and name and fame, and which are of a grasping nature, always tending to accumulate everything in one center, that center being "myself". That is the Pravritti, the natural tendency of every human being; taking everything from everywhere and heaping it around one center, that center being man's own sweet self. When this tendency begins to break, when it is Nivritti or "going away from," then begin morality and religion...This Nivritti is the fundamental basis of all morality and all religion." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P192.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P192.jpeg" style="float:none;">
+<p>
+"Here are two Sanskrit words. The one is Pravritti, which means revolving towards, and the other is Nivritti, which means revolving away. The "revolving towards" is what we call the world, the "I and mine”; it includes all those things which are always enriching that "me" by wealth and money and power, and name and fame, and which are of a grasping nature, always tending to accumulate everything in one center, that center being "myself". That is the Pravritti, the natural tendency of every human being; taking everything from everywhere and heaping it around one center, that center being man's own sweet self. When this tendency begins to break, when it is Nivritti or "going away from," then begin morality and religion...This Nivritti is the fundamental basis of all morality and all religion."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P193.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P193.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Although a man has not studied a single system of philosophy, although he does not believe in any God, and never has believed, although he has not prayed even once in his whole life, if the simple power of good actions has brought him to that state where he is ready to give up his life and all else for others, he has arrived at the same point to which the religious man will come through his prayers and the philosopher through his knowledge; and so you may find that the philosopher, the worker, and the devotee, all meet at one point, that one point being self-abnegation." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P193.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P193.jpeg" style="float:none;">
+<p>
+"Although a man has not studied a single system of philosophy, although he does not believe in any God, and never has believed, although he has not prayed even once in his whole life, if the simple power of good actions has brought him to that state where he is ready to give up his life and all else for others, he has arrived at the same point to which the religious man will come through his prayers and the philosopher through his knowledge; and so you may find that the philosopher, the worker, and the devotee, all meet at one point, that one point being self-abnegation."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P194.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P194.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="However much their systems of philosophy and religion may differ, all mankind stand in reverence and awe before the man who is ready to sacrifice himself for others. Here, it is not at all any question of creed, or doctrine — even men who are very much opposed to all religious ideas, when they see one of these acts of complete self-sacrifice, feel that they must revere it. Have you not seen even a most bigoted Christian, when he reads Edwin Arnold's Light of Asia, stand in reverence of Buddha, who Preached no God, preached nothing but self-sacrifice? The only thing is that the bigot does not know that his own end and aim in life is exactly the same as that of those from whom he differs. The worshipper, by keeping constantly before him the idea of God and a surrounding of good, comes to the same point at last and says, "Thy will be done," and keeps nothing to himself. That is self-abnegation. The philosopher, with his knowledge, sees that the seeming self is a delusion and easily gives it up. It is self-abnegation. So Karma, Bhakti, and Jnana all meet here." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P194.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P194.jpeg" style="float:none;">
+<p>
+"However much their systems of philosophy and religion may differ, all mankind stand in reverence and awe before the man who is ready to sacrifice himself for others. Here, it is not at all any question of creed, or doctrine — even men who are very much opposed to all religious ideas, when they see one of these acts of complete self-sacrifice, feel that they must revere it. Have you not seen even a most bigoted Christian, when he reads Edwin Arnold's Light of Asia, stand in reverence of Buddha, who Preached no God, preached nothing but self-sacrifice? The only thing is that the bigot does not know that his own end and aim in life is exactly the same as that of those from whom he differs. The worshipper, by keeping constantly before him the idea of God and a surrounding of good, comes to the same point at last and says, "Thy will be done," and keeps nothing to himself. That is self-abnegation. The philosopher, with his knowledge, sees that the seeming self is a delusion and easily gives it up. It is self-abnegation. So Karma, Bhakti, and Jnana all meet here."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P195.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P195.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="This is what was meant by all the great preachers of ancient times, when they taught that God is not the world. There is one thing which is the world and another which is God; and this distinction is very true. What they mean by world is selfishness. Unselfishness is God. One may live on a throne, in a golden palace, and be perfectly unselfish; and then he is in God. Another may live in a hut and wear rags, and have nothing in the world; yet, if he is selfish, he is intensely merged in the world." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P195.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P195.jpeg" style="float:none;">
+<p>
+"This is what was meant by all the great preachers of ancient times, when they taught that God is not the world. There is one thing which is the world and another which is God; and this distinction is very true. What they mean by world is selfishness. Unselfishness is God. One may live on a throne, in a golden palace, and be perfectly unselfish; and then he is in God. Another may live in a hut and wear rags, and have nothing in the world; yet, if he is selfish, he is intensely merged in the world."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P196.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P196.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="We say that we cannot do good without at the same time doing some evil, or do evil without doing some good. Knowing this, how can we work?...the true solution is found in the Gita. It is the theory of non-attachment, to be attached to nothing while doing our work of life. Know that you are separated entirely from the world, though you are in the world, and that whatever you may be doing in it, you are not doing that for your own sake. Any action that you do for yourself will bring its effect to bear upon you. If it is a good action, you will have to take the good effect, and if bad, you will have to take the bad effect; but any action that is not done for your own sake, whatever it be, will have no effect on you." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P196.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P196.jpeg" style="float:none;">
+<p>
+"We say that we cannot do good without at the same time doing some evil, or do evil without doing some good. Knowing this, how can we work?...the true solution is found in the Gita. It is the theory of non-attachment, to be attached to nothing while doing our work of life. Know that you are separated entirely from the world, though you are in the world, and that whatever you may be doing in it, you are not doing that for your own sake. Any action that you do for yourself will bring its effect to bear upon you. If it is a good action, you will have to take the good effect, and if bad, you will have to take the bad effect; but any action that is not done for your own sake, whatever it be, will have no effect on you."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P197.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P197.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="To work properly...you have first to give up the idea of attachment. Secondly, do not mix in the fray, hold yourself as a witness and go on working. My master used to say, "Look upon your children as a nurse does." The nurse will take your baby and fondle it and play with it and behave towards it as gently as if it were her own child; but as soon as you give her notice to quit, she is ready to start off bag and baggage from the house. Everything in the shape of attachment is forgotten; it will not give the ordinary nurse the least pang to leave your children and take up other children. Even so are you to be with all that you consider your own. You are the nurse, and if you believe in God, believe that all these things which you consider yours are really His." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P197.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P197.jpeg" style="float:none;">
+<p>
+"To work properly...you have first to give up the idea of attachment. Secondly, do not mix in the fray, hold yourself as a witness and go on working. My master used to say, "Look upon your children as a nurse does." The nurse will take your baby and fondle it and play with it and behave towards it as gently as if it were her own child; but as soon as you give her notice to quit, she is ready to start off bag and baggage from the house. Everything in the shape of attachment is forgotten; it will not give the ordinary nurse the least pang to leave your children and take up other children. Even so are you to be with all that you consider your own. You are the nurse, and if you believe in God, believe that all these things which you consider yours are really His."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P198.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P198.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="The greatest weakness often insinuates itself as the greatest good and strength. It is a weakness to think that any one is dependent on me, and that I can do good to another. This belief is the mother of all our attachment, and through this attachment comes all our pain. We must inform our minds that no one in this universe depends upon us; not one beggar depends on our charity; not one soul on our kindness; not one living thing on our help. All are helped on by nature, and will be so helped even though millions of us were not here. The course of nature will not stop for such as you and me; it is, as already pointed out, only a blessed privilege to you and to me that we are allowed, in the way of helping others, to educate ourselves. This is a great lesson to learn in life, and when we have learned it fully, we shall never be unhappy; we can go and mix without harm in society anywhere and everywhere." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P198.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P198.jpeg" style="float:none;">
+<p>
+"The greatest weakness often insinuates itself as the greatest good and strength. It is a weakness to think that any one is dependent on me, and that I can do good to another. This belief is the mother of all our attachment, and through this attachment comes all our pain. We must inform our minds that no one in this universe depends upon us; not one beggar depends on our charity; not one soul on our kindness; not one living thing on our help. All are helped on by nature, and will be so helped even though millions of us were not here. The course of nature will not stop for such as you and me; it is, as already pointed out, only a blessed privilege to you and to me that we are allowed, in the way of helping others, to educate ourselves. This is a great lesson to learn in life, and when we have learned it fully, we shall never be unhappy; we can go and mix without harm in society anywhere and everywhere."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P199.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P199.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Drive out of your mind the idea that you have to do something for the world; the world does not require any help from you. It is sheer nonsense on the part of any man to think that he is born to help the world; it is simply pride, it is selfishness insinuating itself in the form of virtue. When you have trained your mind and your nerves to realize this idea of the world's non-dependence on you or on anybody, there will then be no reaction in the form of pain resulting from work. " />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P199.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P199.jpeg" style="float:none;">
+<p>
+"Drive out of your mind the idea that you have to do something for the world; the world does not require any help from you. It is sheer nonsense on the part of any man to think that he is born to help the world; it is simply pride, it is selfishness insinuating itself in the form of virtue. When you have trained your mind and your nerves to realize this idea of the world's non-dependence on you or on anybody, there will then be no reaction in the form of pain resulting from work. "<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P200.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P200.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="When you give something to a man and expect nothing — do not even expect the man to be grateful — his ingratitude will not tell upon you, because you never expected anything, never thought you had any right to anything in the way of a return. You gave him what he deserved; his own Karma got it for him; your Karma made you the carrier thereof. Why should you be proud of having given away something? You are the porter that carried the money or other kind of gift, and the world deserved it by its own Karma. Where is then the reason for pride in you? There is nothing very great in what you give to the world. When you have acquired the feeling of non-attachment, there will then be neither good nor evil for you. It is only selfishness that causes the difference between good and evil. It is a very hard thing to understand, but you will come to learn in time that nothing in the universe has power over you until you allow it to exercise such a power. Nothing has power over the Self of man, until the Self becomes a fool and loses independence. So, by non-attachment, you overcome and deny the power of anything to act upon you." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P200.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P200.jpeg" style="float:none;">
+<p>
+"When you give something to a man and expect nothing — do not even expect the man to be grateful — his ingratitude will not tell upon you, because you never expected anything, never thought you had any right to anything in the way of a return. You gave him what he deserved; his own Karma got it for him; your Karma made you the carrier thereof. Why should you be proud of having given away something? You are the porter that carried the money or other kind of gift, and the world deserved it by its own Karma. Where is then the reason for pride in you? There is nothing very great in what you give to the world. When you have acquired the feeling of non-attachment, there will then be neither good nor evil for you. It is only selfishness that causes the difference between good and evil. It is a very hard thing to understand, but you will come to learn in time that nothing in the universe has power over you until you allow it to exercise such a power. Nothing has power over the Self of man, until the Self becomes a fool and loses independence. So, by non-attachment, you overcome and deny the power of anything to act upon you."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P201.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P201.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="To those who have not controlled their own minds, the world is either full of evil or at best a mixture of good and evil. This very world will become to us an optimistic world when we become masters of our own minds. Nothing will then work upon us as good or evil; we shall find everything to be in its proper place, to be harmonious. Some men, who begin by saying that the world is a hell, often end by saying that it is a heaven when they succeed in the practice of self-control." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P201.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P201.jpeg" style="float:none;">
+<p>
+"To those who have not controlled their own minds, the world is either full of evil or at best a mixture of good and evil. This very world will become to us an optimistic world when we become masters of our own minds. Nothing will then work upon us as good or evil; we shall find everything to be in its proper place, to be harmonious. Some men, who begin by saying that the world is a hell, often end by saying that it is a heaven when they succeed in the practice of self-control."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P202.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P202.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Our various Yogas do not conflict with each other; each of them leads us to the same goal and makes us perfect. Only each has to be strenuously practiced. The whole secret is in practicing. First you have to hear, then think, and then practice. This is true of every Yoga. You have first to hear about it and understand what it is; and many things which you do not understand will be made clear to you by constant hearing and thinking. It is hard to understand everything at once. The explanation of everything is after all in yourself. No one was ever really taught by another; each of us has to teach himself. The external teacher offers only the suggestion which rouses the internal teacher to work to understand things. Then things will be made clearer to us by our own power of perception and thought, and we shall realize them in our own souls; and that realization will grow into the intense power of will." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P202.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P202.jpeg" style="float:none;">
+<p>
+"Our various Yogas do not conflict with each other; each of them leads us to the same goal and makes us perfect. Only each has to be strenuously practiced. The whole secret is in practicing. First you have to hear, then think, and then practice. This is true of every Yoga. You have first to hear about it and understand what it is; and many things which you do not understand will be made clear to you by constant hearing and thinking. It is hard to understand everything at once. The explanation of everything is after all in yourself. No one was ever really taught by another; each of us has to teach himself. The external teacher offers only the suggestion which rouses the internal teacher to work to understand things. Then things will be made clearer to us by our own power of perception and thought, and we shall realize them in our own souls; and that realization will grow into the intense power of will."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P203.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P203.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Non-attachment is complete self-abnegation" />
+<meta property="og:description" content="Each one of our Yogas is fitted to make man perfect even without the help of the others, because they have all the same goal in view. The Yogas of work, of wisdom, and of devotion are all capable of serving as direct and independent means for the attainment of Moksha. "Fools alone say that work and philosophy are different, not the learned.” The learned know that, though apparently different from each other, they at last lead to the same goal of human perfection." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P203.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P203.jpeg" style="float:none;">
+<p>
+"Each one of our Yogas is fitted to make man perfect even without the help of the others, because they have all the same goal in view. The Yogas of work, of wisdom, and of devotion are all capable of serving as direct and independent means for the attainment of Moksha. "Fools alone say that work and philosophy are different, not the learned.” The learned know that, though apparently different from each other, they at last lead to the same goal of human perfection."<br><br>
+- Swami Vivekananda, "Non-attachment is complete self-abnegation" (Advanced karma yoga class, Jan 3, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P204.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P204.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="In the external world the idea of law is the same as in the internal — the expectation that a particular phenomenon will be followed by another, and that the series will repeat itself. Really speaking, therefore, law does not exist in nature. Practically it is an error to say that gravitation exists in the earth, or that there is any law existing objectively anywhere in nature. Law is the method, the manner in which our mind grasps a series of phenomena; it is all in the mind. Certain phenomena, happening one after another or together, and followed by the conviction of the regularity of their recurrence — thus enabling our minds to grasp the method of the whole series — constitute what we call law." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P204.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P204.jpeg" style="float:none;">
+<p>
+"In the external world the idea of law is the same as in the internal — the expectation that a particular phenomenon will be followed by another, and that the series will repeat itself. Really speaking, therefore, law does not exist in nature. Practically it is an error to say that gravitation exists in the earth, or that there is any law existing objectively anywhere in nature. Law is the method, the manner in which our mind grasps a series of phenomena; it is all in the mind. Certain phenomena, happening one after another or together, and followed by the conviction of the regularity of their recurrence — thus enabling our minds to grasp the method of the whole series — constitute what we call law."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P205.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P205.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="To acquire freedom we have to get beyond the limitations of this universe; it cannot be found here. Perfect equilibrium, or what the Christians call the peace that passeth all understanding, cannot be had in this universe, nor in heaven, nor in any place where our mind and thoughts can go, where the senses can feel, or which the imagination can conceive. No such place can give us that freedom, because all such places would be within our universe, and it is limited by space, time, and causation. There may be places that are more ethereal than this earth of ours, where enjoyments may be keener, but even those places must be in the universe and, therefore, in bondage to law; so we have to go beyond, and real religion begins where this little universe ends. These little joys, and sorrows, and knowledge of things end there, and the reality begins." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P205.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P205.jpeg" style="float:none;">
+<p>
+"To acquire freedom we have to get beyond the limitations of this universe; it cannot be found here. Perfect equilibrium, or what the Christians call the peace that passeth all understanding, cannot be had in this universe, nor in heaven, nor in any place where our mind and thoughts can go, where the senses can feel, or which the imagination can conceive. No such place can give us that freedom, because all such places would be within our universe, and it is limited by space, time, and causation. There may be places that are more ethereal than this earth of ours, where enjoyments may be keener, but even those places must be in the universe and, therefore, in bondage to law; so we have to go beyond, and real religion begins where this little universe ends. These little joys, and sorrows, and knowledge of things end there, and the reality begins."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P206.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P206.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="It is a most difficult thing to give up the clinging to this universe; few ever attain to that. There are two ways to do that mentioned in our books. One is called the "Neti, Neti" (not this, not this), the other is called "Iti" (this); the former is the negative, and the latter is the positive way. The negative way is the most difficult. It is only possible to the men of the very highest, exceptional minds and gigantic wills who simply stand up and say, "No, I will not have this," and the mind and body obey their will, and they come out successful. But such people are very rare. The vast majority of mankind choose the positive way, the way through the world, making use of all the bondages themselves to break those very bondages. This is also a kind of giving up; only it is done slowly and gradually, by knowing things, enjoying things and thus obtaining experience, and knowing the nature of things until the mind lets them all go at last and becomes unattached. The former way of obtaining non-attachment is by reasoning, and the latter way is through work and experience. The first is the path of Jnâna-Yoga, and is characterized by the refusal to do any work; the second is that of Karma-Yoga, in which there is no cessation from work. " />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P206.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P206.jpeg" style="float:none;">
+<p>
+"It is a most difficult thing to give up the clinging to this universe; few ever attain to that. There are two ways to do that mentioned in our books. One is called the "Neti, Neti" (not this, not this), the other is called "Iti" (this); the former is the negative, and the latter is the positive way. The negative way is the most difficult. It is only possible to the men of the very highest, exceptional minds and gigantic wills who simply stand up and say, "No, I will not have this," and the mind and body obey their will, and they come out successful. But such people are very rare. The vast majority of mankind choose the positive way, the way through the world, making use of all the bondages themselves to break those very bondages. This is also a kind of giving up; only it is done slowly and gradually, by knowing things, enjoying things and thus obtaining experience, and knowing the nature of things until the mind lets them all go at last and becomes unattached. The former way of obtaining non-attachment is by reasoning, and the latter way is through work and experience. The first is the path of Jnâna-Yoga, and is characterized by the refusal to do any work; the second is that of Karma-Yoga, in which there is no cessation from work. "<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P207.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P207.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="Everyone must work in the universe. Only those who are perfectly satisfied with the Self, whose desires do not go beyond the Self, whose mind never strays out of the Self, to whom the Self is all in all, only those do not work. The rest must work. A current rushing down of its own nature falls into a hollow and makes a whirlpool, and, after running a little in that whirlpool, it emerges again in the form of the free current to go on unchecked. Each human life is like that current. It gets into the whirl, gets involved in this world of space, time, and causation, whirls round a little, crying out, "my father, my brother, my name, my fame", and so on, and at last emerges out of it and regains its original freedom. The whole universe is doing that. Whether we know it or not, whether we are conscious or unconscious of it, we are all working to get out of the dream of the world. Man's experience in the world is to enable him to get out of its whirlpool." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P207.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P207.jpeg" style="float:none;">
+<p>
+"Everyone must work in the universe. Only those who are perfectly satisfied with the Self, whose desires do not go beyond the Self, whose mind never strays out of the Self, to whom the Self is all in all, only those do not work. The rest must work. A current rushing down of its own nature falls into a hollow and makes a whirlpool, and, after running a little in that whirlpool, it emerges again in the form of the free current to go on unchecked. Each human life is like that current. It gets into the whirl, gets involved in this world of space, time, and causation, whirls round a little, crying out, "my father, my brother, my name, my fame", and so on, and at last emerges out of it and regains its original freedom. The whole universe is doing that. Whether we know it or not, whether we are conscious or unconscious of it, we are all working to get out of the dream of the world. Man's experience in the world is to enable him to get out of its whirlpool."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P208.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P208.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="What is Karma-Yoga? The knowledge of the secret of work. We see that the whole universe is working. For what? For salvation, for liberty; from the atom to the highest being, working for the one end, liberty for the mind, for the body, for the spirit. All things are always trying to get freedom, flying away from bondage. The sun, the moon, the earth, the planets, all are trying to fly away from bondage. The centrifugal and the centripetal forces of nature are indeed typical of our universe. Instead of being knocked about in this universe, and after long delay and thrashing, getting to know things as they are, we learn from Karma-Yoga the secret of work, the method of work, the organizing power of work. A vast mass of energy may be spent in vain if we do not know how to utilize it. Karma-Yoga makes a science of work; you learn by it how best to utilize all the workings of this world. Work is inevitable, it must be so; but we should work to the highest purpose." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P208.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P208.jpeg" style="float:none;">
+<p>
+"What is Karma-Yoga? The knowledge of the secret of work. We see that the whole universe is working. For what? For salvation, for liberty; from the atom to the highest being, working for the one end, liberty for the mind, for the body, for the spirit. All things are always trying to get freedom, flying away from bondage. The sun, the moon, the earth, the planets, all are trying to fly away from bondage. The centrifugal and the centripetal forces of nature are indeed typical of our universe. Instead of being knocked about in this universe, and after long delay and thrashing, getting to know things as they are, we learn from Karma-Yoga the secret of work, the method of work, the organizing power of work. A vast mass of energy may be spent in vain if we do not know how to utilize it. Karma-Yoga makes a science of work; you learn by it how best to utilize all the workings of this world. Work is inevitable, it must be so; but we should work to the highest purpose."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P209.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P209.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="Karma-Yoga makes us admit that this world is a world of five minutes, that it is a something we have to pass through; and that freedom is not here, but is only to be found beyond. To find the way out of the bondages of the world we have to go through it slowly and surely. There may be those exceptional persons about whom I just spoke, those who can stand aside and give up the world, as a snake casts off its skin and stands aside and looks at it. There are no doubt these exceptional beings; but the rest of mankind have to go slowly through the world of work. Karma-Yoga shows the process, the secret, and the method of doing it to the best advantage." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P209.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P209.jpeg" style="float:none;">
+<p>
+"Karma-Yoga makes us admit that this world is a world of five minutes, that it is a something we have to pass through; and that freedom is not here, but is only to be found beyond. To find the way out of the bondages of the world we have to go through it slowly and surely. There may be those exceptional persons about whom I just spoke, those who can stand aside and give up the world, as a snake casts off its skin and stands aside and looks at it. There are no doubt these exceptional beings; but the rest of mankind have to go slowly through the world of work. Karma-Yoga shows the process, the secret, and the method of doing it to the best advantage."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P210.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P210.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="What does it [Karma-Yoga] say? "Work incessantly, but give up all attachment to work." Do not identify yourself with anything. Hold your mind free. All this that you see, the pains and the miseries, are but the necessary conditions of this world; poverty and wealth and happiness are but momentary; they do not belong to our real nature at all. Our nature is far beyond misery and happiness, beyond every object of the senses, beyond the imagination; and yet we must go on working all the time. "Misery comes through attachment, not through work." " />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P210.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P210.jpeg" style="float:none;">
+<p>
+"What does it [Karma-Yoga] say? "Work incessantly, but give up all attachment to work." Do not identify yourself with anything. Hold your mind free. All this that you see, the pains and the miseries, are but the necessary conditions of this world; poverty and wealth and happiness are but momentary; they do not belong to our real nature at all. Our nature is far beyond misery and happiness, beyond every object of the senses, beyond the imagination; and yet we must go on working all the time. "Misery comes through attachment, not through work." "<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P211.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P211.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="As soon as we identify ourselves with the work we do, we feel miserable; but if we do not identify ourselves with it, we do not feel that misery. If a beautiful picture belonging to another is burnt, a man does not generally become miserable; but when his own picture is burnt, how miserable he feels! Why? Both were beautiful pictures, perhaps copies of the same original; but in one case very much more misery is felt than in the other. It is because in one case he identifies himself with the picture, and not in the other. This "I and mine" causes the whole misery. With the sense of possession comes selfishness, and selfishness brings on misery. Every act of selfishness or thought of selfishness makes us attached to something, and immediately we are made slaves. Each wave in the Chitta that says "I and mine" immediately puts a chain round us and makes us slaves; and the more we say "I and mine", the more slavery grows, the more misery increases. Therefore Karma-Yoga tells us to enjoy the beauty of all the pictures in the world, but not to identify ourselves with any of them. Never say "mine". Whenever we say a thing is "mine", misery will immediately come. Do not even say "my child" in your mind. Possess the child, but do not say "mine". If you do, then will come the misery. Do not say “my house," do not say "my body". The whole difficulty is there. The body is neither yours, nor mine, nor anybody's. These bodies are coming and going by the laws of nature, but we are free, standing as witness. This body is no more free than a picture or a wall. Why should we be attached so much to a body?" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P211.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P211.jpeg" style="float:none;">
+<p>
+"As soon as we identify ourselves with the work we do, we feel miserable; but if we do not identify ourselves with it, we do not feel that misery. If a beautiful picture belonging to another is burnt, a man does not generally become miserable; but when his own picture is burnt, how miserable he feels! Why? Both were beautiful pictures, perhaps copies of the same original; but in one case very much more misery is felt than in the other. It is because in one case he identifies himself with the picture, and not in the other. This "I and mine" causes the whole misery. With the sense of possession comes selfishness, and selfishness brings on misery. Every act of selfishness or thought of selfishness makes us attached to something, and immediately we are made slaves. Each wave in the Chitta that says "I and mine" immediately puts a chain round us and makes us slaves; and the more we say "I and mine", the more slavery grows, the more misery increases. Therefore Karma-Yoga tells us to enjoy the beauty of all the pictures in the world, but not to identify ourselves with any of them. Never say "mine". Whenever we say a thing is "mine", misery will immediately come. Do not even say "my child" in your mind. Possess the child, but do not say "mine". If you do, then will come the misery. Do not say “my house," do not say "my body". The whole difficulty is there. The body is neither yours, nor mine, nor anybody's. These bodies are coming and going by the laws of nature, but we are free, standing as witness. This body is no more free than a picture or a wall. Why should we be attached so much to a body?"<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P212.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P212.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="Karma-Yoga says, first destroy the tendency to project this tentacle of selfishness..Then you may go out into the world and work as much as you can. Mix everywhere, go where you please; you will never be contaminated with evil. There is the lotus leaf in the water; the water cannot touch and adhere to it; so will you be in the world. This is called "Vairâgya", dispassion or non-attachment. I believe I have told you that without non-attachment there cannot be any kind of Yoga. Non-attachment is the basis of all the Yogas. The man who gives up living in houses, wearing fine clothes, and eating good food, and goes into the desert, may be a most attached person. His only possession, his own body, may become everything to him; and as he lives he will be simply struggling for the sake of his body. Non-attachment does not mean anything that we may do in relation to our external body, it is all in the mind. The binding link of "I and mine" is in the mind. If we have not this link with the body and with the things of the senses, we are non-attached, wherever and whatever we may be. A man may be on a throne and perfectly non-attached; another man may be in rags and still very much attached." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P212.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P212.jpeg" style="float:none;">
+<p>
+"Karma-Yoga says, first destroy the tendency to project this tentacle of selfishness..Then you may go out into the world and work as much as you can. Mix everywhere, go where you please; you will never be contaminated with evil. There is the lotus leaf in the water; the water cannot touch and adhere to it; so will you be in the world. This is called "Vairâgya", dispassion or non-attachment. I believe I have told you that without non-attachment there cannot be any kind of Yoga. Non-attachment is the basis of all the Yogas. The man who gives up living in houses, wearing fine clothes, and eating good food, and goes into the desert, may be a most attached person. His only possession, his own body, may become everything to him; and as he lives he will be simply struggling for the sake of his body. Non-attachment does not mean anything that we may do in relation to our external body, it is all in the mind. The binding link of "I and mine" is in the mind. If we have not this link with the body and with the things of the senses, we are non-attached, wherever and whatever we may be. A man may be on a throne and perfectly non-attached; another man may be in rags and still very much attached."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P213.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P213.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="Here are the two ways of giving up all attachment. The one is for those who do not believe in God, or in any outside help. They are left to their own devices; they have simply to work with their own will, with the powers of their mind and discrimination, saying, "I must be non-attached". For those who believe in God there is another way, which is much less difficult. They give up the fruits of work unto the Lord; they work and are never attached to the results. Whatever they see, feel, hear, or do, is for Him. For whatever good work we may do, let us not claim any praise or benefit. It is the Lord’s; give up the fruits unto Him. Let us stand aside and think that we are only servants obeying the Lord, our Master, and that every impulse for action comes from Him every moment." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P213.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P213.jpeg" style="float:none;">
+<p>
+"Here are the two ways of giving up all attachment. The one is for those who do not believe in God, or in any outside help. They are left to their own devices; they have simply to work with their own will, with the powers of their mind and discrimination, saying, "I must be non-attached". For those who believe in God there is another way, which is much less difficult. They give up the fruits of work unto the Lord; they work and are never attached to the results. Whatever they see, feel, hear, or do, is for Him. For whatever good work we may do, let us not claim any praise or benefit. It is the Lord’s; give up the fruits unto Him. Let us stand aside and think that we are only servants obeying the Lord, our Master, and that every impulse for action comes from Him every moment."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P214.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P214.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="Karma-Yoga teaches us that the ordinary idea of duty is on the lower plane; nevertheless, all of us have to do our duty. Yet we may see that this peculiar sense of duty is very often a great cause of misery. Duty becomes a disease with us; it drags us ever forward. It catches hold of us and makes our whole life miserable. It is the bane of human life...this idea of duty is the midday summer sun which scorches the innermost soul of mankind. Look at those poor slaves to duty! Duty leaves them no time to say prayers, no time to bathe. Duty is ever on them. They go out and work. Duty is on them! They come home and think of the work for the next day. Duty is on them! It is living a slave's life, at last dropping down in the street and dying in harness, like a horse. This is duty as it is understood. The only true duty is to be unattached and to work as free beings, to give up all work unto God. All our duties are His... Be at rest, be free, and work. This kind of freedom is a very hard thing to attain. How easy it is to interpret slavery as duty — the morbid attachment of flesh for flesh as duty! Men go out into the world and struggle and fight for money or for any other thing to which they get attached. Ask them why they do it. They say, "It is a duty”. It is the absurd greed for gold and gain, and they try to cover it with a few flowers." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P214.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P214.jpeg" style="float:none;">
+<p>
+"Karma-Yoga teaches us that the ordinary idea of duty is on the lower plane; nevertheless, all of us have to do our duty. Yet we may see that this peculiar sense of duty is very often a great cause of misery. Duty becomes a disease with us; it drags us ever forward. It catches hold of us and makes our whole life miserable. It is the bane of human life...this idea of duty is the midday summer sun which scorches the innermost soul of mankind. Look at those poor slaves to duty! Duty leaves them no time to say prayers, no time to bathe. Duty is ever on them. They go out and work. Duty is on them! They come home and think of the work for the next day. Duty is on them! It is living a slave's life, at last dropping down in the street and dying in harness, like a horse. This is duty as it is understood. The only true duty is to be unattached and to work as free beings, to give up all work unto God. All our duties are His... Be at rest, be free, and work. This kind of freedom is a very hard thing to attain. How easy it is to interpret slavery as duty — the morbid attachment of flesh for flesh as duty! Men go out into the world and struggle and fight for money or for any other thing to which they get attached. Ask them why they do it. They say, "It is a duty”. It is the absurd greed for gold and gain, and they try to cover it with a few flowers."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P215.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P215.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="Duty is good to the extent that it checks brutality. To the lowest kinds of men, who cannot have any other ideal, it is of some good; but those who want to be Karma-Yogis must throw this idea of duty overboard. There is no duty for you and me. Whatever you have to give to the world, do give by all means, but not as a duty. Do not take any thought of that. Be not compelled. Why should you be compelled? Everything that you do under compulsion goes to build up attachment. Why should you have any duty? Resign everything unto God. In this tremendous fiery furnace where the fire of duty scorches everybody, drink this cup of nectar and be happy." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P215.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P215.jpeg" style="float:none;">
+<p>
+"Duty is good to the extent that it checks brutality. To the lowest kinds of men, who cannot have any other ideal, it is of some good; but those who want to be Karma-Yogis must throw this idea of duty overboard. There is no duty for you and me. Whatever you have to give to the world, do give by all means, but not as a duty. Do not take any thought of that. Be not compelled. Why should you be compelled? Everything that you do under compulsion goes to build up attachment. Why should you have any duty? Resign everything unto God. In this tremendous fiery furnace where the fire of duty scorches everybody, drink this cup of nectar and be happy."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P216.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P216.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="If you want the reward, you must also have the punishment; the only way to get out of the punishment is to give up the reward. The only way of getting out of misery is by giving up the idea of happiness, because these two are linked to each other. On one side there is happiness, on the other there is misery. On one side there is life, on the other there is death. The only way to get beyond death is to give up the love of life. Life and death are the same thing, looked at from different points. So the idea of happiness without misery, or of life without death, is very good for school-boys and children; but the thinker sees that it is all a contradiction in terms and gives up both. Seek no praise, no reward, for anything you do. No sooner do we perform a good action than we begin to desire credit for it. No sooner do we give money to some charity than we want to see our names blazoned in the papers. Misery must come as the result of such desires." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P216.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P216.jpeg" style="float:none;">
+<p>
+"If you want the reward, you must also have the punishment; the only way to get out of the punishment is to give up the reward. The only way of getting out of misery is by giving up the idea of happiness, because these two are linked to each other. On one side there is happiness, on the other there is misery. On one side there is life, on the other there is death. The only way to get beyond death is to give up the love of life. Life and death are the same thing, looked at from different points. So the idea of happiness without misery, or of life without death, is very good for school-boys and children; but the thinker sees that it is all a contradiction in terms and gives up both. Seek no praise, no reward, for anything you do. No sooner do we perform a good action than we begin to desire credit for it. No sooner do we give money to some charity than we want to see our names blazoned in the papers. Misery must come as the result of such desires."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P217.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P217.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="The greatest men in the world have passed away unknown. The Buddhas and the Christs that we know are but second-rate heroes in comparison with the greatest men of whom the world knows nothing. Hundreds of these unknown heroes have lived in every country working silently. Silently they live and silently they pass away; and in time their thoughts find expression in Buddhas or Christs, and it is these latter that become known to us. The highest men do not seek to get any name or fame from their knowledge. They leave their ideas to the world; they put forth no claims for themselves and establish no schools or systems in their name. Their whole nature shrinks from such a thing. They are the pure Sâttvikas, who can never make any stir, but only melt down in love...Next in order come the men with more Rajas, or activity, combative natures, who take up the ideas of the perfect ones and preach them to the world. The highest kind of men silently collect true and noble ideas, and others — the Buddhas and Christs — go from place to place preaching them and working for them. In the life of Gautama Buddha we notice him constantly saying that he is the twenty-fifth Buddha. The twenty-four before him are unknown to history, although the Buddha known to history must have built upon foundations laid by them." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P217.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P217.jpeg" style="float:none;">
+<p>
+"The greatest men in the world have passed away unknown. The Buddhas and the Christs that we know are but second-rate heroes in comparison with the greatest men of whom the world knows nothing. Hundreds of these unknown heroes have lived in every country working silently. Silently they live and silently they pass away; and in time their thoughts find expression in Buddhas or Christs, and it is these latter that become known to us. The highest men do not seek to get any name or fame from their knowledge. They leave their ideas to the world; they put forth no claims for themselves and establish no schools or systems in their name. Their whole nature shrinks from such a thing. They are the pure Sâttvikas, who can never make any stir, but only melt down in love...Next in order come the men with more Rajas, or activity, combative natures, who take up the ideas of the perfect ones and preach them to the world. The highest kind of men silently collect true and noble ideas, and others — the Buddhas and Christs — go from place to place preaching them and working for them. In the life of Gautama Buddha we notice him constantly saying that he is the twenty-fifth Buddha. The twenty-four before him are unknown to history, although the Buddha known to history must have built upon foundations laid by them."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+cat > images/P218.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P218.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Freedom" />
+<meta property="og:description" content="We should never think that we can help on even the least thing in this universe. We cannot. We only help ourselves in this gymnasium of the world. This is the proper attitude of work. If we work in this way, if we always remember that our present opportunity to work thus is a privilege which has been given to us, we shall never be attached to anything. Millions like you and me think that we are great people in the world; but we all die, and in five minutes the world forgets us. But the life of God is infinite. "Who can live a moment, breathe a moment, if this all-powerful One does not will it?" He is the ever-active Providence. All power is His and within His command. Through His command the winds blow, the sun shines, the earth lives, and death stalks upon the earth. He is the all in all; He is all and in all. We can only worship Him. Give up all fruits of work; do good for its own sake; then alone will come perfect non-attachment. The bonds of the heart will thus break, and we shall reap perfect freedom. This freedom is indeed the goal of Karma-Yoga." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P218.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P218.jpeg" style="float:none;">
+<p>
+"We should never think that we can help on even the least thing in this universe. We cannot. We only help ourselves in this gymnasium of the world. This is the proper attitude of work. If we work in this way, if we always remember that our present opportunity to work thus is a privilege which has been given to us, we shall never be attached to anything. Millions like you and me think that we are great people in the world; but we all die, and in five minutes the world forgets us. But the life of God is infinite. "Who can live a moment, breathe a moment, if this all-powerful One does not will it?" He is the ever-active Providence. All power is His and within His command. Through His command the winds blow, the sun shines, the earth lives, and death stalks upon the earth. He is the all in all; He is all and in all. We can only worship Him. Give up all fruits of work; do good for its own sake; then alone will come perfect non-attachment. The bonds of the heart will thus break, and we shall reap perfect freedom. This freedom is indeed the goal of Karma-Yoga."<br><br>
+- Swami Vivekananda, "Freedom" (Advanced karma yoga class, Jan 10, 1896, New York Vedanta Society), Karma Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
 
 
 
