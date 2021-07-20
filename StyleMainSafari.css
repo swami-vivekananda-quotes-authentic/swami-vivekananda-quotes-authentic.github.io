@@ -123,14 +123,14 @@ body {
 
 .container {
   position: relative;
-  width: 90%;
-  max-width: 355px;
-  float:left;
-  height: 570px
+  /*width: 90%;*/
+  max-width: 650px;
+  float:center;
+  height: 900px
 }
 
 .container img {
-  width: 355px;
+  width: 650px;
   height: auto;
 }
 
@@ -157,16 +157,16 @@ body {
 }
 
 .container .btn2 {
-  position: relative;
-  bottom: 20%;
+  position: absolute;
+  top: 8%;
   left: 16%;
-  width: 95%;
-  transform: translate(-15%, 30%);    /*this line is different from chrome browser*/
+  width: 30%;
+  transform: translate(-150%, 30%);    /*this line is different from chrome browser*/
   /*-ms-transform: translate(50%, 50%);*/
   background-color: white; /*#FBFBFD*/
   color: black;
-  font-size: 15px;
-  font-weight: 430;
+  font-size: 16px;
+  font-weight: 430;  /*this line is different from chrome browser*/
   padding: 0px 5px;
   border: none;
   cursor: pointer;
