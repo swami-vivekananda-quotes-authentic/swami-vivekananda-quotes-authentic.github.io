@@ -8866,6 +8866,1171 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
+cat > images/P232.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P232.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="I am proud to belong to a religion which has taught the world both tolerance and universal acceptance. We believe not only in universal toleration, but we accept all religions as true. I am proud to belong to a nation which has sheltered the persecuted and the refugees of all religions and all nations of the earth. I am proud to tell you that we have gathered in our bosom the purest remnant of the Israelites, who came to Southern India and took refuge with us in the very year in which their holy temple was shattered to pieces by Roman tyranny. I am proud to belong to the religion which has sheltered and is still fostering the remnant of the grand Zoroastrian nation. I will quote to you, brethren, a few lines from a hymn which I remember to have repeated from my earliest boyhood, which is every day repeated by millions of human beings: “As the different streams having their sources in different places all mingle their water in the sea, so, O Lord, the different paths which men take through different tendencies, various though they appear, crooked or straight, all lead to Thee.”" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P232.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P232.jpeg" style="float:none;">
+<p>
+"I am proud to belong to a religion which has taught the world both tolerance and universal acceptance. We believe not only in universal toleration, but we accept all religions as true. I am proud to belong to a nation which has sheltered the persecuted and the refugees of all religions and all nations of the earth. I am proud to tell you that we have gathered in our bosom the purest remnant of the Israelites, who came to Southern India and took refuge with us in the very year in which their holy temple was shattered to pieces by Roman tyranny. I am proud to belong to the religion which has sheltered and is still fostering the remnant of the grand Zoroastrian nation. I will quote to you, brethren, a few lines from a hymn which I remember to have repeated from my earliest boyhood, which is every day repeated by millions of human beings: “As the different streams having their sources in different places all mingle their water in the sea, so, O Lord, the different paths which men take through different tendencies, various though they appear, crooked or straight, all lead to Thee.”"<br><br>
+- Swami Vivekananda, "Response to Welcome" (At the World's Parliament of Religions, Chicago, 11th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P233.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P233.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Sectarianism, bigotry, and its horrible descendant, fanaticism, have long possessed this beautiful earth. They have filled the earth with violence, drenched it often and often with human blood, destroyed civilization and sent whole nations to despair. Had it not been for these horrible demons, human society would be far more advanced than it is now. But their time is come; and I fervently hope that the bell that tolled this morning in honor of this convention may be the death-knell of all fanaticism, of all persecutions with the sword or with the pen, and of all uncharitable feelings between persons wending their way to the same goal." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P233.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P233.jpeg" style="float:none;">
+<p>
+"Sectarianism, bigotry, and its horrible descendant, fanaticism, have long possessed this beautiful earth. They have filled the earth with violence, drenched it often and often with human blood, destroyed civilization and sent whole nations to despair. Had it not been for these horrible demons, human society would be far more advanced than it is now. But their time is come; and I fervently hope that the bell that tolled this morning in honor of this convention may be the death-knell of all fanaticism, of all persecutions with the sword or with the pen, and of all uncharitable feelings between persons wending their way to the same goal."<br><br>
+- Swami Vivekananda, "Response to Welcome" (At the World's Parliament of Religions, Chicago, 11th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P234.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P234.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Three religions now stand in the world which have come down to us from time prehistoric — Hinduism,  Zoroastrianism and Judaism. They have all received tremendous shocks and all of them prove by their survival their internal strength. But while Judaism failed to absorb Christianity and was driven out of its place of birth by its all-conquering daughter, and a handful of Parsees is all that remains to tell the tale of their grand religion, sect after sect arose in India and seemed to shake the religion of the Vedas to its very foundations, but like the waters of the seashore in a tremendous earthquake it receded only for a while, only to return in an all-absorbing flood, a thousand times more vigorous, and when the tumult of the rush was over, these sects were all sucked in, absorbed, and assimilated into the immense body of the mother faith.<br> From the high spiritual flights of the Vedanta philosophy, of which the latest discoveries of science seem like echoes, to the low ideas of idolatry with its multifarious mythology, the agnosticism of the Buddhists, and the atheism of the Jains, each and all have a placePaper on Hinduism (Read At the World's Parliament of Religions, Chicago) />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P234.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P234.jpeg" style="float:none;">
+<p>
+"Three religions now stand in the world which have come down to us from time prehistoric — Hinduism,  Zoroastrianism and Judaism. They have all received tremendous shocks and all of them prove by their survival their internal strength. But while Judaism failed to absorb Christianity and was driven out of its place of birth by its all-conquering daughter, and a handful of Parsees is all that remains to tell the tale of their grand religion, sect after sect arose in India and seemed to shake the religion of the Vedas to its very foundations, but like the waters of the seashore in a tremendous earthquake it receded only for a while, only to return in an all-absorbing flood, a thousand times more vigorous, and when the tumult of the rush was over, these sects were all sucked in, absorbed, and assimilated into the immense body of the mother faith.<br> From the high spiritual flights of the Vedanta philosophy, of which the latest discoveries of science seem like echoes, to the low ideas of idolatry with its multifarious mythology, the agnosticism of the Buddhists, and the atheism of the Jains, each and all have a place in the Hindu's religion."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P235.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P235.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="The Hindus have received their religion through revelation, the Vedas. They hold that the Vedas are without beginning and without end. It may sound ludicrous to this audience, how a book can be without beginning or end. But by the Vedas no books are meant. They mean the accumulated treasury of spiritual laws discovered by different persons in different times. Just as the law of gravitation existed before its discovery, and would exist if all humanity forgot it, so is it with the laws that govern the spiritual world. The moral, ethical, and spiritual relations between soul and soul and between individual spirits and the Father of all spirits, were there before their discovery, and would remain even if we forgot them. <br> The discoverers of these laws are called Rishis, and we honour them as perfected beings. I am glad to tell this audience that some of the very greatest of them were women. Here it may be said that these laws as laws may be without end, but they must have had a beginning. The Vedas teach us that creation is without beginning or end. Science is said to have proved that the sum total of cosmic energy is always the same. Then, if there was a time when nothing existed, where was all this manifested energy? Some say it was in a potential form in God. In that case God is sometimes potential and sometimes kinetic, which would make Him mutable. Everything mutable is a compound, and everything compound must undergo that change which is called destruction. So God would die, which is absurd. Therefore there never was a time when there was no creation." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P235.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a hrefPaper on Hinduism (Read At the World's Parliament of Religions, Chicago).png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P235.jpeg" style="float:none;">
+<p>
+"The Hindus have received their religion through revelation, the Vedas. They hold that the Vedas are without beginning and without end. It may sound ludicrous to this audience, how a book can be without beginning or end. But by the Vedas no books are meant. They mean the accumulated treasury of spiritual laws discovered by different persons in different times. Just as the law of gravitation existed before its discovery, and would exist if all humanity forgot it, so is it with the laws that govern the spiritual world. The moral, ethical, and spiritual relations between soul and soul and between individual spirits and the Father of all spirits, were there before their discovery, and would remain even if we forgot them. <br> The discoverers of these laws are called Rishis, and we honour them as perfected beings. I am glad to tell this audience that some of the very greatest of them were women. Here it may be said that these laws as laws may be without end, but they must have had a beginning. The Vedas teach us that creation is without beginning or end. Science is said to have proved that the sum total of cosmic energy is always the same. Then, if there was a time when nothing existed, where was all this manifested energy? Some say it was in a potential form in God. In that case God is sometimes potential and sometimes kinetic, which would make Him mutable. Everything mutable is a compound, and everything compound must undergo that change which is called destruction. So God would die, which is absurd. Therefore there never was a time when there was no creation."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P236.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P236.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Here I stand and if I shut my eyes, and try to conceive my existence, "I", "I", "I", what is the idea before me? The idea of a body. Am I, then, nothing but a combination of material substances? The Vedas declare, “No”. I am a spirit living in a body. I am not the body. The body will die, but I shall not die. Here am I in this body; it will fall, but I shall go on living. I had also a past. The soul was not created, for creation means a combination which means a certain future dissolution. If then the soul was created, it must die. Some are born happy, enjoy perfect health, with beautiful body, mental vigour and all wants supplied. Others are born miserable, some are without hands or feet, others again are idiots and only drag on a wretched existence. Why, if they are all created, why does a just and merciful God create one happy and another unhappy, why is He so partial? Nor would it mend matters in the least to hold that those who are miserable in this life will be happy in a future one. Why should a man be miserable even here in the reign of a just and merciful God? <br> In the second place, the idea of a creator God does not explain the anomaly, but simply expresses the cruel fiat of an all-powerful being. There must have been causes, then, before his birth, to make a man miserable or happy and those were his past actions." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P236.jpeg" />
+</head>
+<body>
+<divPaper on Hinduism (Read At the World's Parliament of Religions, Chicago)="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P236.jpeg" style="float:none;">
+<p>
+"Here I stand and if I shut my eyes, and try to conceive my existence, "I", "I", "I", what is the idea before me? The idea of a body. Am I, then, nothing but a combination of material substances? The Vedas declare, “No”. I am a spirit living in a body. I am not the body. The body will die, but I shall not die. Here am I in this body; it will fall, but I shall go on living. I had also a past. The soul was not created, for creation means a combination which means a certain future dissolution. If then the soul was created, it must die. Some are born happy, enjoy perfect health, with beautiful body, mental vigour and all wants supplied. Others are born miserable, some are without hands or feet, others again are idiots and only drag on a wretched existence. Why, if they are all created, why does a just and merciful God create one happy and another unhappy, why is He so partial? Nor would it mend matters in the least to hold that those who are miserable in this life will be happy in a future one. Why should a man be miserable even here in the reign of a just and merciful God? <br> In the second place, the idea of a creator God does not explain the anomaly, but simply expresses the cruel fiat of an all-powerful being. There must have been causes, then, before his birth, to make a man miserable or happy and those were his past actions."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P237.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P237.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Are not all the tendencies of the mind and the body accounted for by inherited aptitude? Here are two parallel lines of existence — one of the mind, the other of matter. If matter and its transformations answer for all that we have, there is no necessity for supposing the existence of a soul. But it cannot be proved that thought has been evolved out of matter, and if a philosophical monism is inevitable, spiritual monism is certainly logical and no less desirable than a materialistic monism; but neither of these is necessary here. <br> We cannot deny that bodies acquire certain tendencies from heredity, but those tendencies only mean the physical configuration, through which a peculiar mind alone can act in a peculiar way. There are other tendencies peculiar to a soul caused by its past actions. And a soul with a certain tendency would by the laws of affinity take birth in a body which is the fittest instrument for the display of that tendency. This is in accord with science, for science wants to explain everything by habit, and habit is got through repetitions. So repetitions are necessary to explain the natural habits of a new-born soul. And since they were not obtained in this present life, they must have come down from past lives." />
+<meta property="og:image" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago).io/images/P237.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P237.jpeg" style="float:none;">
+<p>
+"Are not all the tendencies of the mind and the body accounted for by inherited aptitude? Here are two parallel lines of existence — one of the mind, the other of matter. If matter and its transformations answer for all that we have, there is no necessity for supposing the existence of a soul. But it cannot be proved that thought has been evolved out of matter, and if a philosophical monism is inevitable, spiritual monism is certainly logical and no less desirable than a materialistic monism; but neither of these is necessary here. <br> We cannot deny that bodies acquire certain tendencies from heredity, but those tendencies only mean the physical configuration, through which a peculiar mind alone can act in a peculiar way. There are other tendencies peculiar to a soul caused by its past actions. And a soul with a certain tendency would by the laws of affinity take birth in a body which is the fittest instrument for the display of that tendency. This is in accord with science, for science wants to explain everything by habit, and habit is got through repetitions. So repetitions are necessary to explain the natural habits of a new-born soul. And since they were not obtained in this present life, they must have come down from past lives."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P238.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P238.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="...How is it that I do not remember anything of my past life ? This can be easily explained. I am now speaking English. It is not my mother tongue, in fact no words of my mother tongue are now present in my consciousness; but let me try to bring them up, and they rush in. That shows that consciousness is only the surface of the mental ocean, and within its depths are stored up all our experiences. Try and struggle, they would come up and youPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) past life. <br> This is direct and demonstrative evidence. Verification is the perfect proof of a theory, and here is the challenge thrown to the world by the Rishis. We have discovered the secret by which the very depths of the ocean of memory can be stirred up — try it and you would get a complete reminiscence of your past life." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P238.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P238.jpeg" style="float:none;">
+<p>
+"...How is it that I do not remember anything of my past life ? This can be easily explained. I am now speaking English. It is not my mother tongue, in fact no words of my mother tongue are now present in my consciousness; but let me try to bring them up, and they rush in. That shows that consciousness is only the surface of the mental ocean, and within its depths are stored up all our experiences. Try and struggle, they would come up and you would be conscious even of your past life. <br> This is direct and demonstrative evidence. Verification is the perfect proof of a theory, and here is the challenge thrown to the world by the Rishis. We have discovered the secret by which the very depths of the ocean of memory can be stirred up — try it and you would get a complete reminiscence of your past life."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P239.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P239.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago)" />
+<meta property="og:description" content="...The Hindu believes that he is a spirit. Him the sword cannot pierce — him the fire cannot burn — him the water cannot melt — him the air cannot dry. The Hindu believes that every soul is a circle whose circumference is nowhere, but whose center is located in the body, and that death means the change of this center from body to body. Nor is the soul bound by the conditions of matter. In its very essence it is free, unbounded, holy, pure, and perfect. But somehow or other it finds itself tied down to matter, and thinks of itself as matter." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P239.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P239.jpeg" style="float:none;">
+<p>
+"...The Hindu believes that he is a spirit. Him the sword cannot pierce — him the fire cannot burn — him the water cannot melt — him the air cannot dry. The Hindu believes that every soul is a circle whose circumference is nowhere, but whose center is located in the body, and that death means the change of this center from body to body. Nor is the soul bound by the conditions of matter. In its very essence it is free, unbounded, holy, pure, and perfect. But somehow or other it finds itself tied down to matter, and thinks of itself as matter."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P240.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P240.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Why should the free, perfect, and pure being be thus under the thralldom of matter, is the next question. How can the perfect soul be deluded into the belief that it is imperfect? We have been told that the Hindus shirk the question and say that no such question can be there. Some thinkers want to answer it by positing one or more quasi-perfect beings, and use big scientific names to fill up the gap. But naming is not explaining. The question remains the same. How can the perfect become the quasi-perfect; how can the pure, the absolute, change even a microscopic particle of its nature? But the Hindu is sincere. He does not want to take shelter under sophistry. He is brave enough to face the question in a manly fashion; and his answer is: “I do not know. I do not know how the perfect being, the soul, came to think of itself as imperfect, as joined to and conditioned by matter." But the fact is a fact for all that. It is a fact in everybody's consciousness that one thinks of oneself as the body. The Hindu does not attempt to explain why one thinks one is the body. The answer that it is the will of God is noPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) than what the Hindu says, "I do not know."" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P240.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P240.jpeg" style="float:none;">
+<p>
+"Why should the free, perfect, and pure being be thus under the thralldom of matter, is the next question. How can the perfect soul be deluded into the belief that it is imperfect? We have been told that the Hindus shirk the question and say that no such question can be there. Some thinkers want to answer it by positing one or more quasi-perfect beings, and use big scientific names to fill up the gap. But naming is not explaining. The question remains the same. How can the perfect become the quasi-perfect; how can the pure, the absolute, change even a microscopic particle of its nature? But the Hindu is sincere. He does not want to take shelter under sophistry. He is brave enough to face the question in a manly fashion; and his answer is: “I do not know. I do not know how the perfect being, the soul, came to think of itself as imperfect, as joined to and conditioned by matter." But the fact is a fact for all that. It is a fact in everybody's consciousness that one thinks of oneself as the body. The Hindu does not attempt to explain why one thinks one is the body. The answer that it is the will of God is no explanation. This is nothing more than what the Hindu says, "I do not know.""<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P241.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P241.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="..The human soul is eternal and immortal, perfect and infinite, and death means only a change of center from one body to another. The present is determined by our past actions, and the future by the present. The soul will go on evolving up or reverting back from birth to birth and death to death. But here is another question: Is man a tiny boat in a tempest, raised one moment on the foamy crest of a billow and dashed down into a yawning chasm the next, rolling to and fro at the mercy of good and bad actions — a powerless, helpless wreck in an ever-raging, ever-rushing, uncompromising current of cause and effect; a little moth placed under the wheel of causation which rolls on crushing everything in its way and waits not for the widow's tears or the orphan's cry? The heart sinks at the idea, yet this is the law of Nature. Is there no hope? Is there no escape? — was the cry that went up from the bottom of the heart of despair. It reached the throne of mercy, and words of hope and consolation came down and inspired a Vedic sage, and he stood up before the world and in trumpet voice proclaimed the glad tidings: "Hear, ye children of immortal bliss! even ye that reside in higher spheres! I have found the Ancient One who is beyond all darkness, all delusion: knowing Him alone you shall be saved from death over again." "Children of immortal bliss" — what a sweet, what a hopeful name! Allow me to call you, brethren, by that sweet name — heirs of immortal bliss — yea, the Hindu refuses to call you sinners. Ye are the Children of God, the sharers of immortal bliss, holy and perfect beings. Ye divinities on earth — sinners! It is a sin to call a man so; it is a standing libel on human nature. Come up, O lions, and shake off the delusion that you are sheep; you are souls immortal, spirits free, blest and eternal; ye are not matter, ye are not bodies; matter is your servant, not you the servant of matter." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P241.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Paper on Hinduism (Read At the World's Parliament of Religions, Chicago)=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P241.jpeg" style="float:none;">
+<p>
+"..The human soul is eternal and immortal, perfect and infinite, and death means only a change of center from one body to another. The present is determined by our past actions, and the future by the present. The soul will go on evolving up or reverting back from birth to birth and death to death. But here is another question: Is man a tiny boat in a tempest, raised one moment on the foamy crest of a billow and dashed down into a yawning chasm the next, rolling to and fro at the mercy of good and bad actions — a powerless, helpless wreck in an ever-raging, ever-rushing, uncompromising current of cause and effect; a little moth placed under the wheel of causation which rolls on crushing everything in its way and waits not for the widow's tears or the orphan's cry? The heart sinks at the idea, yet this is the law of Nature. Is there no hope? Is there no escape? — was the cry that went up from the bottom of the heart of despair. It reached the throne of mercy, and words of hope and consolation came down and inspired a Vedic sage, and he stood up before the world and in trumpet voice proclaimed the glad tidings: "Hear, ye children of immortal bliss! even ye that reside in higher spheres! I have found the Ancient One who is beyond all darkness, all delusion: knowing Him alone you shall be saved from death over again." "Children of immortal bliss" — what a sweet, what a hopeful name! Allow me to call you, brethren, by that sweet name — heirs of immortal bliss — yea, the Hindu refuses to call you sinners. Ye are the Children of God, the sharers of immortal bliss, holy and perfect beings. Ye divinities on earth — sinners! It is a sin to call a man so; it is a standing libel on human nature. Come up, O lions, and shake off the delusion that you are sheep; you are souls immortal, spirits free, blest and eternal; ye are not matter, ye are not bodies; matter is your servant, not you the servant of matter."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P242.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P242.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="It is good to love God for hope of reward in this or the next world, but it is better to love God for love's sake, and the prayer goes: "Lord, I do not want wealth, nor children, nor learning. If it be Thy will, I shall go from birth to birth, but grant me this, that I may love Thee without the hope of reward — love unselfishly for love's sake." One of the disciples of Krishna, the then Emperor of India, was driven from his kingdom by his enemies and had to take shelter with his queen in a forest in the Himalayas, and there one day the queen asked him how it was that he, the most virtuous of men, should suffer so much misery. Yudhishthira answered, "Behold, my queen, the Himalayas, how grand and beautiful they are; I love them. They do not give me anything, but my nature is to love the grand, the beautiful, therefore I love them. Similarly, I love the Lord. He is the source of all beauty, of all sublimity. He is the only object to be loved; my nature is to love Him, and therefore I love. I do not pray for anything; I do not ask for anything. Let Him place me wherever He likes. I must love Him forPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) trade in love."" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P242.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P242.jpeg" style="float:none;">
+<p>
+"It is good to love God for hope of reward in this or the next world, but it is better to love God for love's sake, and the prayer goes: "Lord, I do not want wealth, nor children, nor learning. If it be Thy will, I shall go from birth to birth, but grant me this, that I may love Thee without the hope of reward — love unselfishly for love's sake." One of the disciples of Krishna, the then Emperor of India, was driven from his kingdom by his enemies and had to take shelter with his queen in a forest in the Himalayas, and there one day the queen asked him how it was that he, the most virtuous of men, should suffer so much misery. Yudhishthira answered, "Behold, my queen, the Himalayas, how grand and beautiful they are; I love them. They do not give me anything, but my nature is to love the grand, the beautiful, therefore I love them. Similarly, I love the Lord. He is the source of all beauty, of all sublimity. He is the only object to be loved; my nature is to love Him, and therefore I love. I do not pray for anything; I do not ask for anything. Let Him place me wherever He likes. I must love Him for love's sake. I cannot trade in love.""<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P243.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P243.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="The Vedas teach that the soul is divine, only held in the bondage of matter; perfection will be reached when this bond will burst, and the word they use for it is therefore, Mukti — freedom, freedom from the bonds of imperfection, freedom from death and misery. <br> And this bondage can only fall off through the mercy of God, and this mercy comes on the pure. So purity is the condition of His mercy. How does that mercy act? He reveals Himself to the pure heart; the pure and the stainless see God, yea, even in this life; then and then only all the crookedness of the heart is made straight. Then all doubt ceases. He is no more the freak of a terrible law of causation. This is the very center, the very vital conception of Hinduism. The Hindu does not want to live upon words and theories. If there are existences beyond the ordinary sensuous existence, he wants to come face to face with them. If there is a soul in him which is not matter, if there is an all-merciful universal Soul, he will go to Him direct. He must see Him, and that alone can destroy all doubts. So the best proof a Hindu sage gives about the soul, about God, is: "I have seen the soul; I have seen God." And that is the only condition of perfection. The Hindu religion does not consist in struggles and attempts to believe a certain doctrine or dogma, but in realizing — not in believing, but in being and becoming." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P243.jpeg" />
+</head>
+<body>
+<divPaper on Hinduism (Read At the World's Parliament of Religions, Chicago)="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P243.jpeg" style="float:none;">
+<p>
+"The Vedas teach that the soul is divine, only held in the bondage of matter; perfection will be reached when this bond will burst, and the word they use for it is therefore, Mukti — freedom, freedom from the bonds of imperfection, freedom from death and misery. <br> And this bondage can only fall off through the mercy of God, and this mercy comes on the pure. So purity is the condition of His mercy. How does that mercy act? He reveals Himself to the pure heart; the pure and the stainless see God, yea, even in this life; then and then only all the crookedness of the heart is made straight. Then all doubt ceases. He is no more the freak of a terrible law of causation. This is the very center, the very vital conception of Hinduism. The Hindu does not want to live upon words and theories. If there are existences beyond the ordinary sensuous existence, he wants to come face to face with them. If there is a soul in him which is not matter, if there is an all-merciful universal Soul, he will go to Him direct. He must see Him, and that alone can destroy all doubts. So the best proof a Hindu sage gives about the soul, about God, is: "I have seen the soul; I have seen God." And that is the only condition of perfection. The Hindu religion does not consist in struggles and attempts to believe a certain doctrine or dogma, but in realizing — not in believing, but in being and becoming."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P244.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P244.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="...What becomes of a man when he attains perfection? He lives a life of bliss infinite. He enjoys infinite and perfect bliss, having obtained the only thing in which man ought to have pleasure, namely God, and enjoys the bliss with God. <br> So far all the Hindus are agreed. This is the common religion of all the sects of India; but, then, perfection is absolute, and the absolute cannot be two or three. It cannot have any qualities. It cannot be an individual. And so when a soul becomes perfect and absolute, it must become one with Brahman, and it would only realize the Lord as the perfection, the reality, of its own nature and existence, the existence absolute, knowledge absolute, and bliss absolute. We have often and often read this called the losing of individuality and becoming a stock or a stone. <br> I tell you it is nothing of the kind. If it is happiness to enjoy the consciousness of this small body, it must be greater happiness to enjoy the consciousness of two bodies, the measure of happiness increasing with the consciousness of an increasing number of bodies, the aim, the ultimate of happiness beingPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) universal consciousness." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P244.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P244.jpeg" style="float:none;">
+<p>
+"...What becomes of a man when he attains perfection? He lives a life of bliss infinite. He enjoys infinite and perfect bliss, having obtained the only thing in which man ought to have pleasure, namely God, and enjoys the bliss with God. <br> So far all the Hindus are agreed. This is the common religion of all the sects of India; but, then, perfection is absolute, and the absolute cannot be two or three. It cannot have any qualities. It cannot be an individual. And so when a soul becomes perfect and absolute, it must become one with Brahman, and it would only realize the Lord as the perfection, the reality, of its own nature and existence, the existence absolute, knowledge absolute, and bliss absolute. We have often and often read this called the losing of individuality and becoming a stock or a stone. <br> I tell you it is nothing of the kind. If it is happiness to enjoy the consciousness of this small body, it must be greater happiness to enjoy the consciousness of two bodies, the measure of happiness increasing with the consciousness of an increasing number of bodies, the aim, the ultimate of happiness being reached when it would become a universal consciousness."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P245.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></Paper on Hinduism (Read At the World's Parliament of Religions, Chicago):url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P245.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="...To gain the infinite universal individuality, this miserable little prison-individuality must go. Then alone can death cease when I am alone with life, then alone can misery cease when I am one with happiness itself, then alone can all errors cease when I am one with knowledge itself; and this is the necessary scientific conclusion." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P245.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P245.jpeg" style="float:none;">
+<p>
+"...To gain the infinite universal individuality, this miserable little prison-individuality must go. Then alone can death cease when I am alone with life, then alone can misery cease when I am one with happiness itself, then alone can all errors cease when I am one with knowledge itself; and this is the necessary scientific conclusion."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P246.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P246.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Science is nothing but the finding of unity. As soon as science would reach perfect unity, it would stop from further progress, because it would reach the goal. Thus Chemistry could not progress farther when it would discover one element out of which all other could be made. Physics would stop when it would be able to fulfill its services in discovering one energy of which all others are but manifestations, and the science of religion become perfect whenPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) the one life in a universe of death, Him who is the constant basis of an ever-changing world. One who is the only Soul of which all souls are but delusive manifestations. Thus is it, through multiplicity and duality, that the ultimate unity is reached. Religion can go no farther. This is the goal of all science." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P246.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P246.jpeg" style="float:none;">
+<p>
+"Science is nothing but the finding of unity. As soon as science would reach perfect unity, it would stop from further progress, because it would reach the goal. Thus Chemistry could not progress farther when it would discover one element out of which all other could be made. Physics would stop when it would be able to fulfill its services in discovering one energy of which all others are but manifestations, and the science of religion become perfect when it would discover Him who is the one life in a universe of death, Him who is the constant basis of an ever-changing world. One who is the only Soul of which all souls are but delusive manifestations. Thus is it, through multiplicity and duality, that the ultimate unity is reached. Religion can go no farther. This is the goal of all science."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P247.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P247.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="The tree is known by its fruits. When I have seen amongst them that are called idolaters, men, the like of whom in morality and spirituality and love I have never seen anywhere, I stop and ask myself, "Can sin beget holiness?" <br> Superstition is a great enemy of man, but bigotry is worse. Why does a Christian go to church? Why is the cross holy? Why is the face turned toward the sky in prayer? Why are there so many images in the Catholic Church? Why are there so many images in the minds of Protestants when they pray? My brethren, we can no more think about anything without a mental image than we can live without breathing. By the law of association, the material image calls up the mental idea and vice versa. This is why the Hindu uses an external symbol when he worships. He will tell you, it helps to keep his mind fixed on the Being to whom he prays. He knows as well as you do that the image is not God, is not omnipresent. After all, how much does omnipresence mean to almost the whole world? It stands merely as a word, a symbol. Has God superficial area? If not, when we repeat that word "omnipresent",Paper on Hinduism (Read At the World's Parliament of Religions, Chicago) or of space, that is all." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P247.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P247.jpeg" style="float:none;">
+<p>
+"The tree is known by its fruits. When I have seen amongst them that are called idolaters, men, the like of whom in morality and spirituality and love I have never seen anywhere, I stop and ask myself, "Can sin beget holiness?" <br> Superstition is a great enemy of man, but bigotry is worse. Why does a Christian go to church? Why is the cross holy? Why is the face turned toward the sky in prayer? Why are there so many images in the Catholic Church? Why are there so many images in the minds of Protestants when they pray? My brethren, we can no more think about anything without a mental image than we can live without breathing. By the law of association, the material image calls up the mental idea and vice versa. This is why the Hindu uses an external symbol when he worships. He will tell you, it helps to keep his mind fixed on the Being to whom he prays. He knows as well as you do that the image is not God, is not omnipresent. After all, how much does omnipresence mean to almost the whole world? It stands merely as a word, a symbol. Has God superficial area? If not, when we repeat that word "omnipresent", we think of the extended sky or of space, that is all."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P248.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P248.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="As we find that somehow or other, by the laws of our mental constitution, we have to associate our ideas of infinity with the image of the blue sky, or of the sea, so we naturally connect our idea of holiness with the image of a church, a mosque, or a cross. The Hindus have associated the idea of holiness, purity, truth, omnipresence, and such other ideas with different images and forms. But with this difference that while some people devote their whole lives to their idol of a church and never rise higher, because with them religion means an intellectual assent to certainPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) fellows, the whole religion of the Hindu is centerd in realization. Man is to become divine by realizing the divine. Idols or temples or churches or books are only the supports, the helps, of his spiritual childhood: but on and on he must progress." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P248.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P248.jpeg" style="float:none;">
+<p>
+"As we find that somehow or other, by the laws of our mental constitution, we have to associate our ideas of infinity with the image of the blue sky, or of the sea, so we naturally connect our idea of holiness with the image of a church, a mosque, or a cross. The Hindus have associated the idea of holiness, purity, truth, omnipresence, and such other ideas with different images and forms. But with this difference that while some people devote their whole lives to their idol of a church and never rise higher, because with them religion means an intellectual assent to certain doctrines and doing good to their fellows, the whole religion of the Hindu is centerd in realization. Man is to become divine by realizing the divine. Idols or temples or churches or books are only the supports, the helps, of his spiritual childhood: but on and on he must progress."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P249.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P249.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content=""External worship, material worship," say the [Hindu] scriptures, "is the lowest stage; struggling to rise high, mental prayer is the next stage, but the highest stage is when the Lord has been realized." Mark, the same earnest man who is kneeling before the idol tells you, "Him the Sun cannot express, nor the moon, nor the stars, the lightning cannot express Him, nor what we speak of as fire; through Him they shine." But he does not abuse any one's idol or call its worship sin. He recognizes in it a necessary stage of life. "The child is father of the man." Would it be right for an old man to say that childhood is a sin or youth a sin <br> If a man can realize his divine nature with the help of an image, would it be right to call that a sin? Nor even when he has passed that stage, should he call it an error. To the Hindu, man is not travelling from error to truth, but from truth to truth, from lower to higher truth. To him all the religions, from the lowest fetishism to the highest absolutism, mean so many attempts of the human soul to grasp and realize the Infinite, each determined by the conditions of its birth and association, and each of these marks a stage of progress; and every soul is a young eagle soaring higher and higher, gathering more and more strength, till it reaches the Glorious Sun." />
+<meta property="og:image" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago).io/images/P249.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P249.jpeg" style="float:none;">
+<p>
+""External worship, material worship," say the [Hindu] scriptures, "is the lowest stage; struggling to rise high, mental prayer is the next stage, but the highest stage is when the Lord has been realized." Mark, the same earnest man who is kneeling before the idol tells you, "Him the Sun cannot express, nor the moon, nor the stars, the lightning cannot express Him, nor what we speak of as fire; through Him they shine." But he does not abuse any one's idol or call its worship sin. He recognizes in it a necessary stage of life. "The child is father of the man." Would it be right for an old man to say that childhood is a sin or youth a sin <br> If a man can realize his divine nature with the help of an image, would it be right to call that a sin? Nor even when he has passed that stage, should he call it an error. To the Hindu, man is not travelling from error to truth, but from truth to truth, from lower to higher truth. To him all the religions, from the lowest fetishism to the highest absolutism, mean so many attempts of the human soul to grasp and realize the Infinite, each determined by the conditions of its birth and association, and each of these marks a stage of progress; and every soul is a young eagle soaring higher and higher, gathering more and more strength, till it reaches the Glorious Sun."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P250.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P250.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Unity in variety is the plan of nature, and the Hindu has recognized it. Every other religion lays down certain fixed dogmas, and tries to force society to adopt them. It places before society only one coat which must fit Jack andPaper on Hinduism (Read At the World's Parliament of Religions, Chicago). If it does not fit John or Henry, he must go without a coat to cover his body. The Hindus have discovered that the absolute can only be realized, or thought of, or stated, through the relative, and the images, crosses, and crescents are simply so many symbols — so many pegs to hang the spiritual ideas on. It is not that this help is necessary for every one, but those that do not need it have no right to say that it is wrong. Nor is it compulsory in Hinduism." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P250.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P250.jpeg" style="float:none;">
+<p>
+"Unity in variety is the plan of nature, and the Hindu has recognized it. Every other religion lays down certain fixed dogmas, and tries to force society to adopt them. It places before society only one coat which must fit Jack and John and Henry, all alike. If it does not fit John or Henry, he must go without a coat to cover his body. The Hindus have discovered that the absolute can only be realized, or thought of, or stated, through the relative, and the images, crosses, and crescents are simply so many symbols — so many pegs to hang the spiritual ideas on. It is not that this help is necessary for every one, but those that do not need it have no right to say that it is wrong. Nor is it compulsory in Hinduism."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P251.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P251.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago). Idolatry in India does not mean anything horrible. It is not the mother of harlots. On the other hand, it is the attempt of undeveloped minds to grasp high spiritual truths. The Hindus have their faults, they sometimes have their exceptions; but mark this, they are always for punishing their own bodies, and never for cutting the throats of their neighbours. If the Hindu fanatic burns himself on the pyre, he never lights the fire of Inquisition. And even this cannot be laid at the door of his religion any more than the burning of witches can be laid at the door of Christianity." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P251.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P251.jpeg" style="float:none;">
+<p>
+"One thing I must tell you. Idolatry in India does not mean anything horrible. It is not the mother of harlots. On the other hand, it is the attempt of undeveloped minds to grasp high spiritual truths. The Hindus have their faults, they sometimes have their exceptions; but mark this, they are always for punishing their own bodies, and never for cutting the throats of their neighbours. If the Hindu fanatic burns himself on the pyre, he never lights the fire of Inquisition. And even this cannot be laid at the door of his religion any more than the burning of witches can be laid at the door of Christianity."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P252.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P252.jpeg" />
+<meta property="og:type" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago)="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="To the Hindu, then, the whole world of religions is only a travelling, a coming up, of different men and women, through various conditions and circumstances, to the same goal. Every religion is only evolving a God out of the material man, and the same God is the inspirer of all of them. Why, then, are there so many contradictions? They are only apparent, says the Hindu. The contradictions come from the same truth adapting itself to the varying circumstances of different natures." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P252.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P252.jpeg" style="float:none;">
+<p>
+"To the Hindu, then, the whole world of religions is only a travelling, a coming up, of different men and women, through various conditions and circumstances, to the same goal. Every religion is only evolving a God out of the material man, and the same God is the inspirer of all of them. Why, then, are there so many contradictions? They are only apparent, says the Hindu. The contradictions come from the same truth adapting itself to the varying circumstances of different natures."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P253.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P253.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago)" />
+<meta property="og:description" content="The Lord has declared to the Hindu in His incarnation as Krishna, "I am in every religion as the thread through a string of pearls. Wherever thou seest extraordinary holiness and extraordinary power raising and purifying humanity, know thou that I am there." And what has been the result? I challenge the world to find, throughout the whole system of Sanskrit philosophy, any such expression as that the Hindu alone will be saved and not others. Says Vyasa, "We find perfect men even beyond the pale of our caste and creed."" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P253.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P253.jpeg" style="float:none;">
+<p>
+"The Lord has declared to the Hindu in His incarnation as Krishna, "I am in every religion as the thread through a string of pearls. Wherever thou seest extraordinary holiness and extraordinary power raising and purifying humanity, know thou that I am there." And what has been the result? I challenge the world to find, throughout the whole system of Sanskrit philosophy, any such expression as that the Hindu alone will be saved and not others. Says Vyasa, "We find perfect men even beyond the pale of our caste and creed.""<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P254.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P254.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="...If there is ever to be a universal religion, it must be one which will have no location in place or time; which will be infinite like the God it will preach, and whose sun will shine upon the followers of Krishna and of Christ, on saints and sinners alike; which will not be Brahminic or Buddhistic, Christian or Mohammedan, but the sum total of all these, and still have infinite space for development; which in its catholicity will embrace in its infinite arms, and find a place for, every human being, from the lowest grovelling savage not far removed from the brute, to the highest man towering by the virtues of his head and heart almost above humanity, making society stand in awe of him and doubt his human nature. It will be a religion which will have no place for persecutionPaper on Hinduism (Read At the World's Parliament of Religions, Chicago) which will recognize divinity in every man and woman, and whose whole scope, whose whole force, will be created in aiding humanity to realize its own true, divine nature." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P254.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P254.jpeg" style="float:none;">
+<p>
+"...If there is ever to be a universal religion, it must be one which will have no location in place or time; which will be infinite like the God it will preach, and whose sun will shine upon the followers of Krishna and of Christ, on saints and sinners alike; which will not be Brahminic or Buddhistic, Christian or Mohammedan, but the sum total of all these, and still have infinite space for development; which in its catholicity will embrace in its infinite arms, and find a place for, every human being, from the lowest grovelling savage not far removed from the brute, to the highest man towering by the virtues of his head and heart almost above humanity, making society stand in awe of him and doubt his human nature. It will be a religion which will have no place for persecution or intolerance in its polity, which will recognize divinity in every man and woman, and whose whole scope, whose whole force, will be created in aiding humanity to realize its own true, divine nature."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P255.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P255.jpeg" />
+<meta property="og:type" content="Paper on Hinduism (Read At the World's Parliament of Religions, Chicago)="og:title" content="Karma in its Effect on Character" />
+<meta property="og:description" content="May He who is the Brahman of the Hindus, the Ahura-Mazda of the Zoroastrians, the Buddha of the Buddhists, the Jehovah of the Jews, the Father in Heaven of the Christians, give strength to you to carry out your noble idea! The star arose in the East; it travelled steadily towards the West, sometimes dimmed and sometimes effulgent, till it made a circuit of the world; and now it is again rising on the very horizon of the East, the borders of the Pacific, a thousandfold more effulgent than it ever was before." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P255.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P255.jpeg" style="float:none;">
+<p>
+"May He who is the Brahman of the Hindus, the Ahura-Mazda of the Zoroastrians, the Buddha of the Buddhists, the Jehovah of the Jews, the Father in Heaven of the Christians, give strength to you to carry out your noble idea! The star arose in the East; it travelled steadily towards the West, sometimes dimmed and sometimes effulgent, till it made a circuit of the world; and now it is again rising on the very horizon of the East, the borders of the Pacific, a thousandfold more effulgent than it ever was before."<br><br>
+- Swami Vivekananda, "Paper on Hinduism" (Read At the World's Parliament of Religions, Chicago, 19th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P256.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P256.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Religion not the Crying Need of India" />
+<meta property="og:description" content="It is an insult to a starving people to offer them religion; it is an insult to a starving man to teach him metaphysics." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P256.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P256.jpeg" style="float:none;">
+<p>
+"It is an insult to a starving people to offer them religion; it is an insult to a starving man to teach him metaphysics."<br><br>
+- Swami Vivekananda, "Religion not the Crying Need of India" (At the World's Parliament of Religions, Chicago, September 20, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P257.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P257.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Buddhism, the Fulfilment of Hinduism" />
+<meta property="og:description" content="The relation between Hinduism (by Hinduism, I mean the religion of the Vedas) and what is called Buddhism at the present day is nearly the same as between Judaism and Christianity. Jesus Christ was a Jew, and Shâkya Muni was a Hindu. The Jews rejected Jesus Christ, nay, crucified him, and the Hindus have accepted Shâkya Muni as God and worship him. But the real difference that we Hindus want to show between modern Buddhism and what we should understand as the teachings of Lord Buddha lies principally in this: Shâkya Muni came to preach nothing new. He also, like Jesus, came to fulfil and not to destroy. Only, in the case of Jesus, it was the old people, the Jews, who did not understand him, while in the case of Buddha, it was his own followers who did not realize the import of his teachings. As the Jew did not understand the fulfilment of the Old Testament, so the Buddhist did not understand the fulfilment of the truths of the Hindu religion. Again, I repeat, Shâkya Muni came not to d" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P257.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P257.jpeg" style="float:none;">
+<p>
+"The relation between Hinduism (by Hinduism, I mean the religion of the Vedas) and what is called Buddhism at the present day is nearly the same as between Judaism and Christianity. Jesus Christ was a Jew, and Shâkya Muni was a Hindu. The Jews rejected Jesus Christ, nay, crucified him, and the Hindus have accepted Shâkya Muni as God and worship him. But the real difference that we Hindus want to show between modern Buddhism and what we should understand as the teachings of Lord Buddha lies principally in this: Shâkya Muni came to preach nothing new. He also, like Jesus, came to fulfil and not to destroy. Only, in the case of Jesus, it was the old people, the Jews, who did not understand him, while in the case of Buddha, it was his own followers who did not realize the import of his teachings. As the Jew did not understand the fulfilment of the Old Testament, so the Buddhist did not understand the fulfilment of the truths of the Hindu religion. Again, I repeat, Shâkya Muni came not to d"<br><br>
+- Swami Vivekananda, "Buddhism, the Fulfilment of Hinduism" (At the World's Parliament of Religions, Chicago, 26th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P258.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P258.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Buddhism, the Fulfilment of Hinduism" />
+<meta property="og:description" content="The religion of the Hindus is divided into two parts: the ceremonial and the spiritual. The spiritual portion is specially studied by the monks. <br> In that there is no caste. A man from the highest caste and a man from the lowest may become a m" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P258.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P258.jpeg" style="float:none;">
+<p>
+"The religion of the Hindus is divided into two parts: the ceremonial and the spiritual. The spiritual portion is specially studied by the monks. <br> In that there is no caste. A man from the highest caste and a man from the lowest may become a m"<br><br>
+- Swami Vivekananda, "Buddhism, the Fulfilment of Hinduism" (At the World's Parliament of Religions, Chicago, 26th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P259.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P259.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Buddhism, the Fulfilment of Hinduism" />
+<meta property="og:description" content="Whatever may be the position of philosophy, whatever may be the position of metaphysics, so long as there is such a thing as death in the world, so long as there is such a thing as weakness in the human heart, so long as there is a cry going out of the heart of man in his very weakness, there shall be a faith in God. <br> On the philosophic side the disciples of the Great Master dashed themselves against the eternal rocks of the Vedas and could not crush them, and on the other side they took away from the nation that eternal God to which every one, man or woman, clings so fondly. And the result was that Buddhism had to die a natural death in India. At the present day there is not one who calls oneself a Buddhist in India, the land of its birth. <br> But at the same time, Brahminism lost something — that reforming zeal, that wonderful sympathy and charity for everybody, that wonderful heaven which Buddhism had brought to the masses and which had rendered Indian society so great that a Greek historian who wrote about India of that time was led to say that no Hindu was known to tell an untruth and no Hindu woman was known to be unchaste." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P259.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P259.jpeg" style="float:none;">
+<p>
+"Whatever may be the position of philosophy, whatever may be the position of metaphysics, so long as there is such a thing as death in the world, so long as there is such a thing as weakness in the human heart, so long as there is a cry going out of the heart of man in his very weakness, there shall be a faith in God. <br> On the philosophic side the disciples of the Great Master dashed themselves against the eternal rocks of the Vedas and could not crush them, and on the other side they took away from the nation that eternal God to which every one, man or woman, clings so fondly. And the result was that Buddhism had to die a natural death in India. At the present day there is not one who calls oneself a Buddhist in India, the land of its birth. <br> But at the same time, Brahminism lost something — that reforming zeal, that wonderful sympathy and charity for everybody, that wonderful heaven which Buddhism had brought to the masses and which had rendered Indian society so great that a Greek historian who wrote about India of that time was led to say that no Hindu was known to tell an untruth and no Hindu woman was known to be unchaste."<br><br>
+- Swami Vivekananda, "Buddhism, the Fulfilment of Hinduism" (At the World's Parliament of Religions, Chicago, 26th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P260.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P260.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Buddhism, the Fulfilment of Hinduism" />
+<meta property="og:description" content="Hinduism cannot live without Buddhism, nor Buddhism without Hinduism. Then realize what the separation has shown to us, that the Buddhists cannot stand without the brain and philosophy of the Brahmins, nor the Brahmin without the heart of the Buddhist. This separation between the Buddhists and the Brahmins is the cause of the downfall of India. That is why India is populated by three hundred millions of beggars, and that is why India has been the slave of conquerors for the last thousand years. Let us then join the wonderful intellect of the Brahmins with the heart, the noble soul, the wonderful humanising power of the Great Master." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P260.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P260.jpeg" style="float:none;">
+<p>
+"Hinduism cannot live without Buddhism, nor Buddhism without Hinduism. Then realize what the separation has shown to us, that the Buddhists cannot stand without the brain and philosophy of the Brahmins, nor the Brahmin without the heart of the Buddhist. This separation between the Buddhists and the Brahmins is the cause of the downfall of India. That is why India is populated by three hundred millions of beggars, and that is why India has been the slave of conquerors for the last thousand years. Let us then join the wonderful intellect of the Brahmins with the heart, the noble soul, the wonderful humanising power of the Great Master."<br><br>
+- Swami Vivekananda, "Buddhism, the Fulfilment of Hinduism" (At the World's Parliament of Religions, Chicago, 26th September, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P261.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P261.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Address at the Final Session (At the World's Parliament of Religions) />
+<meta property="og:description" content="Do I wish that the Christian would become Hindu? God forbid. Do I wish that the Hindu or Buddhist would become Christian? God forbid. <br> The seed is put in the ground, and earth and air and water are placed around it. Does the seed become the earth; or the air, or the water? No. It becomes a plant, it develops after the law of its own growth, assimilates the air, the earth, and the water, converts them into plant substance, and grows into a plant. <br> Similar is the case with religion. The Christian is not to become a Hindu or a Buddhist, nor a Hindu or a Buddhist to become a Christian. But each must assimilate the spirit of the others and yet preserve his individuality and grow according to his own law of growth." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P261.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P261.jpeg" style="float:none;">
+<p>
+"Do I wish that the Christian would become Hindu? God forbid. Do I wish that the Hindu or Buddhist would become Christian? God forbid. <br> The seed is put in the ground, and earth and air and water are placed around it. Does the seed become the earth; or the air, or the water? No. It becomes a plant, it develops after the law of its own growth, assimilates the air, the earth, and the water, converts them into plant substance, and grows into a plant. <br> Similar is the case with religion. The Christian is not to become a Hindu or a Buddhist, nor a Hindu or a Buddhist to become a Christian. But each must assimilate the spirit of the others and yet preserve his individuality and grow according to his own law of growth."<br><br>
+- Swami Vivekananda, "Address at the Final Session" (At the World's Parliament of Religions, Chicago, September 27, 1893), Addresses at The Parliament of Religions, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
 
 
 
