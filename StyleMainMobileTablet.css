@@ -135,13 +135,13 @@ body {
 
 .container .btn {
   position: absolute;
-  top: 5%;
-  left: 12.7%;
+  top: 4%;
+  left: 7%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #45bbff;
   color: white;
-  font-size: 10px;
+  font-size: 15px;
   padding: 10px 10px;
   border: none;
   cursor: pointer;
