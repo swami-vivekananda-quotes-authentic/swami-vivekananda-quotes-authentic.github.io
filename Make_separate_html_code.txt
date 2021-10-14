@@ -11200,6 +11200,436 @@ a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegr
 EOF
 
 
+cat > images/P291.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P291.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Control of Psychic Prana" />
+<meta property="og:description" content="[For pranayam or meditation] Sit upright; the body must be kept straight. The spinal cord, although not attached to the vertebral column, is yet inside of it. If you sit crookedly you disturb this spinal cord, so let it be free. Any time that you sit crookedly and try to meditate you do yourself an injury. The three parts of the body, the chest, the neck, and the head, must be always held straight in one line. You will find that by a little practice this will come to you as easy as breathing." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P291.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P291.jpeg" style="float:none;">
+<p>
+"[For pranayam or meditation] Sit upright; the body must be kept straight. The spinal cord, although not attached to the vertebral column, is yet inside of it. If you sit crookedly you disturb this spinal cord, so let it be free. Any time that you sit crookedly and try to meditate you do yourself an injury. The three parts of the body, the chest, the neck, and the head, must be always held straight in one line. You will find that by a little practice this will come to you as easy as breathing."<br><br>
+- Swami Vivekananda, "The Control of Psychic Prana" (Beginning raja yoga class, Jan 11, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P292.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P292.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Control of Psychic Prana" />
+<meta property="og:description" content="The first effect of this practice [rhythmic harmonic breathing] is perceived in the change of expression of one's face; harsh lines disappear; with calm thought calmness comes over the face. Next comes beautiful voice. I never saw a Yogi with a croaking voice. These signs come after a few months' practice. " />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P292.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P292.jpeg" style="float:none;">
+<p>
+"The first effect of this practice [rhythmic harmonic breathing] is perceived in the change of expression of one's face; harsh lines disappear; with calm thought calmness comes over the face. Next comes beautiful voice. I never saw a Yogi with a croaking voice. These signs come after a few months' practice. "<br><br>
+- Swami Vivekananda, "The Control of Psychic Prana" (Beginning raja yoga class, Jan 11, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P293.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P293.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Control of Psychic Prana" />
+<meta property="og:description" content="The Yogis claim that of all the energies that are in the human body the highest is what they call "Ojas". Now this Ojas is stored up in the brain, and the more Ojas is in a man's head, the more powerful he is, the more intellectual, the more spiritually strong. One man may speak beautiful language and beautiful thoughts, but they, do not impress people; another man speaks neither beautiful language nor beautiful thoughts, yet his words charm. Every movement of his is powerful. That is the power of Ojas. Now in every man there is more or less of this Ojas stored up. All the forces that are working in the body in their highest become Ojas. You must remember that it is only a question of transformation. The same force which is working outside as electricity or magnetism will become changed into inner force; the same forces that are working as muscular energy will be changed into Ojas." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P293.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P293.jpeg" style="float:none;">
+<p>
+"The Yogis claim that of all the energies that are in the human body the highest is what they call "Ojas". Now this Ojas is stored up in the brain, and the more Ojas is in a man's head, the more powerful he is, the more intellectual, the more spiritually strong. One man may speak beautiful language and beautiful thoughts, but they, do not impress people; another man speaks neither beautiful language nor beautiful thoughts, yet his words charm. Every movement of his is powerful. That is the power of Ojas. <br> Now in every man there is more or less of this Ojas stored up. All the forces that are working in the body in their highest become Ojas. You must remember that it is only a question of transformation. The same force which is working outside as electricity or magnetism will become changed into inner force; the same forces that are working as muscular energy will be changed into Ojas."<br><br>
+- Swami Vivekananda, "The Control of Psychic Prana" (Beginning raja yoga class, Jan 11, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P294.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P294.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Control of Psychic Prana" />
+<meta property="og:description" content="The Yogis say that that part of the human energy which is expressed as sex energy, in sexual thought, when checked and controlled, easily becomes changed into Ojas, and as the Muladhara guides these, the Yogi pays particular attention to that center. He tries to take up all his sexual energy and convert it into Ojas. It is only the chaste man or woman who can make the Ojas rise and store it in the brain; that is why chastity has always been considered the highest virtue. A man feels that if he is unchaste, spirituality goes away, he loses mental vigor and moral stamina. That is why in all the religious orders in the world which have produced spiritual giants you will always find absolute chastity insisted upon. That is why the monks came into existence, giving up marriage." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P294.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P294.jpeg" style="float:none;">
+<p>
+"The Yogis say that that part of the human energy which is expressed as sex energy, in sexual thought, when checked and controlled, easily becomes changed into Ojas, and as the Muladhara guides these, the Yogi pays particular attention to that center. He tries to take up all his sexual energy and convert it into Ojas. It is only the chaste man or woman who can make the Ojas rise and store it in the brain; that is why chastity has always been considered the highest virtue. A man feels that if he is unchaste, spirituality goes away, he loses mental vigor and moral stamina. That is why in all the religious orders in the world which have produced spiritual giants you will always find absolute chastity insisted upon. That is why the monks came into existence, giving up marriage."<br><br>
+- Swami Vivekananda, "The Control of Psychic Prana" (Beginning raja yoga class, Jan 11, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P295.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P295.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Control of Psychic Prana" />
+<meta property="og:description" content="There must be perfect chastity in thought, word, and deed; without it the practice of Raja-Yoga is dangerous, and may lead to insanity. If people practice Raja-Yoga and at the same time lead an impure life, how can they expect to become Yogis?" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P295.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P295.jpeg" style="float:none;">
+<p>
+"There must be perfect chastity in thought, word, and deed; without it the practice of Raja-Yoga is dangerous, and may lead to insanity. If people practice Raja-Yoga and at the same time lead an impure life, how can they expect to become Yogis?"<br><br>
+- Swami Vivekananda, "The Control of Psychic Prana" (Beginning raja yoga class, Jan 11, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+
+cat > images/P296.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P296.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pratyahara and Dharana" />
+<meta property="og:description" content="We hear "Be good," and "Be good," and "Be good," taught all over the world. There is hardly a child, born in any country in the world, who has not been told, "Do not steal," "Do not tell a lie," but nobody tells the child how he can help doing them. Talking will not help him. Why should he not become a thief? We do not teach him how not to steal; we simply tell him, "Do not steal." Only when we teach him to control his mind do we really help him. All actions, internal and external, occur when the mind joins itself to certain centers, called the organs. Willingly or unwillingly it is drawn to join itself to the centers, and that is why people do foolish deeds and feel miserable, which, if the mind were under control, they would not do. What would be the result of controlling the mind? It then would not join itself to the centers of perception, and, naturally, feeling and willing would be under control." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P296.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P296.jpeg" style="float:none;">
+<p>
+"We hear "Be good," and "Be good," and "Be good," taught all over the world. There is hardly a child, born in any country in the world, who has not been told, "Do not steal," "Do not tell a lie," but nobody tells the child how he can help doing them. Talking will not help him. Why should he not become a thief? We do not teach him how not to steal; we simply tell him, "Do not steal." Only when we teach him to control his mind do we really help him. All actions, internal and external, occur when the mind joins itself to certain centers, called the organs. Willingly or unwillingly it is drawn to join itself to the centers, and that is why people do foolish deeds and feel miserable, which, if the mind were under control, they would not do. What would be the result of controlling the mind? It then would not join itself to the centers of perception, and, naturally, feeling and willing would be under control."<br><br>
+- Swami Vivekananda, "Pratyahara and Dharana" (Beginning raja yoga class, Jan 18, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P297.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P297.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pratyahara and Dharana" />
+<meta property="og:description" content="The control of the centers which is established in a hypnotic patient or the patient of faith-healing, by the operator, for a time, is reprehensible, because it leads to ultimate ruin. It is not really controlling the brain centers by the power of one's own will, but is, as it were, stunning the patient's mind for a time by sudden blows which another's will delivers to it. It is not checking by means of reins and muscular strength the mad career of a fiery team, but rather by asking another to deliver heavy blows on the heads of the horses, to stun them for a time into gentleness. At each one of these processes the man operated upon loses a part of his mental energies, till at last, the mind, instead of gaining the power of perfect control, becomes a shapeless, powerless mass, and the only goal of the patient is the lunatic asylum." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P297.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P297.jpeg" style="float:none;">
+<p>
+"The control of the centers which is established in a hypnotic patient or the patient of faith-healing, by the operator, for a time, is reprehensible, because it leads to ultimate ruin. It is not really controlling the brain centers by the power of one's own will, but is, as it were, stunning the patient's mind for a time by sudden blows which another's will delivers to it. It is not checking by means of reins and muscular strength the mad career of a fiery team, but rather by asking another to deliver heavy blows on the heads of the horses, to stun them for a time into gentleness. At each one of these processes the man operated upon loses a part of his mental energies, till at last, the mind, instead of gaining the power of perfect control, becomes a shapeless, powerless mass, and the only goal of the patient is the lunatic asylum."<br><br>
+- Swami Vivekananda, "Pratyahara and Dharana" (Beginning raja yoga class, Jan 18, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P298.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P298.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pratyahara and Dharana" />
+<meta property="og:description" content="Every attempt at control which is not voluntary, not with the controller's own mind, is not only disastrous, but it defeats the end. The goal of each soul is freedom, mastery — freedom from the slavery of matter and thought, mastery of external and internal nature. Instead of leading towards that, every will-current from another, in whatever form it comes, either as direct control of organs, or as forcing to control them while under a morbid condition, only rivets one link more to the already existing heavy chain of bondage of past thoughts, past superstitions. Therefore, beware how you allow yourselves to be acted upon by others. Beware how you unknowingly bring another to ruin. True, some succeed in doing good to many for a time, by giving a new trend to their propensities, but at the same time, they bring ruin to millions by the unconscious suggestions they throw around, rousing in men and women that morbid, passive, hypnotic condition which makes them almost soulless at last. Whosoever, therefore, asks any one to believe blindly, or drags people behind him by the controlling power of his superior will, does an injury to humanity, though he may not intend it." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P298.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P298.jpeg" style="float:none;">
+<p>
+"Every attempt at control which is not voluntary, not with the controller's own mind, is not only disastrous, but it defeats the end. The goal of each soul is freedom, mastery — freedom from the slavery of matter and thought, mastery of external and internal nature. Instead of leading towards that, every will-current from another, in whatever form it comes, either as direct control of organs, or as forcing to control them while under a morbid condition, only rivets one link more to the already existing heavy chain of bondage of past thoughts, past superstitions. Therefore, beware how you allow yourselves to be acted upon by others. Beware how you unknowingly bring another to ruin. True, some succeed in doing good to many for a time, by giving a new trend to their propensities, but at the same time, they bring ruin to millions by the unconscious suggestions they throw around, rousing in men and women that morbid, passive, hypnotic condition which makes them almost soulless at last. Whosoever, therefore, asks any one to believe blindly, or drags people behind him by the controlling power of his superior will, does an injury to humanity, though he may not intend it."<br><br>
+- Swami Vivekananda, "Pratyahara and Dharana" (Beginning raja yoga class, Jan 18, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P299.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P299.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pratyahara and Dharana" />
+<meta property="og:description" content="Use your own minds, control body and mind yourselves, remember that until you are a diseased person, no extraneous will can work upon you; avoid everyone, however great and good he may be, who asks you to believe blindly. All over the world there have been dancing and jumping and howling sects, who spread like infection when they begin to sing and dance and preach; they also are a sort of hypnotists. They exercise a singular control for the time being oversensitive persons, alas! often, in the long run, to degenerate whole races. Ay, it is healthier for the individual or the race to remain wicked than be made apparently good by such morbid extraneous control. One's heart sinks to think of the amount of injury done to humanity by such irresponsible yet well-meaning religious fanatics. They little know that the minds which attain to sudden spiritual upheaval under their suggestions, with music and prayers, are simply making themselves passive, morbid, and powerless, and opening themselves to any other suggestion, be it ever so evil. Little do these ignorant, deluded persons dream that whilst they are congratulating themselves upon their miraculous power to transform human hearts, which power they think was poured upon them by some Being above the clouds, they are sowing the seeds of future decay, of crime, of lunacy, and of death. Therefore, beware of everything that takes away your freedom. Know that it is dangerous, and avoid it by all the means in your power." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P299.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P299.jpeg" style="float:none;">
+<p>
+"Use your own minds, control body and mind yourselves, remember that until you are a diseased person, no extraneous will can work upon you; avoid everyone, however great and good he may be, who asks you to believe blindly. All over the world there have been dancing and jumping and howling sects, who spread like infection when they begin to sing and dance and preach; they also are a sort of hypnotists. They exercise a singular control for the time being oversensitive persons, alas! often, in the long run, to degenerate whole races. Ay, it is healthier for the individual or the race to remain wicked than be made apparently good by such morbid extraneous control. One's heart sinks to think of the amount of injury done to humanity by such irresponsible yet well-meaning religious fanatics. They little know that the minds which attain to sudden spiritual upheaval under their suggestions, with music and prayers, are simply making themselves passive, morbid, and powerless, and opening themselves to any other suggestion, be it ever so evil. Little do these ignorant, deluded persons dream that whilst they are congratulating themselves upon their miraculous power to transform human hearts, which power they think was poured upon them by some Being above the clouds, they are sowing the seeds of future decay, of crime, of lunacy, and of death. Therefore, beware of everything that takes away your freedom. Know that it is dangerous, and avoid it by all the means in your power."<br><br>
+- Swami Vivekananda, "Pratyahara and Dharana" (Beginning raja yoga class, Jan 18, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P300.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P300.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pratyahara and Dharana" />
+<meta property="og:description" content="He who has succeeded in attaching or detaching his mind to or from the centers [organs of perception] at will has succeeded in Pratyahara, which means, "gathering towards," checking the outgoing powers of the mind, freeing it from the thralldom of the senses. When we can do this, we shall really possess character; then alone we shall have taken a long step towards freedom; before that we are mere machines." />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P300.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P300.jpeg" style="float:none;">
+<p>
+"He who has succeeded in attaching or detaching his mind to or from the centers [organs of perception] at will has succeeded in Pratyahara, which means, "gathering towards," checking the outgoing powers of the mind, freeing it from the thralldom of the senses. When we can do this, we shall really possess character; then alone we shall have taken a long step towards freedom; before that we are mere machines."<br><br>
+- Swami Vivekananda, "Pratyahara and Dharana" (Beginning raja yoga class, Jan 18, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
+cat > images/P301.html <<'EOF'  
+<html>
+<head>
+<script src="../BrowserDetectionSub.js"></script>
+<meta property="og:url" content="https://swami-vivekananda-quotes-authentic.github.io/images/P301.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pratyahara and Dharana" />
+<meta property="og:description" content="How hard it is to control the mind! Well has it been compared to the maddened monkey. There was a monkey, restless by his own nature, as all monkeys are. As if that were not enough someone made him drink freely of wine, so that he became still more restless. Then a scorpion stung him. When a man is stung by a scorpion, he jumps about for a whole day; so the poor monkey found his condition worse than ever. To complete his misery a demon entered into him. What language can describe the uncontrollable restlessness of that monkey? The human mind is like that monkey, incessantly active by its own nature; then it becomes drunk with the wine of desire, thus increasing its turbulence. After desire takes possession comes the sting of the scorpion of jealousy at the success of others, and last of all the demon of pride enters the mind, making it think itself of all importance. How hard to control such a mind!" />
+<meta property="og:image" content="https://swami-vivekananda-quotes-authentic.github.io/images/P301.jpeg" />
+</head>
+<body>
+<div class="navbar">
+  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="../CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
+  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fswamivivekanandaquotesauthentic%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
+<!-- Will not work in laptop. Will work in web. -->
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.overlays = a2a_config.overlays || [];
+a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<div class="wrapper">
+<div align="center"><img id="myImg" class="center" border="0" src="P301.jpeg" style="float:none;">
+<p>
+"How hard it is to control the mind! Well has it been compared to the maddened monkey. There was a monkey, restless by his own nature, as all monkeys are. As if that were not enough someone made him drink freely of wine, so that he became still more restless. Then a scorpion stung him. When a man is stung by a scorpion, he jumps about for a whole day; so the poor monkey found his condition worse than ever. To complete his misery a demon entered into him. What language can describe the uncontrollable restlessness of that monkey? The human mind is like that monkey, incessantly active by its own nature; then it becomes drunk with the wine of desire, thus increasing its turbulence. After desire takes possession comes the sting of the scorpion of jealousy at the success of others, and last of all the demon of pride enters the mind, making it think itself of all importance. How hard to control such a mind!"<br><br>
+- Swami Vivekananda, "Pratyahara and Dharana" (Beginning raja yoga class, Jan 18, 1896, New York), Raja Yoga, Complete Works: Vol 1
+</p>
+<hr style="width: 62%; border: 0.3px dotted aquamarine;">
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+EOF
+
+
 
 
 
