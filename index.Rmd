@@ -514,6 +514,12 @@ Every time you refresh the page, <b>9 randomly chosen quotes</b> will appear. Th
  contents[310]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P310.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P310.html"><button class="btn">Share</button><button class="btn2">Dhyana and Samadhi (Raja Yoga beginning)</button></a></div>'
  contents[311]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P311.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P311.html"><button class="btn">Share</button><button class="btn2">Dhyana and Samadhi (Raja Yoga beginning)</button></a></div>'
  contents[312]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P312.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P312.html"><button class="btn">Share</button><button class="btn2">Dhyana and Samadhi (Raja Yoga beginning)</button></a></div>'
+ contents[313]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P313.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P313.html"><button class="btn">Share</button><button class="btn2">Patanjali\'s Yoga Aphorisms: Introduction</button></a></div>'
+ contents[314]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P314.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P314.html"><button class="btn">Share</button><button class="btn2">Patanjali\'s Yoga Aphorisms: Introduction</button></a></div>'
+ contents[315]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P315.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P315.html"><button class="btn">Share</button><button class="btn2">Patanjali\'s Yoga Aphorisms: Introduction</button></a></div>'
+ contents[316]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P316.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P316.html"><button class="btn">Share</button><button class="btn2">Patanjali\'s Yoga Aphorisms: Introduction</button></a></div>'
+ contents[317]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P317.jpeg" style="width:575px;max-height:770px"><a target="_blank" href="images/P317.html"><button class="btn">Share</button><button class="btn2">Patanjali\'s Yoga Aphorisms: Introduction</button></a></div>'
+
 </script> 
 
 <script>
