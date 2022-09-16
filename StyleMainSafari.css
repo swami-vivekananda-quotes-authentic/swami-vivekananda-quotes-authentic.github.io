@@ -1,4 +1,3 @@
-
 /* ####################################################################### */
 /* This is the css style file to be used for index page for Safari browser */
 /* ####################################################################### */
@@ -62,7 +61,6 @@ body {
   min-height: 100%;
   z-index:-1;
 }
-
 .content {
   position: fixed;
   left: 0;
@@ -72,7 +70,6 @@ body {
   width: 5%;
   padding: 20px;
 }
-
 #myBtn {
   width: 60px;
   font-size: 12px;
@@ -123,26 +120,26 @@ body {
 
 .container {
   position: relative;
-  /*width: 90%;*/
-  max-width: 650px;
-  float:center;
-  height: 900px
+  width: 90%;
+  max-width: 355px;
+  float:left;
+  height: 580px
 }
 
 .container img {
-  width: 650px;
+  width: 355px;
   height: auto;
 }
 
 .container .btn {
   position: absolute;
-  top: 4%;
-  right: 7%;
+  top: 5%;
+  left: 12.7%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #45bbff;
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   padding: 10px 10px;
   border: none;
   cursor: pointer;
@@ -157,16 +154,16 @@ body {
 }
 
 .container .btn2 {
-  position: absolute;
-  top: 8%;
+  position: relative;
+  bottom: 20%;
   left: 16%;
-  width: 30%;
-  transform: translate(-150%, 30%);    /*this line is different from chrome browser*/
+  width: 95%;
+  transform: translate(-15%, 30%);    /*this line is different from chrome browser*/
   /*-ms-transform: translate(50%, 50%);*/
   background-color: white; /*#FBFBFD*/
   color: black;
-  font-size: 16px;
-  font-weight: 430;  /*this line is different from chrome browser*/
+  font-size: 15px;
+  font-weight: 430;
   padding: 0px 5px;
   border: none;
   cursor: pointer;
@@ -264,12 +261,6 @@ body {
     width: 100%;
   }
 }
-
-
-
-
-
-
 
 
 
