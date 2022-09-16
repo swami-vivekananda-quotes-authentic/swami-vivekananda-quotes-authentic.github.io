@@ -80,7 +80,7 @@ title: |
 
 
 
-<!-- Insert the navigation bar -->
+<!-- Navigation bar -->
 
 <div class="navbar">
   <a href="index.html"><img src="home.png" title="Home" width=35px></a>
@@ -131,7 +131,7 @@ title: |
 
 
 
-<!-- Insert the cover pic -->
+<!-- Cover pic -->
 
 <br>
 <div id="header" align="center">
@@ -151,7 +151,6 @@ title: |
 
 <p>&nbsp;</p>
 <hr>
-<p>&nbsp;</p>
 
 
 
@@ -159,8 +158,8 @@ title: |
 <!-- Introduction text -->
 
 <div align="center">
-<p style="width: 80%; font-size: 17px; color: #EE4B2B;"><i>
-Every time you refresh the page, <b>9 randomly chosen quotes</b> will appear. The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</i></p> 
+<p style="width: 70%; font-size: 17px; color: #000000;"><i>
+<b>9 randomly selected quotes</b> on every refresh.<br><br> <font size=2>The purpose of doing this page is to encourage everyone to share Vivekananda quotes with confirmed reference only. It is urged not to forward any unconfirmed quote in social media. Below, all the quotes are authentic Vivekananda quotes. Quotes will be added regularly. For a set of quotes falsely attributed to Vivekananda, see [here](falsequotes.html){target="\_blank"}.</font></i></p> 
 </div>
 
 <p>&nbsp;<br></p>
