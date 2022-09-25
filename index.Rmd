@@ -20,8 +20,6 @@ title: |
 --- -->
 
 
-
-
 <!-- Facebook Comments Plugin JavaScript SDK -->
 <div id="fb-root"></div>    
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="aBTZOgEr">
@@ -60,6 +58,7 @@ title: |
 
 
 <!-- Facebook Page plugin JavaScript SDK -->
+<!-- Get from https://developers.facebook.com/docs/plugins/page-plugin -->
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0&appId=127776775941065&autoLogAppEvents=1" nonce="3qh4ZVT3">
 </script>
@@ -94,7 +93,7 @@ title: |
   <a href="index.html"><img src="home.png" title="Home" width=35px></a>
   <a href="http://www.ramakrishnavivekananda.info/vivekananda/complete_works.htm" target="_blank"><img src="CW.png" title="Complete Works of Swami Vivekananda" width=50px></a>
   <!-- <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io%2F&layout=button_count&size=large&appId=127776775941065&width=102&height=28" width="102" height="28" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
-  <div class="fb-share-button" data-href="https://swami-vivekananda-quotes-authentic.github.io/" data-layout="button_count" data-size="large" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+  <div class="fb-share-button" data-href="https://www.facebook.com/swamivivekanandaquotesauthentic" data-layout="button_count" data-size="large" style="border:none;overflow:hidden;position:absolute;top:12px;right:15px"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fswami-vivekananda-quotes-authentic.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 </div>
 
 
@@ -616,13 +615,4 @@ title: |
 <hr><br>
 
 
-
-```{r, eval = F, include = F}
-  # Create Rmd html result
-  rm(list=ls())
-  dir = "/Users/nsanyal/Dropbox/MyPassport/Documents/GitHub/swami-vivekananda-quotes-authentic.github.io"
-  setwd(dir)
-  library(rmarkdown)
-  render( input="index.Rmd" )
-```
 
